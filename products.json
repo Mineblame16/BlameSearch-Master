@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "name": "Container Clear 8 Oz",
+    "description": "Lymphocyte depleted Hodgkin lymphoma",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 80
+  },
+  {
+    "id": 2,
+    "name": "Wanton Wrap",
+    "description": "Fall into natrl body of water strk side cause oth inj, subs",
+    "category": "Granite Surfaces",
+    "price": 59
+  },
+  {
+    "id": 3,
+    "name": "Appetizer - Spring Roll, Veg",
+    "description": "Serous choroidal detachment",
+    "category": "Ornamental Railings",
+    "price": 79
+  },
+  {
+    "id": 4,
+    "name": "Beef - Striploin",
+    "description": "Unsp pedal cyclist injured in collision w 2/3-whl mv in traf",
+    "category": "EIFS",
+    "price": 43
+  },
+  {
+    "id": 5,
+    "name": "Tray - Foam, Square 4 - S",
+    "description": "External constriction of right elbow",
+    "category": "Granite Surfaces",
+    "price": 33
+  },
+  {
+    "id": 6,
+    "name": "Cheese - Feta",
+    "description": "Unspecified subluxation of left ring finger",
+    "category": "Asphalt Paving",
+    "price": 57
+  },
+  {
+    "id": 7,
+    "name": "Fond - Neutral",
+    "description": "Fx r shoulder girdle, part unsp, subs for fx w routn heal",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 5
+  },
+  {
+    "id": 8,
+    "name": "Cheese - Colby",
+    "description": "Other injury of muscle, fascia and tendon of lower back",
+    "category": "Fire Protection",
+    "price": 39
+  },
+  {
+    "id": 9,
+    "name": "Champagne - Brights, Dry",
+    "description": "Bit/stung by nonvenom insect & oth nonvenom arthropods, init",
+    "category": "Site Furnishings",
+    "price": 68
+  },
+  {
+    "id": 10,
+    "name": "Wine - White, Lindemans Bin 95",
+    "description": "Unspecified open wound of penis",
+    "category": "Hard Tile & Stone",
+    "price": 83
+  },
+  {
+    "id": 11,
+    "name": "Kaffir Lime Leaves",
+    "description": "Displaced fracture of anterior process of left calcaneus",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 57
+  },
+  {
+    "id": 12,
+    "name": "Butter - Salted",
+    "description": "Burn of unspecified degree of unspecified wrist",
+    "category": "Casework",
+    "price": 66
+  },
+  {
+    "id": 13,
+    "name": "Flower - Potmums",
+    "description": "Displ oblique fx shaft of r femr, 7thJ",
+    "category": "Construction Clean and Final Clean",
+    "price": 45
+  },
+  {
+    "id": 14,
+    "name": "Salmon - Smoked, Sliced",
+    "description": "Pnctr w/o fb of left eyelid and periocular area, subs",
+    "category": "Landscaping & Irrigation",
+    "price": 41
+  },
+  {
+    "id": 15,
+    "name": "Onions - Vidalia",
+    "description": "Underachievement in school",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 72
+  },
+  {
+    "id": 16,
+    "name": "Chicken Breast Halal",
+    "description": "Acquired absence of knee",
+    "category": "Landscaping & Irrigation",
+    "price": 86
+  },
+  {
+    "id": 17,
+    "name": "Pear - Asian",
+    "description": "Occupant of rail trn/veh injured by fall in rail trn/veh",
+    "category": "Ornamental Railings",
+    "price": 77
+  },
+  {
+    "id": 18,
+    "name": "Shopper Bag - S - 4",
+    "description": "Other water transport accident",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 69
+  },
+  {
+    "id": 19,
+    "name": "Lidsoupcont Rp12dn",
+    "description": "Nondisp bimalleol fx r low leg, init for opn fx type 3A/B/C",
+    "category": "Roofing (Metal)",
+    "price": 73
+  },
+  {
+    "id": 20,
+    "name": "Lambcasing",
+    "description": "Unsp inj extn musc/fasc/tend r mid finger at forarm lv, sqla",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 51
+  },
+  {
+    "id": 21,
+    "name": "Wine - Red, Marechal Foch",
+    "description": "Crushed by crocodile, initial encounter",
+    "category": "Landscaping & Irrigation",
+    "price": 98
+  },
+  {
+    "id": 22,
+    "name": "Carbonated Water - Blackberry",
+    "description": "Allescheriasis",
+    "category": "Termite Control",
+    "price": 40
+  },
+  {
+    "id": 23,
+    "name": "Tequila - Sauza Silver",
+    "description": "Occlusion and stenosis of unspecified carotid artery",
+    "category": "Sitework & Site Utilities",
+    "price": 86
+  },
+  {
+    "id": 24,
+    "name": "Veal - Liver",
+    "description": "Toxic effect of venom of bees, intentional self-harm, subs",
+    "category": "Masonry & Precast",
+    "price": 37
+  },
+  {
+    "id": 25,
+    "name": "Bagel - Whole White Sesame",
+    "description": "Nondisp seg fx shaft of ulna, unsp arm, 7thJ",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 57
+  },
+  {
+    "id": 26,
+    "name": "Pectin",
+    "description": "Poisoning by unsp fibrin-affct drugs, accidental, init",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 74
+  },
+  {
+    "id": 27,
+    "name": "Stock - Beef, White",
+    "description": "War op w chem weapons and oth unconvtl warfare, milt, sqla",
+    "category": "Termite Control",
+    "price": 8
+  },
+  {
+    "id": 28,
+    "name": "Appetizer - Veg Assortment",
+    "description": "Other physeal fracture of lower end of unspecified femur",
+    "category": "Asphalt Paving",
+    "price": 3
+  },
+  {
+    "id": 29,
+    "name": "Coffee Cup 8oz 5338cd",
+    "description": "Hemiplegic migraine, not intractable, w status migrainosus",
+    "category": "Electrical and Fire Alarm",
+    "price": 6
+  },
+  {
+    "id": 30,
+    "name": "Quail - Jumbo Boneless",
+    "description": "Late vomiting of pregnancy",
+    "category": "Masonry",
+    "price": 47
+  },
+  {
+    "id": 31,
+    "name": "Wine - White Cab Sauv.on",
+    "description": "Unspecified injury of superior mesenteric vein",
+    "category": "Electrical",
+    "price": 14
+  },
+  {
+    "id": 32,
+    "name": "Milk - Condensed",
+    "description": "Nondisp fx of cuboid bone of unsp ft, subs for fx w nonunion",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 47
+  },
+  {
+    "id": 33,
+    "name": "Jam - Strawberry, 20 Ml Jar",
+    "description": "Disorder of ligament, left hand",
+    "category": "Asphalt Paving",
+    "price": 29
+  },
+  {
+    "id": 34,
+    "name": "Mints - Striped Red",
+    "description": "Unsp dislocation of unspecified acromioclavicular joint",
+    "category": "Overhead Doors",
+    "price": 23
+  },
+  {
+    "id": 35,
+    "name": "Wine - Zinfandel California 2002",
+    "description": "Lesion of femoral nerve, bilateral lower limbs",
+    "category": "Epoxy Flooring",
+    "price": 64
+  },
+  {
+    "id": 36,
+    "name": "Beef - Prime Rib Aaa",
+    "description": "Pathological fracture, left ulna, init encntr for fracture",
+    "category": "Soft Flooring and Base",
+    "price": 97
+  },
+  {
+    "id": 37,
+    "name": "Extract - Lemon",
+    "description": "Assault by paintball gun discharge, subsequent encounter",
+    "category": "Casework",
+    "price": 14
+  },
+  {
+    "id": 38,
+    "name": "Turnip - White, Organic",
+    "description": "Unspecified superficial injury of left ankle, subs encntr",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 30
+  },
+  {
+    "id": 39,
+    "name": "Tarts Assorted",
+    "description": "Benign neoplasm of left kidney",
+    "category": "Termite Control",
+    "price": 12
+  },
+  {
+    "id": 40,
+    "name": "Pastry - Trippleberry Muffin - Mini",
+    "description": "Superior glenoid labrum lesion of unspecified shoulder",
+    "category": "Epoxy Flooring",
+    "price": 12
+  },
+  {
+    "id": 41,
+    "name": "Pail - 4l White, With Handle",
+    "description": "Laceration without foreign body, right foot, subs encntr",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 4
+  },
+  {
+    "id": 42,
+    "name": "Soho Lychee Liqueur",
+    "description": "Nondisp suprcndl fx w intrcndl extn low end unsp femr, 7thD",
+    "category": "Framing (Steel)",
+    "price": 61
+  },
+  {
+    "id": 43,
+    "name": "Bread Base - Gold Formel",
+    "description": "Other physeal fracture of unspecified calcaneus",
+    "category": "Soft Flooring and Base",
+    "price": 52
+  },
+  {
+    "id": 44,
+    "name": "Veal - Osso Bucco",
+    "description": "Unspecified intracapsular fracture of left femur, sequela",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 25
+  },
+  {
+    "id": 45,
+    "name": "Wine - White, Pinot Grigio",
+    "description": "Supervision of young multigravida, first trimester",
+    "category": "Landscaping & Irrigation",
+    "price": 93
+  },
+  {
+    "id": 46,
+    "name": "Ostrich - Fan Fillet",
+    "description": "Complex tear of medial meniscus, current injury, unsp knee",
+    "category": "Ornamental Railings",
+    "price": 55
+  },
+  {
+    "id": 47,
+    "name": "Coffee Guatemala Dark",
+    "description": "Myelitis, unspecified",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 85
+  },
+  {
+    "id": 48,
+    "name": "Bread Foccacia Whole",
+    "description": "Ped w convey injured in collision w pedl cyc, unsp, subs",
+    "category": "Soft Flooring and Base",
+    "price": 74
+  },
+  {
+    "id": 49,
+    "name": "Flour - Whole Wheat",
+    "description": "Corrosion of second degree of right scapular region, sequela",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 22
+  },
+  {
+    "id": 50,
+    "name": "V8 - Vegetable Cocktail",
+    "description": "Puncture wound without foreign body, unsp hip, sequela",
+    "category": "Glass & Glazing",
+    "price": 72
+  },
+  {
+    "id": 51,
+    "name": "Sorrel - Fresh",
+    "description": "Other physeal fracture of upper end of left femur",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 43
+  },
+  {
+    "id": 52,
+    "name": "Pasta - Fettuccine, Egg, Fresh",
+    "description": "Other subluxation and dislocation of shoulder joint",
+    "category": "RF Shielding",
+    "price": 7
+  },
+  {
+    "id": 53,
+    "name": "Pate - Cognac",
+    "description": "Driver of bus injured pick-up truck, pk-up/van nontraf, subs",
+    "category": "Epoxy Flooring",
+    "price": 10
+  },
+  {
+    "id": 54,
+    "name": "Sauce - White, Mix",
+    "description": "Accidental malfunction of unspecified larger firearm",
+    "category": "Ornamental Railings",
+    "price": 77
+  },
+  {
+    "id": 55,
+    "name": "Cookies - Fortune",
+    "description": "Laceration of blood vessels at wrs/hnd lv of right arm, init",
+    "category": "Plumbing & Medical Gas",
+    "price": 48
+  },
+  {
+    "id": 56,
+    "name": "Pie Shell - 9",
+    "description": "Sltr-haris Type II physeal fracture of lower end of fibula",
+    "category": "Landscaping & Irrigation",
+    "price": 77
+  },
+  {
+    "id": 57,
+    "name": "Yogurt - Raspberry, 175 Gr",
+    "description": "Toxic effect of unspecified snake venom",
+    "category": "Fire Protection",
+    "price": 20
+  },
+  {
+    "id": 58,
+    "name": "Kellogs Cereal In A Cup",
+    "description": "Quad preg, unable to dtrm num plcnta & amnio sacs, third tri",
+    "category": "Wall Protection",
+    "price": 91
+  },
+  {
+    "id": 59,
+    "name": "Rosemary - Dry",
+    "description": "Sltr-haris Type I physeal fx phalanx of left toe, 7thP",
+    "category": "Elevator",
+    "price": 6
+  },
+  {
+    "id": 60,
+    "name": "Bacardi Breezer - Strawberry",
+    "description": "Sarcoma of dendritic cells (accessory cells)",
+    "category": "Glass & Glazing",
+    "price": 31
+  },
+  {
+    "id": 61,
+    "name": "Bread - 10 Grain Parisian",
+    "description": "Unspecified open wound, right foot, sequela",
+    "category": "Roofing (Metal)",
+    "price": 55
+  },
+  {
+    "id": 62,
+    "name": "Pasta - Fusili, Dry",
+    "description": "Other firearm discharge, undetermined intent, init encntr",
+    "category": "Marlite Panels (FED)",
+    "price": 54
+  },
+  {
+    "id": 63,
+    "name": "Filter - Coffee",
+    "description": "Oth fx shaft of unsp femr, 7thE",
+    "category": "Plumbing & Medical Gas",
+    "price": 46
+  },
+  {
+    "id": 64,
+    "name": "Wine - Barossa Valley Estate",
+    "description": "Laceration of axillary artery, right side, subs encntr",
+    "category": "RF Shielding",
+    "price": 65
+  },
+  {
+    "id": 65,
+    "name": "Star Anise, Whole",
+    "description": "Acute lymphangitis of trunk",
+    "category": "Wall Protection",
+    "price": 74
+  },
+  {
+    "id": 66,
+    "name": "Pie Shells 10",
+    "description": "Airway disease due to specific organic dust",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 46
+  },
+  {
+    "id": 67,
+    "name": "Oil - Peanut",
+    "description": "Unspecified injury of femoral artery, left leg",
+    "category": "Masonry",
+    "price": 46
+  },
+  {
+    "id": 68,
+    "name": "Wine - Alsace Riesling Reserve",
+    "description": "Exposure to ignition of plastic jewelry",
+    "category": "Site Furnishings",
+    "price": 79
+  },
+  {
+    "id": 69,
+    "name": "Squid - U - 10 Thailand",
+    "description": "Minor lacerat femor vein at hip and thi lev, right leg, init",
+    "category": "Site Furnishings",
+    "price": 40
+  },
+  {
+    "id": 70,
+    "name": "Wine - Hardys Bankside Shiraz",
+    "description": "Melanocytic nevi of unspecified part of face",
+    "category": "Granite Surfaces",
+    "price": 51
+  },
+  {
+    "id": 71,
+    "name": "Muffin Mix - Lemon Cranberry",
+    "description": "Poisoning by unsp general anesthetics, accidental, init",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 64
+  },
+  {
+    "id": 72,
+    "name": "Rice - Aborio",
+    "description": "Nondisp fx of cuboid bone of l foot, subs for fx w nonunion",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 82
+  },
+  {
+    "id": 73,
+    "name": "Bread - English Muffin",
+    "description": "Coma scale, eyes open, spontaneous, at hospital admission",
+    "category": "Framing (Wood)",
+    "price": 82
+  },
+  {
+    "id": 74,
+    "name": "Pork - Back, Short Cut, Boneless",
+    "description": "Sequelae of unspecified nutritional deficiency",
+    "category": "Wall Protection",
+    "price": 92
+  },
+  {
+    "id": 75,
+    "name": "Sauce - Roasted Red Pepper",
+    "description": "Allergic dermatitis of right upper eyelid",
+    "category": "Hard Tile & Stone",
+    "price": 97
+  },
+  {
+    "id": 76,
+    "name": "Truffle Cups - Brown",
+    "description": "Laceration of blood vessel of other and unspecified finger",
+    "category": "Plumbing & Medical Gas",
+    "price": 66
+  },
+  {
+    "id": 77,
+    "name": "Lamb - Ground",
+    "description": "Posterior dislocation of unspecified ulnohumeral joint",
+    "category": "Marlite Panels (FED)",
+    "price": 55
+  },
+  {
+    "id": 78,
+    "name": "Pastry - Trippleberry Muffin - Mini",
+    "description": "Presence of left artificial wrist joint",
+    "category": "Masonry & Precast",
+    "price": 4
+  },
+  {
+    "id": 79,
+    "name": "Chips - Assorted",
+    "description": "Prsn brd/alit a pedal cycle injured pick-up truck, pk-up/van",
+    "category": "Masonry & Precast",
+    "price": 99
+  },
+  {
+    "id": 80,
+    "name": "Praline Paste",
+    "description": "Drug/chem diabetes w neuro comp w diabetic mononeuropathy",
+    "category": "Asphalt Paving",
+    "price": 33
+  },
+  {
+    "id": 81,
+    "name": "Cookie Double Choco",
+    "description": "Unsp open wound of left index finger with damage to nail",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 44
+  },
+  {
+    "id": 82,
+    "name": "Wine - Chardonnay South",
+    "description": "Pnctr w/o fb of unsp toe(s) w/o damage to nail, init",
+    "category": "Sitework & Site Utilities",
+    "price": 81
+  },
+  {
+    "id": 83,
+    "name": "Creme De Banane - Marie",
+    "description": "Toxic effect of chewing tobacco, intentional self-harm, subs",
+    "category": "Overhead Doors",
+    "price": 39
+  },
+  {
+    "id": 84,
+    "name": "Sauce - Ranch Dressing",
+    "description": "Phlebitis and thombophlb of deep vessels of l low extrem",
+    "category": "Drilled Shafts",
+    "price": 97
+  },
+  {
+    "id": 85,
+    "name": "Alize Red Passion",
+    "description": "Posterior dislocation of right acromioclavicular joint, init",
+    "category": "Soft Flooring and Base",
+    "price": 14
+  },
+  {
+    "id": 86,
+    "name": "Grapefruit - Pink",
+    "description": "Sltr-haris Type IV physl fx low end humer, l arm, 7thP",
+    "category": "Exterior Signage",
+    "price": 90
+  },
+  {
+    "id": 87,
+    "name": "Juice - Propel Sport",
+    "description": "Corrosion of first degree of female genital region, sequela",
+    "category": "Masonry & Precast",
+    "price": 53
+  },
+  {
+    "id": 88,
+    "name": "Doilies - 5, Paper",
+    "description": "Superficial mycosis, unspecified",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 18
+  },
+  {
+    "id": 89,
+    "name": "Rice Paper",
+    "description": "Lack of adequate food and safe drinking water",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 40
+  },
+  {
+    "id": 90,
+    "name": "Pears - Bosc",
+    "description": "Other specified diseases of the digestive system",
+    "category": "Hard Tile & Stone",
+    "price": 60
+  },
+  {
+    "id": 91,
+    "name": "Pail - 4l White, With Handle",
+    "description": "Hormones and their synthetic substitutes and antag, NEC",
+    "category": "Doors, Frames & Hardware",
+    "price": 2
+  },
+  {
+    "id": 92,
+    "name": "Tomatoes - Plum, Canned",
+    "description": "Athscl unsp type bypass of extrm w intrmt claud, oth extrm",
+    "category": "Fire Protection",
+    "price": 69
+  },
+  {
+    "id": 93,
+    "name": "Rabbit - Frozen",
+    "description": "Oth disp fx of base of 1st MC bone, unsp hand, 7thD",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 97
+  },
+  {
+    "id": 94,
+    "name": "Cattail Hearts",
+    "description": "Burn of unspecified degree of right toe(s) (nail)",
+    "category": "Landscaping & Irrigation",
+    "price": 59
+  },
+  {
+    "id": 95,
+    "name": "Anisette - Mcguiness",
+    "description": "Torus fx upper end of l humerus, subs for fx w delay heal",
+    "category": "Electrical and Fire Alarm",
+    "price": 95
+  },
+  {
+    "id": 96,
+    "name": "Schnappes Peppermint - Walker",
+    "description": "Person injured wh brd/alit from oth sp off-rd mv",
+    "category": "Roofing (Asphalt)",
+    "price": 63
+  },
+  {
+    "id": 97,
+    "name": "Pork Loin Cutlets",
+    "description": "Occup of pk-up/van injured in collision w unsp mv in traf",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 25
+  },
+  {
+    "id": 98,
+    "name": "Truffle Cups - Brown",
+    "description": "Non-prs chr ulc unsp prt of unsp low leg w fat layer exposed",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 79
+  },
+  {
+    "id": 99,
+    "name": "Milk - 1%",
+    "description": "Aneurysmal bone cyst, shoulder",
+    "category": "Masonry",
+    "price": 68
+  },
+  {
+    "id": 100,
+    "name": "Apple - Northern Spy",
+    "description": "Unsp injury at C3 level of cervical spinal cord, init encntr",
+    "category": "Granite Surfaces",
+    "price": 70
+  },
+  {
+    "id": 101,
+    "name": "Sea Bass - Whole",
+    "description": "Alcohol abuse with alcohol-induced psychotic disorder",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 50
+  },
+  {
+    "id": 102,
+    "name": "Cheese - Romano, Grated",
+    "description": "Disp fx of olecran pro w/o intartic extn l ulna, 7thG",
+    "category": "Waterproofing & Caulking",
+    "price": 37
+  },
+  {
+    "id": 103,
+    "name": "Pineapple - Golden",
+    "description": "Idiopathic gout, left shoulder",
+    "category": "Electrical",
+    "price": 39
+  },
+  {
+    "id": 104,
+    "name": "Beef - Tenderlion, Center Cut",
+    "description": "Contact with kitchen utensil, initial encounter",
+    "category": "EIFS",
+    "price": 80
+  },
+  {
+    "id": 105,
+    "name": "Cheese - Le Cru Du Clocher",
+    "description": "Blister (nonthermal) of unsp external genital organs, female",
+    "category": "Fire Protection",
+    "price": 37
+  },
+  {
+    "id": 106,
+    "name": "Creme De Banane - Marie",
+    "description": "Injury of visual cortex, left eye, sequela",
+    "category": "EIFS",
+    "price": 73
+  },
+  {
+    "id": 107,
+    "name": "Bulgar",
+    "description": "Poisn by antihyperlip and antiarterio drugs, self-harm, subs",
+    "category": "Masonry",
+    "price": 95
+  },
+  {
+    "id": 108,
+    "name": "Energy - Boo - Koo",
+    "description": "Juvenile dermatopolymyositis with other organ involvement",
+    "category": "Landscaping & Irrigation",
+    "price": 8
+  },
+  {
+    "id": 109,
+    "name": "Gelatine Leaves - Bulk",
+    "description": "Nondisp fx of lateral condyle of r femr, 7thG",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 23
+  },
+  {
+    "id": 110,
+    "name": "Soda Water - Club Soda, 355 Ml",
+    "description": "Displ transverse fx shaft of l rad, 7thG",
+    "category": "Waterproofing & Caulking",
+    "price": 100
+  },
+  {
+    "id": 111,
+    "name": "Tart Shells - Savory, 3",
+    "description": "Sternal manubrial dissociation, subs for fx w routn heal",
+    "category": "Exterior Signage",
+    "price": 16
+  },
+  {
+    "id": 112,
+    "name": "Coffee - Dark Roast",
+    "description": "Trench fever",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 73
+  },
+  {
+    "id": 113,
+    "name": "Lamb - Pieces, Diced",
+    "description": "Inj flexor musc/fasc/tend finger at wrs/hnd lv, init",
+    "category": "Doors, Frames & Hardware",
+    "price": 73
+  },
+  {
+    "id": 114,
+    "name": "Wine - Champagne Brut Veuve",
+    "description": "Nondisp fx of proximal phalanx of unspecified finger",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 64
+  },
+  {
+    "id": 115,
+    "name": "Coffee - Decafenated",
+    "description": "Dislocation of T12/L1 thoracic vertebra, initial encounter",
+    "category": "Epoxy Flooring",
+    "price": 86
+  },
+  {
+    "id": 116,
+    "name": "Jam - Raspberry",
+    "description": "Hypoplastic right heart syndrome",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 56
+  },
+  {
+    "id": 117,
+    "name": "Plasticspoonblack",
+    "description": "Gastrointestinal anthrax",
+    "category": "Electrical",
+    "price": 43
+  },
+  {
+    "id": 118,
+    "name": "Rice - Basmati",
+    "description": "Legal intervention involving other gas, suspect injured",
+    "category": "HVAC",
+    "price": 73
+  },
+  {
+    "id": 119,
+    "name": "Tuna - Bluefin",
+    "description": "Unsp open wound of oth finger w damage to nail, init encntr",
+    "category": "Fire Protection",
+    "price": 15
+  },
+  {
+    "id": 120,
+    "name": "Sesame Seed Black",
+    "description": "Type 1 diabetes with stable prolif diabetic rtnop, unsp",
+    "category": "Construction Clean and Final Clean",
+    "price": 30
+  },
+  {
+    "id": 121,
+    "name": "Pepper - Green Thai",
+    "description": "Unsp fx head of unsp femur, subs for clos fx w delay heal",
+    "category": "Overhead Doors",
+    "price": 87
+  },
+  {
+    "id": 122,
+    "name": "Walkers Special Old Whiskey",
+    "description": "Encounter for adjustment and management of cardiac device",
+    "category": "Masonry",
+    "price": 69
+  },
+  {
+    "id": 123,
+    "name": "Galliano",
+    "description": "Corrosion of first degree of unspecified ear, sequela",
+    "category": "Site Furnishings",
+    "price": 88
+  },
+  {
+    "id": 124,
+    "name": "Table Cloth 120 Round White",
+    "description": "Oligospermia due to systemic disease",
+    "category": "Site Furnishings",
+    "price": 24
+  },
+  {
+    "id": 125,
+    "name": "Uniform Linen Charge",
+    "description": "Poisoning by other opioids, intentional self-harm, sequela",
+    "category": "Plumbing & Medical Gas",
+    "price": 48
+  },
+  {
+    "id": 126,
+    "name": "Beer - Heinekin",
+    "description": "Post-traumatic headache, unspecified",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 27
+  },
+  {
+    "id": 127,
+    "name": "C - Plus, Orange",
+    "description": "Nondisp fx of proximal phalanx of left lesser toe(s), init",
+    "category": "Granite Surfaces",
+    "price": 74
+  },
+  {
+    "id": 128,
+    "name": "Salad Dressing",
+    "description": "Corrosion of first degree of forearm",
+    "category": "Doors, Frames & Hardware",
+    "price": 19
+  },
+  {
+    "id": 129,
+    "name": "Lemon Pepper",
+    "description": "Other intraretinal microvascular abnormalities",
+    "category": "Epoxy Flooring",
+    "price": 82
+  },
+  {
+    "id": 130,
+    "name": "Chef Hat 20cm",
+    "description": "Other sprain of right middle finger, initial encounter",
+    "category": "Epoxy Flooring",
+    "price": 39
+  },
+  {
+    "id": 131,
+    "name": "Beef - Kindney, Whole",
+    "description": "Corrosion of third degree of unspecified thigh",
+    "category": "Framing (Wood)",
+    "price": 16
+  },
+  {
+    "id": 132,
+    "name": "Vinegar - Rice",
+    "description": "Jump/div from boat striking water surface causing oth injury",
+    "category": "Framing (Steel)",
+    "price": 77
+  },
+  {
+    "id": 133,
+    "name": "Soupcontfoam16oz 116con",
+    "description": "Contact with knife",
+    "category": "Site Furnishings",
+    "price": 60
+  },
+  {
+    "id": 134,
+    "name": "Sauce - Hp",
+    "description": "Other congenital malformations of abdominal wall",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 52
+  },
+  {
+    "id": 135,
+    "name": "Ecolab - Ster Bac",
+    "description": "Displaced spiral fx shaft of humerus, left arm, sequela",
+    "category": "Electrical",
+    "price": 92
+  },
+  {
+    "id": 136,
+    "name": "Sugar - Monocystal / Rock",
+    "description": "Sprain of calcaneofibular ligament of unsp ankle, sequela",
+    "category": "Roofing (Asphalt)",
+    "price": 77
+  },
+  {
+    "id": 137,
+    "name": "Yeast - Fresh, Fleischman",
+    "description": "Burn of third degree of unspecified ear, sequela",
+    "category": "Roofing (Asphalt)",
+    "price": 40
+  },
+  {
+    "id": 138,
+    "name": "Tart - Raisin And Pecan",
+    "description": "Other superficial bite of left thigh, initial encounter",
+    "category": "Waterproofing & Caulking",
+    "price": 15
+  },
+  {
+    "id": 139,
+    "name": "Olives - Green, Pitted",
+    "description": "Nondisp longitud fx unsp patella, 7thG",
+    "category": "Framing (Wood)",
+    "price": 95
+  },
+  {
+    "id": 140,
+    "name": "Caviar - Salmon",
+    "description": "Underdosing of antimalari/drugs acting on bld protzoa, subs",
+    "category": "HVAC",
+    "price": 97
+  },
+  {
+    "id": 141,
+    "name": "Beans - Black Bean, Canned",
+    "description": "Epidural hemorrhage w LOC of 1-5 hrs 59 min, init",
+    "category": "Ornamental Railings",
+    "price": 73
+  },
+  {
+    "id": 142,
+    "name": "Lamb - Shoulder, Boneless",
+    "description": "Concussion and edema of cervical spinal cord, init encntr",
+    "category": "Landscaping & Irrigation",
+    "price": 54
+  },
+  {
+    "id": 143,
+    "name": "Salt - Kosher",
+    "description": "Oth place in children's home and orphanage as place",
+    "category": "Ornamental Railings",
+    "price": 7
+  },
+  {
+    "id": 144,
+    "name": "Wine - Red, Black Opal Shiraz",
+    "description": "Nondisp fx of lateral cuneiform of unsp ft, init for opn fx",
+    "category": "Framing (Wood)",
+    "price": 63
+  },
+  {
+    "id": 145,
+    "name": "Wine - White, Colubia Cresh",
+    "description": "Sltr-haris Type I physl fx upr end r fibula, 7thK",
+    "category": "Fire Protection",
+    "price": 18
+  },
+  {
+    "id": 146,
+    "name": "Tea - Decaf 1 Cup",
+    "description": "Breakdown of esophageal anti-reflux device, init",
+    "category": "Electrical and Fire Alarm",
+    "price": 40
+  },
+  {
+    "id": 147,
+    "name": "Schnappes Peppermint - Walker",
+    "description": "Nondisp fx of l radial styloid pro, 7thC",
+    "category": "HVAC",
+    "price": 11
+  },
+  {
+    "id": 148,
+    "name": "Sugar - Brown, Individual",
+    "description": "Encounter for administrative examinations, unspecified",
+    "category": "Doors, Frames & Hardware",
+    "price": 56
+  },
+  {
+    "id": 149,
+    "name": "Table Cloth 54x54 Colour",
+    "description": "Hypertrophy of bone, femur",
+    "category": "Casework",
+    "price": 2
+  },
+  {
+    "id": 150,
+    "name": "Tea - Decaf Lipton",
+    "description": "Derang of unsp medial mensc due to old tear/inj, unsp knee",
+    "category": "Roofing (Metal)",
+    "price": 48
+  },
+  {
+    "id": 151,
+    "name": "Chicken - White Meat With Tender",
+    "description": "Corrosion of first degree of neck, initial encounter",
+    "category": "Sitework & Site Utilities",
+    "price": 68
+  },
+  {
+    "id": 152,
+    "name": "Shrimp - Black Tiger 6 - 8",
+    "description": "Insect bite (nonvenomous) of vagina and vulva, sequela",
+    "category": "Casework",
+    "price": 71
+  },
+  {
+    "id": 153,
+    "name": "Wine - Mas Chicet Rose, Vintage",
+    "description": "Corrosion of third degree of unspecified elbow",
+    "category": "Roofing (Metal)",
+    "price": 30
+  },
+  {
+    "id": 154,
+    "name": "Vodka - Hot, Lnferno",
+    "description": "Toxic effect of tobacco and nicotine, intentional self-harm",
+    "category": "HVAC",
+    "price": 34
+  },
+  {
+    "id": 155,
+    "name": "Pasta - Spaghetti, Dry",
+    "description": "Subluxation stenosis of neural canal of cervical region",
+    "category": "Exterior Signage",
+    "price": 19
+  },
+  {
+    "id": 156,
+    "name": "Pastry - Baked Scones - Mini",
+    "description": "Injury of trochlear nerve, unspecified side, subs encntr",
+    "category": "Site Furnishings",
+    "price": 23
+  },
+  {
+    "id": 157,
+    "name": "Wine - Cotes Du Rhone",
+    "description": "Displacement (lateral) of globe, left eye",
+    "category": "Fire Protection",
+    "price": 69
+  },
+  {
+    "id": 158,
+    "name": "Bagel - Everything",
+    "description": "Toxic effect of beryllium and its compounds, acc, init",
+    "category": "Termite Control",
+    "price": 47
+  },
+  {
+    "id": 159,
+    "name": "Rabbit - Legs",
+    "description": "Other specified injuries of right ankle, subs encntr",
+    "category": "Site Furnishings",
+    "price": 26
+  },
+  {
+    "id": 160,
+    "name": "Quail Eggs - Canned",
+    "description": "Underdosing of mineralocorticoids and their antag, sequela",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 62
+  },
+  {
+    "id": 161,
+    "name": "Glass Clear 8 Oz",
+    "description": "Lacerat extn musc/fasc/tend r mid finger at wrs/hnd lv, sqla",
+    "category": "Hard Tile & Stone",
+    "price": 91
+  },
+  {
+    "id": 162,
+    "name": "Pork - Bacon, Sliced",
+    "description": "Diffuse TBI w loss of consciousness of 31-59 min, sequela",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 45
+  },
+  {
+    "id": 163,
+    "name": "Taro Root",
+    "description": "Oth speech/lang deficits following oth ntrm intcrn hemor",
+    "category": "Waterproofing & Caulking",
+    "price": 5
+  },
+  {
+    "id": 164,
+    "name": "Lettuce - Sea / Sea Asparagus",
+    "description": "Injury of unspecified uterine vein",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 44
+  },
+  {
+    "id": 165,
+    "name": "Flower - Dish Garden",
+    "description": "Complication of continent stoma of urinary tract",
+    "category": "Landscaping & Irrigation",
+    "price": 40
+  },
+  {
+    "id": 166,
+    "name": "Cheese - Feta",
+    "description": "Displ commnt fx shaft of l fibula, 7thG",
+    "category": "Elevator",
+    "price": 86
+  },
+  {
+    "id": 167,
+    "name": "Wine - Red, Gallo, Merlot",
+    "description": "Pressure ulcer of right hip, unspecified stage",
+    "category": "Marlite Panels (FED)",
+    "price": 40
+  },
+  {
+    "id": 168,
+    "name": "Ice - Clear, 300 Lb For Carving",
+    "description": "Unspecified acquired deformity of right thigh",
+    "category": "Electrical",
+    "price": 39
+  },
+  {
+    "id": 169,
+    "name": "Venison - Striploin",
+    "description": "Burn of first degree of right knee",
+    "category": "Roofing (Asphalt)",
+    "price": 75
+  },
+  {
+    "id": 170,
+    "name": "Cinnamon Buns Sticky",
+    "description": "Person injured wh brd/alit from snowmobile, subs",
+    "category": "Framing (Steel)",
+    "price": 6
+  },
+  {
+    "id": 171,
+    "name": "Bread - Granary Small Pull",
+    "description": "Poisoning by rifampicins, undetermined, initial encounter",
+    "category": "Doors, Frames & Hardware",
+    "price": 89
+  },
+  {
+    "id": 172,
+    "name": "Nut - Almond, Blanched, Sliced",
+    "description": "Strain of extn musc/fasc/tend at forarm lv, unsp arm, init",
+    "category": "Construction Clean and Final Clean",
+    "price": 75
+  },
+  {
+    "id": 173,
+    "name": "Yams",
+    "description": "Milt op w unsp fire/conflagr/hot subst, civilian, subs",
+    "category": "Framing (Wood)",
+    "price": 20
+  },
+  {
+    "id": 174,
+    "name": "Veal - Slab Bacon",
+    "description": "Disp fx of less trochanter of unsp femr, 7thR",
+    "category": "Fire Sprinkler System",
+    "price": 38
+  },
+  {
+    "id": 175,
+    "name": "Shrimp - Black Tiger 13/15",
+    "description": "Other premature separation of placenta",
+    "category": "Framing (Steel)",
+    "price": 75
+  },
+  {
+    "id": 176,
+    "name": "Bread Roll Foccacia",
+    "description": "Pathological fracture, right ankle, subs for fx w nonunion",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 1
+  },
+  {
+    "id": 177,
+    "name": "Juice - Prune",
+    "description": "Human metapneumovirus pneumonia",
+    "category": "Framing (Steel)",
+    "price": 24
+  },
+  {
+    "id": 178,
+    "name": "Hipnotiq Liquor",
+    "description": "Matern care for disproprtn d/t outlet contrctn of pelv, oth",
+    "category": "Casework",
+    "price": 20
+  },
+  {
+    "id": 179,
+    "name": "Island Oasis - Strawberry",
+    "description": "Subluxation and dislocation of other carpometacarpal joint",
+    "category": "Granite Surfaces",
+    "price": 48
+  },
+  {
+    "id": 180,
+    "name": "Tomato Puree",
+    "description": "Maternal care for fetal problem, unsp, third tri, fetus 4",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 88
+  },
+  {
+    "id": 181,
+    "name": "Paper Towel Touchless",
+    "description": "Unsp disp fx of surg neck of r humer, subs for fx w malunion",
+    "category": "Overhead Doors",
+    "price": 52
+  },
+  {
+    "id": 182,
+    "name": "Wine - Stoneliegh Sauvignon",
+    "description": "Mech compl of unspecified internal joint prosthesis",
+    "category": "RF Shielding",
+    "price": 9
+  },
+  {
+    "id": 183,
+    "name": "Shrimp - 150 - 250",
+    "description": "Ped w convey injured in collision w pedl cyc in traf, init",
+    "category": "Curb & Gutter",
+    "price": 58
+  },
+  {
+    "id": 184,
+    "name": "Mushroom - Enoki, Fresh",
+    "description": "Unsp fracture of l low leg, subs for clos fx w delay heal",
+    "category": "Waterproofing & Caulking",
+    "price": 60
+  },
+  {
+    "id": 185,
+    "name": "Juice - Propel Sport",
+    "description": "Gastric contents in bronchus causing oth injury, subs encntr",
+    "category": "Roofing (Metal)",
+    "price": 81
+  },
+  {
+    "id": 186,
+    "name": "Leeks - Baby, White",
+    "description": "Bent bone of right ulna, init for opn fx type I/2",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 39
+  },
+  {
+    "id": 187,
+    "name": "Cheese - Valancey",
+    "description": "Poisoning by benzodiazepines, undetermined",
+    "category": "EIFS",
+    "price": 9
+  },
+  {
+    "id": 188,
+    "name": "Schnappes Peppermint - Walker",
+    "description": "Cntct w hot heating appliances, radiators and pipes, sequela",
+    "category": "Masonry & Precast",
+    "price": 17
+  },
+  {
+    "id": 189,
+    "name": "Doilies - 5, Paper",
+    "description": "Oth injury of unspecified tibial artery, unspecified leg",
+    "category": "Termite Control",
+    "price": 65
+  },
+  {
+    "id": 190,
+    "name": "Figs",
+    "description": "Subluxation of T6/T7 thoracic vertebra, subsequent encounter",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 65
+  },
+  {
+    "id": 191,
+    "name": "Puff Pastry - Sheets",
+    "description": "Toxic effect of venom of tarantula, assault, sequela",
+    "category": "Hard Tile & Stone",
+    "price": 91
+  },
+  {
+    "id": 192,
+    "name": "Wine - Casillero Del Diablo",
+    "description": "War op w oth effects of nuclear weapons, civilian, subs",
+    "category": "Granite Surfaces",
+    "price": 24
+  },
+  {
+    "id": 193,
+    "name": "Wine - Montecillo Rioja Crianza",
+    "description": "Unspecified injury of dorsal vein of left foot, sequela",
+    "category": "Glass & Glazing",
+    "price": 69
+  },
+  {
+    "id": 194,
+    "name": "Pears - Bosc",
+    "description": "Oth comp specific to multiple gest, unsp trimester, fetus 3",
+    "category": "Roofing (Metal)",
+    "price": 39
+  },
+  {
+    "id": 195,
+    "name": "Apricots - Dried",
+    "description": "Sltr-haris Type II physl fx low end ulna, l arm, 7thP",
+    "category": "Curb & Gutter",
+    "price": 31
+  },
+  {
+    "id": 196,
+    "name": "Lotus Leaves",
+    "description": "Blood donor",
+    "category": "Construction Clean and Final Clean",
+    "price": 86
+  },
+  {
+    "id": 197,
+    "name": "Papadam",
+    "description": "Unsp pedl cyclst injured in clsn w statnry object nontraf",
+    "category": "Drilled Shafts",
+    "price": 40
+  },
+  {
+    "id": 198,
+    "name": "Hipnotiq Liquor",
+    "description": "Spond in diseases classd elswhr, thoracolumbar region",
+    "category": "Wall Protection",
+    "price": 27
+  },
+  {
+    "id": 199,
+    "name": "Pasta - Shells, Medium, Dry",
+    "description": "Poisoning by hemostatic drug, intentional self-harm, sequela",
+    "category": "Roofing (Metal)",
+    "price": 20
+  },
+  {
+    "id": 200,
+    "name": "Cake Circle, Foil, Scallop",
+    "description": "Disseminated cryptococcosis",
+    "category": "Asphalt Paving",
+    "price": 79
+  },
+  {
+    "id": 201,
+    "name": "Asparagus - Mexican",
+    "description": "Displaced transverse fracture of shaft of unsp radius, init",
+    "category": "Structural & Misc Steel Erection",
+    "price": 62
+  },
+  {
+    "id": 202,
+    "name": "Pork - European Side Bacon",
+    "description": "Disp fx of lateral malleolus of r fibula, 7thJ",
+    "category": "Elevator",
+    "price": 64
+  },
+  {
+    "id": 203,
+    "name": "Container - Clear 32 Oz",
+    "description": "Nondisp comminuted fx shaft of ulna, right arm, init",
+    "category": "RF Shielding",
+    "price": 43
+  },
+  {
+    "id": 204,
+    "name": "Soda Water - Club Soda, 355 Ml",
+    "description": "LeFort I fracture, subs for fx w routn heal",
+    "category": "Fire Protection",
+    "price": 17
+  },
+  {
+    "id": 205,
+    "name": "Amaretto",
+    "description": "Atresia of vas deferens",
+    "category": "Exterior Signage",
+    "price": 3
+  },
+  {
+    "id": 206,
+    "name": "Milk - Condensed",
+    "description": "Burn of first degree of scalp, subsequent encounter",
+    "category": "Roofing (Asphalt)",
+    "price": 1
+  },
+  {
+    "id": 207,
+    "name": "Lychee - Canned",
+    "description": "War operations involving explosion of torpedo, milt, subs",
+    "category": "EIFS",
+    "price": 10
+  },
+  {
+    "id": 208,
+    "name": "Mangoes",
+    "description": "Other diseases of salivary glands",
+    "category": "Masonry & Precast",
+    "price": 90
+  },
+  {
+    "id": 209,
+    "name": "Tomatoes - Vine Ripe, Red",
+    "description": "Age-rel osteopor w crnt path fx, l low leg, 7thD",
+    "category": "Framing (Wood)",
+    "price": 44
+  },
+  {
+    "id": 210,
+    "name": "Pepper - Green, Chili",
+    "description": "Contusion of unsp finger with damage to nail, subs encntr",
+    "category": "Roofing (Asphalt)",
+    "price": 85
+  },
+  {
+    "id": 211,
+    "name": "Appetizer - Cheese Bites",
+    "description": "Unsp mtrcy rider injured in collision w 2/3-whl mv nontraf",
+    "category": "Framing (Wood)",
+    "price": 36
+  },
+  {
+    "id": 212,
+    "name": "Papadam",
+    "description": "Undrdose of unsp drugs aff the autonm nervous sys, sequela",
+    "category": "HVAC",
+    "price": 98
+  },
+  {
+    "id": 213,
+    "name": "Bread - Crusty Italian Poly",
+    "description": "Unspecified dislocation of unspecified thumb, init encntr",
+    "category": "Soft Flooring and Base",
+    "price": 5
+  },
+  {
+    "id": 214,
+    "name": "Quail - Jumbo Boneless",
+    "description": "Crushing injury of unspecified forearm, subsequent encounter",
+    "category": "Masonry & Precast",
+    "price": 9
+  },
+  {
+    "id": 215,
+    "name": "Salmon - Whole, 4 - 6 Pounds",
+    "description": "Histrionic personality disorder",
+    "category": "Masonry",
+    "price": 26
+  },
+  {
+    "id": 216,
+    "name": "Pie Shell - 5",
+    "description": "Corrosion of unspecified degree of left shoulder, sequela",
+    "category": "Granite Surfaces",
+    "price": 64
+  },
+  {
+    "id": 217,
+    "name": "Quiche Assorted",
+    "description": "Acute pyelonephritis",
+    "category": "Construction Clean and Final Clean",
+    "price": 62
+  },
+  {
+    "id": 218,
+    "name": "Olives - Stuffed",
+    "description": "Carcinoma in situ of liver, gallbladder and bile ducts",
+    "category": "Masonry",
+    "price": 33
+  },
+  {
+    "id": 219,
+    "name": "Bar Mix - Lime",
+    "description": "Oth fx shaft of unsp tibia, 7thN",
+    "category": "Curb & Gutter",
+    "price": 38
+  },
+  {
+    "id": 220,
+    "name": "Bread - Bistro White",
+    "description": "Nondisp intertroch fx l femr, 7thH",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 44
+  },
+  {
+    "id": 221,
+    "name": "Venison - Ground",
+    "description": "Nondisp subtrochnt fx r femr, 7thN",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 5
+  },
+  {
+    "id": 222,
+    "name": "Soup - Campbells Mushroom",
+    "description": "Exposure to smoke in uncontrolled fire in bldg, sequela",
+    "category": "Construction Clean and Final Clean",
+    "price": 70
+  },
+  {
+    "id": 223,
+    "name": "Soup - Campbells, Classic Chix",
+    "description": "Burn of third degree of right thumb (nail), subs encntr",
+    "category": "Ornamental Railings",
+    "price": 74
+  },
+  {
+    "id": 224,
+    "name": "Tea - Black Currant",
+    "description": "Burn of unspecified degree of right ear, sequela",
+    "category": "EIFS",
+    "price": 20
+  },
+  {
+    "id": 225,
+    "name": "Garlic",
+    "description": "Spinal instabilities, cervicothoracic region",
+    "category": "Ornamental Railings",
+    "price": 8
+  },
+  {
+    "id": 226,
+    "name": "Bread - Crumbs, Bulk",
+    "description": "Contus/lac left cerebrum w LOC >24 hr w ret consc lev, init",
+    "category": "Framing (Steel)",
+    "price": 75
+  },
+  {
+    "id": 227,
+    "name": "Yogurt - Strawberry, 175 Gr",
+    "description": "Maternal care for excess fetal growth, first tri, fetus 2",
+    "category": "Marlite Panels (FED)",
+    "price": 58
+  },
+  {
+    "id": 228,
+    "name": "Cheese - Gouda",
+    "description": "Other respiratory disorders",
+    "category": "Glass & Glazing",
+    "price": 20
+  },
+  {
+    "id": 229,
+    "name": "Sage - Fresh",
+    "description": "Oth diab with mod nonp rtnop without macular edema, l eye",
+    "category": "Framing (Wood)",
+    "price": 41
+  },
+  {
+    "id": 230,
+    "name": "Turkey - Breast, Bone - In",
+    "description": "ABO isoimmunization of newborn",
+    "category": "Sitework & Site Utilities",
+    "price": 94
+  },
+  {
+    "id": 231,
+    "name": "Glass Clear 8 Oz",
+    "description": "Assault by steam or hot vapors, sequela",
+    "category": "Fire Protection",
+    "price": 40
+  },
+  {
+    "id": 232,
+    "name": "Sauce - Vodka Blush",
+    "description": "Disp fx of prox phalanx of left less toe(s), init for opn fx",
+    "category": "Waterproofing & Caulking",
+    "price": 79
+  },
+  {
+    "id": 233,
+    "name": "Vanilla Beans",
+    "description": "Nondisp fx of less trochanter of unsp femr, 7thF",
+    "category": "Exterior Signage",
+    "price": 22
+  },
+  {
+    "id": 234,
+    "name": "Toothpick Frilled",
+    "description": "Unsp accident to commrcl fix-wing aircraft injuring occupant",
+    "category": "Marlite Panels (FED)",
+    "price": 92
+  },
+  {
+    "id": 235,
+    "name": "Chicken - Wings, Tip Off",
+    "description": "Disp fx of r ulna styloid process, init for opn fx type I/2",
+    "category": "Structural & Misc Steel Erection",
+    "price": 87
+  },
+  {
+    "id": 236,
+    "name": "Cake - Mini Cheesecake",
+    "description": "Underdosing of antihyperlip and antiarterio drugs, sequela",
+    "category": "Asphalt Paving",
+    "price": 15
+  },
+  {
+    "id": 237,
+    "name": "Ice Cream Bar - Drumstick",
+    "description": "Struck by tennis racquet",
+    "category": "Framing (Wood)",
+    "price": 57
+  },
+  {
+    "id": 238,
+    "name": "Contreau",
+    "description": "Pathological fracture, unsp toe(s), subs for fx w nonunion",
+    "category": "Framing (Steel)",
+    "price": 42
+  },
+  {
+    "id": 239,
+    "name": "Shrimp - 31/40",
+    "description": "Adhes due to fb acc left in body fol kidney dialysis, sqla",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 47
+  },
+  {
+    "id": 240,
+    "name": "Island Oasis - Cappucino Mix",
+    "description": "Malar fracture, unspecified side",
+    "category": "Drilled Shafts",
+    "price": 85
+  },
+  {
+    "id": 241,
+    "name": "Marjoram - Dried, Rubbed",
+    "description": "Unspecified Zone II fracture of sacrum, sequela",
+    "category": "Overhead Doors",
+    "price": 67
+  },
+  {
+    "id": 242,
+    "name": "Ice Cream Bar - Oreo Sandwich",
+    "description": "Ntrm subarach hemorrhage from right middle cerebral artery",
+    "category": "Site Furnishings",
+    "price": 71
+  },
+  {
+    "id": 243,
+    "name": "Sugar - Brown",
+    "description": "Adjustment disorder w mixed disturb of emotions and conduct",
+    "category": "Roofing (Asphalt)",
+    "price": 93
+  },
+  {
+    "id": 244,
+    "name": "Nestea - Iced Tea",
+    "description": "Disp fx of distal phalanx of unsp lesser toe(s), init",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 93
+  },
+  {
+    "id": 245,
+    "name": "Syrup - Monin - Granny Smith",
+    "description": "Cataract extraction status, right eye",
+    "category": "Roofing (Asphalt)",
+    "price": 24
+  },
+  {
+    "id": 246,
+    "name": "Crackers - Melba Toast",
+    "description": "Blister of left eyelid and periocular area, subs",
+    "category": "Construction Clean and Final Clean",
+    "price": 64
+  },
+  {
+    "id": 247,
+    "name": "Flour - Chickpea",
+    "description": "External constriction, left ankle, subsequent encounter",
+    "category": "Roofing (Metal)",
+    "price": 99
+  },
+  {
+    "id": 248,
+    "name": "Cranberries - Fresh",
+    "description": "Supervision of young multigravida",
+    "category": "Curb & Gutter",
+    "price": 91
+  },
+  {
+    "id": 249,
+    "name": "Mushroom - Chantrelle, Fresh",
+    "description": "Asphyxiation due to hanging, undetermined, sequela",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 38
+  },
+  {
+    "id": 250,
+    "name": "Beer - Pilsner Urquell",
+    "description": "Burn of third degree of left upper arm, sequela",
+    "category": "Granite Surfaces",
+    "price": 97
+  },
+  {
+    "id": 251,
+    "name": "Macaroons - Homestyle Two Bit",
+    "description": "Dislocation of internal left hip prosthesis, subs encntr",
+    "category": "Asphalt Paving",
+    "price": 91
+  },
+  {
+    "id": 252,
+    "name": "Energy Drink - Franks Pineapple",
+    "description": "Pressure ulcer of right upper back",
+    "category": "HVAC",
+    "price": 16
+  },
+  {
+    "id": 253,
+    "name": "Stock - Beef, Brown",
+    "description": "Other calcification of muscle, right thigh",
+    "category": "Landscaping & Irrigation",
+    "price": 74
+  },
+  {
+    "id": 254,
+    "name": "Soup - Campbells Mushroom",
+    "description": "Encounter for screening for other metabolic disorders",
+    "category": "Exterior Signage",
+    "price": 56
+  },
+  {
+    "id": 255,
+    "name": "Asparagus - Frozen",
+    "description": "Osteopathy in diseases classd elswhr, right ankle and foot",
+    "category": "Epoxy Flooring",
+    "price": 92
+  },
+  {
+    "id": 256,
+    "name": "Sugar - Brown",
+    "description": "War op involving explosion of aerial bomb, civilian, sequela",
+    "category": "Electrical",
+    "price": 1
+  },
+  {
+    "id": 257,
+    "name": "Vanilla Beans",
+    "description": "Disp fx of medial cuneiform of right foot, init for opn fx",
+    "category": "Fire Protection",
+    "price": 38
+  },
+  {
+    "id": 258,
+    "name": "Shark - Loin",
+    "description": "Personal history of sex reassignment",
+    "category": "Roofing (Metal)",
+    "price": 93
+  },
+  {
+    "id": 259,
+    "name": "Turkey - Breast, Boneless Sk On",
+    "description": "Presence of artificial larynx",
+    "category": "Landscaping & Irrigation",
+    "price": 72
+  },
+  {
+    "id": 260,
+    "name": "Wine - Muscadet Sur Lie",
+    "description": "Pasngr in 3-whl mv injured in clsn w nonmtr vehicle in traf",
+    "category": "Electrical and Fire Alarm",
+    "price": 63
+  },
+  {
+    "id": 261,
+    "name": "C - Plus, Orange",
+    "description": "Oth complication of other internal prosth dev/grft, sequela",
+    "category": "Plumbing & Medical Gas",
+    "price": 43
+  },
+  {
+    "id": 262,
+    "name": "Chocolate - Semi Sweet",
+    "description": "Pedal cycle rider injured in collision w statnry object",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 58
+  },
+  {
+    "id": 263,
+    "name": "Marsala - Sperone, Fine, D.o.c.",
+    "description": "Varicose veins of lower extremities with ulcer",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 49
+  },
+  {
+    "id": 264,
+    "name": "Beets - Golden",
+    "description": "Unspecified systolic (congestive) heart failure",
+    "category": "Electrical",
+    "price": 34
+  },
+  {
+    "id": 265,
+    "name": "Champagne - Brights, Dry",
+    "description": "Nondisp seg fx shaft of unsp tibia, 7thG",
+    "category": "Site Furnishings",
+    "price": 18
+  },
+  {
+    "id": 266,
+    "name": "Lemonade - Island Tea, 591 Ml",
+    "description": "Unsp intcrn inj w LOC w death d/t oth cause bf consc, subs",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 72
+  },
+  {
+    "id": 267,
+    "name": "Radish",
+    "description": "Displaced fracture of neck of unspecified talus, sequela",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 32
+  },
+  {
+    "id": 268,
+    "name": "Allspice - Jamaican",
+    "description": "Passenger on bus injured in clsn w ped/anml in traf, sequela",
+    "category": "Elevator",
+    "price": 27
+  },
+  {
+    "id": 269,
+    "name": "Crackers - Soda / Saltins",
+    "description": "Cyclic neutropenia",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 84
+  },
+  {
+    "id": 270,
+    "name": "Cake - Box Window 10x10x2.5",
+    "description": "Laceration w fb of l little finger w/o damage to nail",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 75
+  },
+  {
+    "id": 271,
+    "name": "Pate - Cognac",
+    "description": "Fracture of first metatarsal bone",
+    "category": "Roofing (Asphalt)",
+    "price": 56
+  },
+  {
+    "id": 272,
+    "name": "Wakami Seaweed",
+    "description": "Bennett's fracture, unspecified hand, sequela",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 68
+  },
+  {
+    "id": 273,
+    "name": "Wine - Manischewitz Concord",
+    "description": "Adverse effect of methadone, initial encounter",
+    "category": "Site Furnishings",
+    "price": 63
+  },
+  {
+    "id": 274,
+    "name": "Wine - Beaujolais Villages",
+    "description": "Toxic effects of chlorofluorocarbons",
+    "category": "Doors, Frames & Hardware",
+    "price": 42
+  },
+  {
+    "id": 275,
+    "name": "Pork - Ground",
+    "description": "Oth nondisp fx of 1st cervcal vert, subs for fx w routn heal",
+    "category": "Soft Flooring and Base",
+    "price": 72
+  },
+  {
+    "id": 276,
+    "name": "Cheese - Colby",
+    "description": "Striking against or struck by other sports equipment",
+    "category": "Overhead Doors",
+    "price": 38
+  },
+  {
+    "id": 277,
+    "name": "Beer - Sleemans Cream Ale",
+    "description": "Ciguatera fish poisoning, undetermined, subsequent encounter",
+    "category": "Construction Clean and Final Clean",
+    "price": 29
+  },
+  {
+    "id": 278,
+    "name": "Scampi Tail",
+    "description": "Obstructed labor due to oth malpos and malpresent, fetus 5",
+    "category": "Elevator",
+    "price": 13
+  },
+  {
+    "id": 279,
+    "name": "Pepper - Green Thai",
+    "description": "Twin pregnancy, monochorionic/diamniotic, third trimester",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 42
+  },
+  {
+    "id": 280,
+    "name": "Momiji Oroshi Chili Sauce",
+    "description": "Unsp physeal fracture of upper end of radius, left arm",
+    "category": "Landscaping & Irrigation",
+    "price": 47
+  },
+  {
+    "id": 281,
+    "name": "Beets",
+    "description": "Disp fx of med condyle of l tibia, 7thM",
+    "category": "HVAC",
+    "price": 17
+  },
+  {
+    "id": 282,
+    "name": "Wine - Marlbourough Sauv Blanc",
+    "description": "Adverse effect of other vaccines and biological substances",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 68
+  },
+  {
+    "id": 283,
+    "name": "Pie Shell - 5",
+    "description": "Displaced spiral fracture of shaft of unspecified fibula",
+    "category": "Soft Flooring and Base",
+    "price": 72
+  },
+  {
+    "id": 284,
+    "name": "Pork - Tenderloin, Frozen",
+    "description": "Nicotine dependence",
+    "category": "Drilled Shafts",
+    "price": 5
+  },
+  {
+    "id": 285,
+    "name": "Pasta - Fettuccine, Egg, Fresh",
+    "description": "Oth nondisp fx of lower end of left humerus, init for opn fx",
+    "category": "Fire Protection",
+    "price": 97
+  },
+  {
+    "id": 286,
+    "name": "Sauce - Vodka Blush",
+    "description": "Ulnar collateral ligament sprain of unspecified elbow",
+    "category": "Landscaping & Irrigation",
+    "price": 54
+  },
+  {
+    "id": 287,
+    "name": "White Fish - Filets",
+    "description": "Extramedullary plasmacytoma in relapse",
+    "category": "Structural & Misc Steel Erection",
+    "price": 79
+  },
+  {
+    "id": 288,
+    "name": "Cheese - Pied De Vents",
+    "description": "Frostbite with tissue necrosis of left foot, subs encntr",
+    "category": "Wall Protection",
+    "price": 70
+  },
+  {
+    "id": 289,
+    "name": "Sobe - Cranberry Grapefruit",
+    "description": "Unspecified injury of diaphragm, subsequent encounter",
+    "category": "Site Furnishings",
+    "price": 60
+  },
+  {
+    "id": 290,
+    "name": "Wine - Zinfandel Rosenblum",
+    "description": "Laceration with foreign body, unspecified hip, subs encntr",
+    "category": "Structural & Misc Steel Erection",
+    "price": 62
+  },
+  {
+    "id": 291,
+    "name": "Soup - Campbells Tomato Ravioli",
+    "description": "Nondisp fx of proximal phalanx of right great toe, init",
+    "category": "Masonry & Precast",
+    "price": 24
+  },
+  {
+    "id": 292,
+    "name": "Wine - Magnotta, White",
+    "description": "Breakdown of urinary electronic stimulator device",
+    "category": "HVAC",
+    "price": 37
+  },
+  {
+    "id": 293,
+    "name": "Lentils - Green Le Puy",
+    "description": "Chronic allergic otitis media, unspecified ear",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 92
+  },
+  {
+    "id": 294,
+    "name": "Amarula Cream",
+    "description": "Burn third degree of head, face, and neck, unsp site, subs",
+    "category": "Termite Control",
+    "price": 45
+  },
+  {
+    "id": 295,
+    "name": "Wine - Red, Concha Y Toro",
+    "description": "Torus fx upper end of unsp tibia, subs for fx w delay heal",
+    "category": "Glass & Glazing",
+    "price": 85
+  },
+  {
+    "id": 296,
+    "name": "Ham - Cooked",
+    "description": "Poisoning by emetics, intentional self-harm, sequela",
+    "category": "Plumbing & Medical Gas",
+    "price": 12
+  },
+  {
+    "id": 297,
+    "name": "Melon - Honey Dew",
+    "description": "Nondisp fx of trapezium, unsp wrist, init for clos fx",
+    "category": "Landscaping & Irrigation",
+    "price": 16
+  },
+  {
+    "id": 298,
+    "name": "Vodka - Smirnoff",
+    "description": "Stress fracture, unsp foot, subs for fx w routn heal",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 76
+  },
+  {
+    "id": 299,
+    "name": "Wine - Mondavi Coastal Private",
+    "description": "Pathological fracture, left humerus, subs for fx w nonunion",
+    "category": "Plumbing & Medical Gas",
+    "price": 55
+  },
+  {
+    "id": 300,
+    "name": "Truffle Cups - Brown",
+    "description": "Contusion of unsp finger without damage to nail, subs encntr",
+    "category": "Drilled Shafts",
+    "price": 62
+  },
+  {
+    "id": 301,
+    "name": "Mustard - Dijon",
+    "description": "Nondisp spiral fx shaft of r tibia, 7thP",
+    "category": "Masonry",
+    "price": 70
+  },
+  {
+    "id": 302,
+    "name": "Clams - Bay",
+    "description": "Monoarthritis, not elsewhere classified, left knee",
+    "category": "Electrical and Fire Alarm",
+    "price": 59
+  },
+  {
+    "id": 303,
+    "name": "Chinese Foods - Cantonese",
+    "description": "Other specified chromosome abnormalities",
+    "category": "Overhead Doors",
+    "price": 64
+  },
+  {
+    "id": 304,
+    "name": "Praline Paste",
+    "description": "Torus fx upper end of right tibia, subs for fx w routn heal",
+    "category": "Roofing (Metal)",
+    "price": 60
+  },
+  {
+    "id": 305,
+    "name": "Flour - Teff",
+    "description": "Lead-induced chronic gout, unspecified elbow, with tophus",
+    "category": "Wall Protection",
+    "price": 68
+  },
+  {
+    "id": 306,
+    "name": "Lady Fingers",
+    "description": "Hereditary and idiopathic neuropathy",
+    "category": "Ornamental Railings",
+    "price": 47
+  },
+  {
+    "id": 307,
+    "name": "Bread Foccacia Whole",
+    "description": "Complete lesion of L3 level of lumbar spinal cord, subs",
+    "category": "Soft Flooring and Base",
+    "price": 78
+  },
+  {
+    "id": 308,
+    "name": "Cookie - Oreo 100x2",
+    "description": "Unsp traum displ spondylolysis of fourth cervcal vert, sqla",
+    "category": "Electrical and Fire Alarm",
+    "price": 17
+  },
+  {
+    "id": 309,
+    "name": "Appetizer - Lobster Phyllo Roll",
+    "description": "Displaced bicondylar fx l tibia, subs for clos fx w nonunion",
+    "category": "Glass & Glazing",
+    "price": 45
+  },
+  {
+    "id": 310,
+    "name": "Lid - High Heat, Super Clear",
+    "description": "Adverse effect of otorhino drugs and preparations, sequela",
+    "category": "Electrical and Fire Alarm",
+    "price": 77
+  },
+  {
+    "id": 311,
+    "name": "Nantucket - Kiwi Berry Cktl.",
+    "description": "Corrosion of second degree of left foot, sequela",
+    "category": "Fire Protection",
+    "price": 39
+  },
+  {
+    "id": 312,
+    "name": "Soup - Boston Clam Chowder",
+    "description": "Poisoning by coronary vasodilators, undetermined, sequela",
+    "category": "Granite Surfaces",
+    "price": 81
+  },
+  {
+    "id": 313,
+    "name": "Pastry - French Mini Assorted",
+    "description": "Open bite of lip, subsequent encounter",
+    "category": "Plumbing & Medical Gas",
+    "price": 25
+  },
+  {
+    "id": 314,
+    "name": "Zucchini - Mini, Green",
+    "description": "Displaced transcondylar fracture of unsp humerus, sequela",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 60
+  },
+  {
+    "id": 315,
+    "name": "Nantucket - Carrot Orange",
+    "description": "Matern care for disproprtn d/t unusually large fetus, fts4",
+    "category": "Plumbing & Medical Gas",
+    "price": 25
+  },
+  {
+    "id": 316,
+    "name": "Dill Weed - Dry",
+    "description": "Poisoning by antiparkns drug/centr musc-tone depr, acc",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 76
+  },
+  {
+    "id": 317,
+    "name": "Mini - Vol Au Vents",
+    "description": "Flat foot [pes planus] (acquired), left foot",
+    "category": "Hard Tile & Stone",
+    "price": 90
+  },
+  {
+    "id": 318,
+    "name": "Coffee - Decafenated",
+    "description": "Family history of other specified eye disorder",
+    "category": "Roofing (Asphalt)",
+    "price": 64
+  },
+  {
+    "id": 319,
+    "name": "Wine - Casablanca Valley",
+    "description": "Drug-induced gout, vertebrae",
+    "category": "Framing (Wood)",
+    "price": 1
+  },
+  {
+    "id": 320,
+    "name": "Coffee - Ristretto Coffee Capsule",
+    "description": "Insect bite (nonvenomous) of unspecified ear, init encntr",
+    "category": "Masonry",
+    "price": 20
+  },
+  {
+    "id": 321,
+    "name": "Wine - Red, Black Opal Shiraz",
+    "description": "Other superficial bite of right lesser toe(s), subs encntr",
+    "category": "Masonry",
+    "price": 95
+  },
+  {
+    "id": 322,
+    "name": "Bamboo Shoots - Sliced",
+    "description": "Newborn affected by abnlt in fetal heart rate or rhythm",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 45
+  },
+  {
+    "id": 323,
+    "name": "Tart Shells - Savory, 3",
+    "description": "Stenosis due to nervous system prosth dev/grft, init",
+    "category": "Waterproofing & Caulking",
+    "price": 90
+  },
+  {
+    "id": 324,
+    "name": "Praline Paste",
+    "description": "Fracture of superior rim of unsp pubis, init for opn fx",
+    "category": "Masonry",
+    "price": 48
+  },
+  {
+    "id": 325,
+    "name": "Nestea - Iced Tea",
+    "description": "Nondisp fx of less trochanter of unsp femr, 7thM",
+    "category": "Exterior Signage",
+    "price": 49
+  },
+  {
+    "id": 326,
+    "name": "Gatorade - Xfactor Berry",
+    "description": "Antacids and anti-gastric-secretion drugs",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 71
+  },
+  {
+    "id": 327,
+    "name": "Tomatoes Tear Drop",
+    "description": "Poisoning by immunoglobulin, assault, initial encounter",
+    "category": "Plumbing & Medical Gas",
+    "price": 13
+  },
+  {
+    "id": 328,
+    "name": "Onions - Red Pearl",
+    "description": "Unspecified donor, other blood",
+    "category": "Framing (Steel)",
+    "price": 68
+  },
+  {
+    "id": 329,
+    "name": "Cookie - Oreo 100x2",
+    "description": "Rheu heart disease w rheumatoid arthritis of r shoulder",
+    "category": "EIFS",
+    "price": 23
+  },
+  {
+    "id": 330,
+    "name": "Lettuce - Curly Endive",
+    "description": "Traum rupture of ligament of r idx fngr at MCP/IP jt, subs",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 43
+  },
+  {
+    "id": 331,
+    "name": "Sauce - Apple, Unsweetened",
+    "description": "Other chronic osteomyelitis, unspecified site",
+    "category": "Curb & Gutter",
+    "price": 85
+  },
+  {
+    "id": 332,
+    "name": "Soup - Campbells Mac N Cheese",
+    "description": "Unstable burst fracture of fourth lumbar vertebra, init",
+    "category": "Curb & Gutter",
+    "price": 45
+  },
+  {
+    "id": 333,
+    "name": "Coffee - Flavoured",
+    "description": "Osteonecrosis due to drugs, humerus",
+    "category": "Fire Sprinkler System",
+    "price": 20
+  },
+  {
+    "id": 334,
+    "name": "Veal - Osso Bucco",
+    "description": "Athscl unsp type bypass of the extrm w rest pain, bi legs",
+    "category": "Overhead Doors",
+    "price": 41
+  },
+  {
+    "id": 335,
+    "name": "Cranberries - Frozen",
+    "description": "Contact w lifting and transmission devices, NEC",
+    "category": "Masonry",
+    "price": 35
+  },
+  {
+    "id": 336,
+    "name": "Vinegar - Balsamic",
+    "description": "Injury of muscle, fascia and tendon at forearm level",
+    "category": "Overhead Doors",
+    "price": 33
+  },
+  {
+    "id": 337,
+    "name": "Crackers - Soda / Saltins",
+    "description": "Adhes due to fb acc left in body fol infusn/transfusn, init",
+    "category": "Curb & Gutter",
+    "price": 27
+  },
+  {
+    "id": 338,
+    "name": "Towel Multifold",
+    "description": "Nondisp fx of less tuberosity of unsp humer, 7thG",
+    "category": "Construction Clean and Final Clean",
+    "price": 81
+  },
+  {
+    "id": 339,
+    "name": "Appetizer - Spring Roll, Veg",
+    "description": "Sprain of deltoid ligament of left ankle, sequela",
+    "category": "Roofing (Metal)",
+    "price": 58
+  },
+  {
+    "id": 340,
+    "name": "Coffee Decaf Colombian",
+    "description": "Unspecified inflammation of eyelid",
+    "category": "Marlite Panels (FED)",
+    "price": 9
+  },
+  {
+    "id": 341,
+    "name": "Ostrich - Fan Fillet",
+    "description": "Nondisp fx of intermediate cuneiform of unsp foot, sequela",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 85
+  },
+  {
+    "id": 342,
+    "name": "Nougat - Paste / Cream",
+    "description": "Complete lesion at unsp level of thor spinal cord, sequela",
+    "category": "Sitework & Site Utilities",
+    "price": 48
+  },
+  {
+    "id": 343,
+    "name": "Cookie Dough - Peanut Butter",
+    "description": "Neonatal jaundice due to excessive hemolysis, unspecified",
+    "category": "EIFS",
+    "price": 21
+  },
+  {
+    "id": 344,
+    "name": "Extract - Lemon",
+    "description": "Unspecified subluxation of left radial head, init encntr",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 70
+  },
+  {
+    "id": 345,
+    "name": "Trout - Rainbow, Fresh",
+    "description": "Injury of nerves at ankle and foot level",
+    "category": "Landscaping & Irrigation",
+    "price": 89
+  },
+  {
+    "id": 346,
+    "name": "Calypso - Strawberry Lemonade",
+    "description": "Oth athscl nonaut bio bypass of the extrm, unsp extremity",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 89
+  },
+  {
+    "id": 347,
+    "name": "Tart Shells - Barquettes, Savory",
+    "description": "Displaced other fracture of tuberosity of right calcaneus",
+    "category": "Roofing (Asphalt)",
+    "price": 53
+  },
+  {
+    "id": 348,
+    "name": "Absolut Citron",
+    "description": "Nephrotic syndrome",
+    "category": "Fire Sprinkler System",
+    "price": 99
+  },
+  {
+    "id": 349,
+    "name": "Beer - Muskoka Cream Ale",
+    "description": "Fracture of base of skull, right side, 7thG",
+    "category": "Marlite Panels (FED)",
+    "price": 7
+  },
+  {
+    "id": 350,
+    "name": "Berry Brulee",
+    "description": "Military operation involving oth effects of nuclear weapons",
+    "category": "Doors, Frames & Hardware",
+    "price": 72
+  },
+  {
+    "id": 351,
+    "name": "Potatoes - Mini Red",
+    "description": "Obstructed labor, unspecified",
+    "category": "Glass & Glazing",
+    "price": 49
+  },
+  {
+    "id": 352,
+    "name": "Apple - Macintosh",
+    "description": "Disp fx of lateral condyle of unsp femr, 7thQ",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 27
+  },
+  {
+    "id": 353,
+    "name": "Dome Lid Clear P92008h",
+    "description": "Lacerat musc/tend at lower leg level, unsp leg, sequela",
+    "category": "Exterior Signage",
+    "price": 80
+  },
+  {
+    "id": 354,
+    "name": "Ketchup - Tomato",
+    "description": "Fall into other water striking bottom causing other injury",
+    "category": "Roofing (Metal)",
+    "price": 13
+  },
+  {
+    "id": 355,
+    "name": "Sprouts - China Rose",
+    "description": "Corrosion of second degree back of unsp hand, subs encntr",
+    "category": "Site Furnishings",
+    "price": 26
+  },
+  {
+    "id": 356,
+    "name": "Wine - Two Oceans Cabernet",
+    "description": "Albinism, unspecified",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 49
+  },
+  {
+    "id": 357,
+    "name": "Puree - Pear",
+    "description": "Forced landing of helicopter injuring occupant",
+    "category": "Elevator",
+    "price": 58
+  },
+  {
+    "id": 358,
+    "name": "Couscous",
+    "description": "Driver of 3-whl mv inj in clsn w 2/3-whl mv nontraf, subs",
+    "category": "Asphalt Paving",
+    "price": 28
+  },
+  {
+    "id": 359,
+    "name": "Mushroom - Enoki, Dry",
+    "description": "Coma scale, best verbal response, oriented, 24+hrs",
+    "category": "Structural & Misc Steel Erection",
+    "price": 80
+  },
+  {
+    "id": 360,
+    "name": "Trout Rainbow Whole",
+    "description": "Burn of unspecified degree of unspecified wrist, sequela",
+    "category": "Drilled Shafts",
+    "price": 88
+  },
+  {
+    "id": 361,
+    "name": "Yokaline",
+    "description": "Monoarthritis, not elsewhere classified, hip",
+    "category": "Casework",
+    "price": 49
+  },
+  {
+    "id": 362,
+    "name": "Pork - Sausage Casing",
+    "description": "Unsp fracture of left foot, init encntr for open fracture",
+    "category": "Wall Protection",
+    "price": 11
+  },
+  {
+    "id": 363,
+    "name": "Juice - Cranberry, 341 Ml",
+    "description": "Infective myositis, unspecified right arm",
+    "category": "Glass & Glazing",
+    "price": 32
+  },
+  {
+    "id": 364,
+    "name": "Flour - All Purpose",
+    "description": "Nondisp commnt fx shaft of unsp fibula, 7thP",
+    "category": "Masonry",
+    "price": 6
+  },
+  {
+    "id": 365,
+    "name": "Trout - Hot Smkd, Dbl Fillet",
+    "description": "Injury of radial nerve at wrs/hnd lv of left arm, subs",
+    "category": "Termite Control",
+    "price": 27
+  },
+  {
+    "id": 366,
+    "name": "Compound - Passion Fruit",
+    "description": "Crush betw inflatbl crft and oth wtrcrft/obj d/t clsn, init",
+    "category": "Glass & Glazing",
+    "price": 62
+  },
+  {
+    "id": 367,
+    "name": "Juice - Clamato, 341 Ml",
+    "description": "Other osteomyelitis, thigh",
+    "category": "Drilled Shafts",
+    "price": 95
+  },
+  {
+    "id": 368,
+    "name": "Mushroom - Chanterelle Frozen",
+    "description": "Path fracture in oth disease, l foot, subs for fx w nonunion",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 50
+  },
+  {
+    "id": 369,
+    "name": "Corn - Cream, Canned",
+    "description": "Person outside car injured in nonclsn trnsp accident nontraf",
+    "category": "Fire Sprinkler System",
+    "price": 3
+  },
+  {
+    "id": 370,
+    "name": "Pasta - Lasagna, Dry",
+    "description": "Other mechanical complication of intraocular lens, sequela",
+    "category": "Marlite Panels (FED)",
+    "price": 92
+  },
+  {
+    "id": 371,
+    "name": "Crawfish",
+    "description": "Displ oblique fx shaft of unsp femr, 7thQ",
+    "category": "Roofing (Metal)",
+    "price": 10
+  },
+  {
+    "id": 372,
+    "name": "Halibut - Whole, Fresh",
+    "description": "Occup of pk-up/van injured in clsn w pedl cyc in traf, init",
+    "category": "Sitework & Site Utilities",
+    "price": 87
+  },
+  {
+    "id": 373,
+    "name": "Wine - Saint Emilion Calvet",
+    "description": "Oth fx upr end r ulna, subs for opn fx type I/2 w delay heal",
+    "category": "Marlite Panels (FED)",
+    "price": 87
+  },
+  {
+    "id": 374,
+    "name": "Soup Campbells - Tomato Bisque",
+    "description": "Other hydronephrosis",
+    "category": "Doors, Frames & Hardware",
+    "price": 26
+  },
+  {
+    "id": 375,
+    "name": "Mousse - Passion Fruit",
+    "description": "Crush betw pasngr ship and oth wtrcrft/obj due to clsn, sqla",
+    "category": "Doors, Frames & Hardware",
+    "price": 31
+  },
+  {
+    "id": 376,
+    "name": "Scrubbie - Scotchbrite Hand Pad",
+    "description": "Poisoning by cannabis (derivatives), assault",
+    "category": "Masonry & Precast",
+    "price": 21
+  },
+  {
+    "id": 377,
+    "name": "Fiddlehead - Frozen",
+    "description": "Stenosis of other vascular prosth dev/grft, sequela",
+    "category": "Curb & Gutter",
+    "price": 45
+  },
+  {
+    "id": 378,
+    "name": "Sterno - Chafing Dish Fuel",
+    "description": "Complete loss of teeth due to caries, class I",
+    "category": "Plumbing & Medical Gas",
+    "price": 86
+  },
+  {
+    "id": 379,
+    "name": "Pepper - Gypsy Pepper",
+    "description": "Nondisp commnt fx shaft of unsp femr, 7thG",
+    "category": "Termite Control",
+    "price": 69
+  },
+  {
+    "id": 380,
+    "name": "Flour - All Purpose",
+    "description": "Toxic eff of nitrodrv/aminodrv of benzn/homolog, undet, subs",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 55
+  },
+  {
+    "id": 381,
+    "name": "Shopper Bag - S - 4",
+    "description": "Laceration of unspecified part of colon, initial encounter",
+    "category": "Casework",
+    "price": 31
+  },
+  {
+    "id": 382,
+    "name": "Pasta - Linguini, Dry",
+    "description": "Chronic multifocal osteomyelitis, humerus",
+    "category": "Marlite Panels (FED)",
+    "price": 96
+  },
+  {
+    "id": 383,
+    "name": "Chips Potato Reg 43g",
+    "description": "Other injury of tail of pancreas",
+    "category": "Masonry & Precast",
+    "price": 78
+  },
+  {
+    "id": 384,
+    "name": "Wine - White, Colubia Cresh",
+    "description": "Tuberculosis of intestines, peritoneum and mesenteric glands",
+    "category": "HVAC",
+    "price": 42
+  },
+  {
+    "id": 385,
+    "name": "Cheese - Brick With Pepper",
+    "description": "Nondisplaced transverse fracture of shaft of unsp femur",
+    "category": "Ornamental Railings",
+    "price": 49
+  },
+  {
+    "id": 386,
+    "name": "Beer - True North Strong Ale",
+    "description": "Nondisp unsp condyle fx low end unsp femr, 7thN",
+    "category": "Framing (Wood)",
+    "price": 21
+  },
+  {
+    "id": 387,
+    "name": "Juice - Lime",
+    "description": "Epileptic seiz rel to extrn causes, not ntrct, w/o stat epi",
+    "category": "Sitework & Site Utilities",
+    "price": 37
+  },
+  {
+    "id": 388,
+    "name": "Wine - Alicanca Vinho Verde",
+    "description": "Displaced fracture of head of unspecified radius",
+    "category": "Framing (Wood)",
+    "price": 90
+  },
+  {
+    "id": 389,
+    "name": "Almonds Ground Blanched",
+    "description": "Unsp fx r patella, subs for opn fx type 3A/B/C w routn heal",
+    "category": "Framing (Steel)",
+    "price": 9
+  },
+  {
+    "id": 390,
+    "name": "Beer - Corona",
+    "description": "Nondisp fx of sternal end unsp clavicle, 7thD",
+    "category": "Marlite Panels (FED)",
+    "price": 81
+  },
+  {
+    "id": 391,
+    "name": "Wine - Cabernet Sauvignon",
+    "description": "Abrasion of other part of head, initial encounter",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 17
+  },
+  {
+    "id": 392,
+    "name": "Bagel - Everything",
+    "description": "Brown-Sequard syndrome",
+    "category": "Casework",
+    "price": 61
+  },
+  {
+    "id": 393,
+    "name": "Couscous",
+    "description": "Burns of 40-49% of body surface w 30-39% third degree burns",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 16
+  },
+  {
+    "id": 394,
+    "name": "Soup - Campbells Chili",
+    "description": "Pedal cycle driver injured in collision w oth mv nontraf",
+    "category": "Ornamental Railings",
+    "price": 95
+  },
+  {
+    "id": 395,
+    "name": "Beef - Tongue, Fresh",
+    "description": "Disp fx of olecran pro w intartic extn unsp ulna, 7thJ",
+    "category": "Hard Tile & Stone",
+    "price": 1
+  },
+  {
+    "id": 396,
+    "name": "Soup - Campbells Tomato Ravioli",
+    "description": "Pnctr w/o fb of l bk wl of thorax w/o penet thor cav, init",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 21
+  },
+  {
+    "id": 397,
+    "name": "Soup - Knorr, Classic Can. Chili",
+    "description": "Person outside car injured in clsn w hv veh nontraf, subs",
+    "category": "Hard Tile & Stone",
+    "price": 28
+  },
+  {
+    "id": 398,
+    "name": "Sandwich Wrap",
+    "description": "Acute lymphangitis of unspecified toe",
+    "category": "Overhead Doors",
+    "price": 19
+  },
+  {
+    "id": 399,
+    "name": "Pastry - Cheese Baked Scones",
+    "description": "Chronic postrheumatic arthropathy, other specified site",
+    "category": "RF Shielding",
+    "price": 24
+  },
+  {
+    "id": 400,
+    "name": "Vinegar - Cider",
+    "description": "Burn 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, sqla",
+    "category": "Doors, Frames & Hardware",
+    "price": 7
+  },
+  {
+    "id": 401,
+    "name": "Red Currant Jelly",
+    "description": "Milt op w explosn of guided missile, civilian, sequela",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 4
+  },
+  {
+    "id": 402,
+    "name": "Flour - Fast / Rapid",
+    "description": "Poisoning by thyroid hormones and sub, accidental, init",
+    "category": "Roofing (Metal)",
+    "price": 98
+  },
+  {
+    "id": 403,
+    "name": "Baking Powder",
+    "description": "Unspecified fracture of left pubis, sequela",
+    "category": "Curb & Gutter",
+    "price": 46
+  },
+  {
+    "id": 404,
+    "name": "Berry Brulee",
+    "description": "Blister (nonthermal) of right elbow",
+    "category": "Framing (Wood)",
+    "price": 27
+  },
+  {
+    "id": 405,
+    "name": "Pork - Back, Long Cut, Boneless",
+    "description": "Oth injury of axillary artery, left side, sequela",
+    "category": "Fire Protection",
+    "price": 6
+  },
+  {
+    "id": 406,
+    "name": "Calypso - Pineapple Passion",
+    "description": "Flail joint, right hand",
+    "category": "Framing (Wood)",
+    "price": 65
+  },
+  {
+    "id": 407,
+    "name": "Wine - Coteaux Du Tricastin Ac",
+    "description": "Oth foreign object in bronchus causing asphyxiation, sequela",
+    "category": "HVAC",
+    "price": 96
+  },
+  {
+    "id": 408,
+    "name": "Oil - Olive Bertolli",
+    "description": "Unsp inj unsp musc/tend at low leg level, left leg, sequela",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 11
+  },
+  {
+    "id": 409,
+    "name": "Oil - Shortening - All - Purpose",
+    "description": "Impingement syndrome of right shoulder",
+    "category": "Hard Tile & Stone",
+    "price": 60
+  },
+  {
+    "id": 410,
+    "name": "Lotus Rootlets - Canned",
+    "description": "Other chronic osteomyelitis",
+    "category": "Sitework & Site Utilities",
+    "price": 88
+  },
+  {
+    "id": 411,
+    "name": "Coffee - Espresso",
+    "description": "Open bite of abd wall, periumb rgn w penet perit cav, subs",
+    "category": "Granite Surfaces",
+    "price": 92
+  },
+  {
+    "id": 412,
+    "name": "Mussels - Frozen",
+    "description": "Endocrine, nutritional and metabolic diseases comp the puerp",
+    "category": "Casework",
+    "price": 82
+  },
+  {
+    "id": 413,
+    "name": "Vinegar - Rice",
+    "description": "Social role conflict, not elsewhere classified",
+    "category": "Asphalt Paving",
+    "price": 77
+  },
+  {
+    "id": 414,
+    "name": "Appetizer - Mushroom Tart",
+    "description": "Autologous blood donor",
+    "category": "Framing (Steel)",
+    "price": 82
+  },
+  {
+    "id": 415,
+    "name": "Table Cloth 81x81 White",
+    "description": "Strain musc/tend ant grp at low leg level, unsp leg, init",
+    "category": "Electrical",
+    "price": 30
+  },
+  {
+    "id": 416,
+    "name": "Table Cloth 81x81 White",
+    "description": "Other secondary gout, left wrist",
+    "category": "Fire Protection",
+    "price": 28
+  },
+  {
+    "id": 417,
+    "name": "Yeast Dry - Fermipan",
+    "description": "Alcoholic cirrhosis of liver",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 49
+  },
+  {
+    "id": 418,
+    "name": "Bread - Raisin Walnut Oval",
+    "description": "Acute megakaryoblastic leukemia not achieve remission",
+    "category": "Curb & Gutter",
+    "price": 33
+  },
+  {
+    "id": 419,
+    "name": "Bread - Rye",
+    "description": "Sltr-haris Type I physl fx lower end humer, unsp arm, sqla",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 77
+  },
+  {
+    "id": 420,
+    "name": "Rice - Wild",
+    "description": "Lac w fb of front wall of thorax w/o penet thoracic cavity",
+    "category": "HVAC",
+    "price": 13
+  },
+  {
+    "id": 421,
+    "name": "Cake Circle, Foil, Scallop",
+    "description": "Bitten by other mammals",
+    "category": "Roofing (Asphalt)",
+    "price": 75
+  },
+  {
+    "id": 422,
+    "name": "Bread Cranberry Foccacia",
+    "description": "Shigellosis due to Shigella flexneri",
+    "category": "Doors, Frames & Hardware",
+    "price": 22
+  },
+  {
+    "id": 423,
+    "name": "Loquat",
+    "description": "Driver of military vehicle injured in traffic accident",
+    "category": "Ornamental Railings",
+    "price": 34
+  },
+  {
+    "id": 424,
+    "name": "Fish - Bones",
+    "description": "Periprosth fracture around internal prosthetic l elbow joint",
+    "category": "Masonry & Precast",
+    "price": 4
+  },
+  {
+    "id": 425,
+    "name": "Lid Coffee Cup 8oz Blk",
+    "description": "Kaschin-Beck disease, unspecified shoulder",
+    "category": "Granite Surfaces",
+    "price": 7
+  },
+  {
+    "id": 426,
+    "name": "Cookies Oatmeal Raisin",
+    "description": "Disp fx of ant pro of unsp calcaneus, subs for fx w malunion",
+    "category": "Epoxy Flooring",
+    "price": 17
+  },
+  {
+    "id": 427,
+    "name": "Bagelers",
+    "description": "Fracture of base of skull, left side, 7thK",
+    "category": "Marlite Panels (FED)",
+    "price": 90
+  },
+  {
+    "id": 428,
+    "name": "Lettuce - Treviso",
+    "description": "Spastic entropion of eyelid",
+    "category": "Waterproofing & Caulking",
+    "price": 40
+  },
+  {
+    "id": 429,
+    "name": "Cheese - Brie",
+    "description": "Spondylolysis, site unspecified",
+    "category": "Fire Protection",
+    "price": 42
+  },
+  {
+    "id": 430,
+    "name": "Juice - Orangina",
+    "description": "Burn of unspecified degree of palm",
+    "category": "Wall Protection",
+    "price": 19
+  },
+  {
+    "id": 431,
+    "name": "Oil - Margarine",
+    "description": "Ped on rolr-skt inj in clsn w rail trn/veh nontraf, sequela",
+    "category": "Fire Sprinkler System",
+    "price": 88
+  },
+  {
+    "id": 432,
+    "name": "Salmon - Atlantic, Skin On",
+    "description": "Presence of artificial hip joint, bilateral",
+    "category": "Roofing (Asphalt)",
+    "price": 22
+  },
+  {
+    "id": 433,
+    "name": "Artichoke - Bottom, Canned",
+    "description": "Abnormal level of enzymes in cerebrospinal fluid",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 25
+  },
+  {
+    "id": 434,
+    "name": "Soup Campbells",
+    "description": "Other specified injury of femoral artery, unspecified leg",
+    "category": "Structural & Misc Steel Erection",
+    "price": 95
+  },
+  {
+    "id": 435,
+    "name": "Wine - Red, Pinot Noir, Chateau",
+    "description": "Lennox-Gastaut syndrome",
+    "category": "Drilled Shafts",
+    "price": 71
+  },
+  {
+    "id": 436,
+    "name": "Mushroom - Shitake, Fresh",
+    "description": "Toxic effect of other specified substances, undetermined",
+    "category": "Sitework & Site Utilities",
+    "price": 10
+  },
+  {
+    "id": 437,
+    "name": "Chicken - White Meat, No Tender",
+    "description": "Impetiginization of other dermatoses",
+    "category": "Doors, Frames & Hardware",
+    "price": 85
+  },
+  {
+    "id": 438,
+    "name": "Wine - Port Late Bottled Vintage",
+    "description": "Bloodstream infection due to central venous catheter, init",
+    "category": "Roofing (Asphalt)",
+    "price": 54
+  },
+  {
+    "id": 439,
+    "name": "Basil - Primerba, Paste",
+    "description": "Strain of musc/fasc/tend at forearm level, left arm, subs",
+    "category": "Electrical and Fire Alarm",
+    "price": 30
+  },
+  {
+    "id": 440,
+    "name": "Table Cloth 53x69 White",
+    "description": "War op w intentl restrict of air/airwy, milt, sequela",
+    "category": "Exterior Signage",
+    "price": 50
+  },
+  {
+    "id": 441,
+    "name": "Butcher Twine 4r",
+    "description": "Dysphagia, unspecified",
+    "category": "Structural & Misc Steel Erection",
+    "price": 21
+  },
+  {
+    "id": 442,
+    "name": "Radish - Black, Winter, Organic",
+    "description": "Gonococcal iridocyclitis",
+    "category": "HVAC",
+    "price": 53
+  },
+  {
+    "id": 443,
+    "name": "Glass - Wine, Plastic, Clear 5 Oz",
+    "description": "Passenger in 3-whl mv injured in clsn w ped/anml in traf",
+    "category": "Drilled Shafts",
+    "price": 85
+  },
+  {
+    "id": 444,
+    "name": "Nantucket Cranberry Juice",
+    "description": "Contusion of lower leg",
+    "category": "Structural & Misc Steel Erection",
+    "price": 66
+  },
+  {
+    "id": 445,
+    "name": "Bacardi Limon",
+    "description": "Path fx in oth disease, l shoulder, subs for fx w delay heal",
+    "category": "Electrical and Fire Alarm",
+    "price": 15
+  },
+  {
+    "id": 446,
+    "name": "Snapple Raspberry Tea",
+    "description": "Disp fx of base of third metacarpal bone, left hand, sequela",
+    "category": "Hard Tile & Stone",
+    "price": 61
+  },
+  {
+    "id": 447,
+    "name": "Pepper - Chilli Seeds Mild",
+    "description": "Unspecified fracture of lower end of ulna",
+    "category": "Doors, Frames & Hardware",
+    "price": 5
+  },
+  {
+    "id": 448,
+    "name": "Chocolate Bar - Smarties",
+    "description": "Drown d/t thrown ovrbrd by motion of inflatbl crft, subs",
+    "category": "Wall Protection",
+    "price": 79
+  },
+  {
+    "id": 449,
+    "name": "Chestnuts - Whole,canned",
+    "description": "Toxic liver disease w chronic active hepatitis with ascites",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 52
+  },
+  {
+    "id": 450,
+    "name": "Chevril",
+    "description": "Disp fx of unsp tibial spin, 7thF",
+    "category": "Framing (Steel)",
+    "price": 76
+  },
+  {
+    "id": 451,
+    "name": "Ecolab Crystal Fusion",
+    "description": "Person outside pk-up/van inj in nonclsn trnsp acc nontraf",
+    "category": "Fire Sprinkler System",
+    "price": 3
+  },
+  {
+    "id": 452,
+    "name": "Ecolab - Lime - A - Way 4/4 L",
+    "description": "Lacerat flexor musc/fasc/tend l idx fngr at wrs/hnd lv, init",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 79
+  },
+  {
+    "id": 453,
+    "name": "Scallops 60/80 Iqf",
+    "description": "Infections of bladder in pregnancy, unspecified trimester",
+    "category": "Granite Surfaces",
+    "price": 99
+  },
+  {
+    "id": 454,
+    "name": "Potatoes - Peeled",
+    "description": "Infect/inflm react due to oth int prosth dev/grft, sequela",
+    "category": "Ornamental Railings",
+    "price": 75
+  },
+  {
+    "id": 455,
+    "name": "Squid - Tubes / Tenticles 10/20",
+    "description": "Superficial frostbite of left ankle, sequela",
+    "category": "Curb & Gutter",
+    "price": 11
+  },
+  {
+    "id": 456,
+    "name": "Wine La Vielle Ferme Cote Du",
+    "description": "Toxic effect of contact w oth jellyfish, accidental",
+    "category": "Structural & Misc Steel Erection",
+    "price": 82
+  },
+  {
+    "id": 457,
+    "name": "Bread Ww Cluster",
+    "description": "Adhes due to fb acc left in body fol infusn/transfusn, sqla",
+    "category": "Marlite Panels (FED)",
+    "price": 57
+  },
+  {
+    "id": 458,
+    "name": "Mustard Prepared",
+    "description": "Disorders of esophagus in diseases classified elsewhere",
+    "category": "Glass & Glazing",
+    "price": 58
+  },
+  {
+    "id": 459,
+    "name": "Aspic - Light",
+    "description": "Partial traumatic transmetcrpl amputation of unsp hand, subs",
+    "category": "Ornamental Railings",
+    "price": 68
+  },
+  {
+    "id": 460,
+    "name": "Onions - White",
+    "description": "Oth osteopor w current path fracture, left ank/ft, sequela",
+    "category": "Framing (Wood)",
+    "price": 4
+  },
+  {
+    "id": 461,
+    "name": "Halibut - Fletches",
+    "description": "Drug-induced chronic gout, left wrist",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 39
+  },
+  {
+    "id": 462,
+    "name": "Icecream - Dstk Super Cone",
+    "description": "Laceration of blood vessels at wrs/hnd lv of unsp arm",
+    "category": "Fire Protection",
+    "price": 83
+  },
+  {
+    "id": 463,
+    "name": "Sardines",
+    "description": "Partial traum amp of unsp shldr/up arm, level unsp, sequela",
+    "category": "Fire Protection",
+    "price": 79
+  },
+  {
+    "id": 464,
+    "name": "Pastrami",
+    "description": "Unspecified physeal fracture of left calcaneus, 7thG",
+    "category": "Structural & Misc Steel Erection",
+    "price": 86
+  },
+  {
+    "id": 465,
+    "name": "Sherbet - Raspberry",
+    "description": "Crushing injury of unspecified wrist",
+    "category": "Structural & Misc Steel Erection",
+    "price": 8
+  },
+  {
+    "id": 466,
+    "name": "Wine - Pinot Noir Latour",
+    "description": "Nondisp longitud fx l patella, 7thJ",
+    "category": "Framing (Wood)",
+    "price": 57
+  },
+  {
+    "id": 467,
+    "name": "Coffee Swiss Choc Almond",
+    "description": "Nondisp suprcndl fx w/o intrcndl extn lower end of l femur",
+    "category": "Sitework & Site Utilities",
+    "price": 23
+  },
+  {
+    "id": 468,
+    "name": "Crab - Claws, Snow 16 - 24",
+    "description": "Forced landing of private fix-wing arcrft inj occ, sequela",
+    "category": "Structural & Misc Steel Erection",
+    "price": 97
+  },
+  {
+    "id": 469,
+    "name": "Corn - Cream, Canned",
+    "description": "Lacerat intrinsic msl/tnd at ank/ft level, left foot, subs",
+    "category": "Hard Tile & Stone",
+    "price": 51
+  },
+  {
+    "id": 470,
+    "name": "Wine - Domaine Boyar Royal",
+    "description": "Laceration of unsp musc/fasc/tend at shldr/up arm, right arm",
+    "category": "RF Shielding",
+    "price": 39
+  },
+  {
+    "id": 471,
+    "name": "Pork - Backs - Boneless",
+    "description": "Follicular cyst of right ovary",
+    "category": "Masonry & Precast",
+    "price": 4
+  },
+  {
+    "id": 472,
+    "name": "Bar Nature Valley",
+    "description": "Preglaucoma, unspecified, left eye",
+    "category": "Sitework & Site Utilities",
+    "price": 76
+  },
+  {
+    "id": 473,
+    "name": "Trout - Rainbow, Fresh",
+    "description": "Toxic effect of contact with venomous marine plant",
+    "category": "Glass & Glazing",
+    "price": 17
+  },
+  {
+    "id": 474,
+    "name": "Rum - Coconut, Malibu",
+    "description": "Unsp injury of unsp msl/tnd at ank/ft level, left foot, subs",
+    "category": "Marlite Panels (FED)",
+    "price": 8
+  },
+  {
+    "id": 475,
+    "name": "Lamb Shoulder Boneless Nz",
+    "description": "Acute pulmonary edema",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 70
+  },
+  {
+    "id": 476,
+    "name": "Crab - Imitation Flakes",
+    "description": "Influenza due to unidentified influenza virus with pneumonia",
+    "category": "Overhead Doors",
+    "price": 73
+  },
+  {
+    "id": 477,
+    "name": "Bread Base - Toscano",
+    "description": "Intentional self-harm by other sharp object",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 38
+  },
+  {
+    "id": 478,
+    "name": "Cookies Oatmeal Raisin",
+    "description": "Inj l int carotid, intcr w LOC of 30 minutes or less, init",
+    "category": "Asphalt Paving",
+    "price": 56
+  },
+  {
+    "id": 479,
+    "name": "Duck - Breast",
+    "description": "Explosion on board fishing boat, initial encounter",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 65
+  },
+  {
+    "id": 480,
+    "name": "Sprite - 355 Ml",
+    "description": "Nondisp fx of base of 5th MC bone, r hand, 7thD",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 3
+  },
+  {
+    "id": 481,
+    "name": "Potatoes - Parissienne",
+    "description": "Complete lesion at C5 level of cervical spinal cord",
+    "category": "Fire Sprinkler System",
+    "price": 68
+  },
+  {
+    "id": 482,
+    "name": "Nut - Pecan, Halves",
+    "description": "Residual hemorrhoidal skin tags",
+    "category": "Structural & Misc Steel Erection",
+    "price": 1
+  },
+  {
+    "id": 483,
+    "name": "Arizona - Green Tea",
+    "description": "Other effects of heat and light, sequela",
+    "category": "Glass & Glazing",
+    "price": 74
+  },
+  {
+    "id": 484,
+    "name": "Sterno - Chafing Dish Fuel",
+    "description": "Other specified disorders of parathyroid gland",
+    "category": "Roofing (Metal)",
+    "price": 61
+  },
+  {
+    "id": 485,
+    "name": "Cup - Paper 10oz 92959",
+    "description": "Contusion of unspecified thumb with damage to nail",
+    "category": "Overhead Doors",
+    "price": 9
+  },
+  {
+    "id": 486,
+    "name": "Coriander - Seed",
+    "description": "Disp fx of med phalanx of unsp fngr, 7thD",
+    "category": "Framing (Wood)",
+    "price": 71
+  },
+  {
+    "id": 487,
+    "name": "Venison - Ground",
+    "description": "Pathological fracture in other disease, hip, unspecified",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 83
+  },
+  {
+    "id": 488,
+    "name": "Jerusalem Artichoke",
+    "description": "Injury of nerves and spinal cord at neck level",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 78
+  },
+  {
+    "id": 489,
+    "name": "Macaroons - Two Bite Choc",
+    "description": "Injury of r int carotid, intcr w/o loss of consciousness",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 52
+  },
+  {
+    "id": 490,
+    "name": "Wine - Black Tower Qr",
+    "description": "Cochlear otosclerosis, left ear",
+    "category": "Masonry & Precast",
+    "price": 33
+  },
+  {
+    "id": 491,
+    "name": "Duck - Fat",
+    "description": "Drown due to fall off unsp watercraft, sequela",
+    "category": "Structural & Misc Steel Erection",
+    "price": 6
+  },
+  {
+    "id": 492,
+    "name": "Wine - Kwv Chenin Blanc South",
+    "description": "Unspecified donor, whole blood",
+    "category": "EIFS",
+    "price": 92
+  },
+  {
+    "id": 493,
+    "name": "Wine - Red, Colio Cabernet",
+    "description": "Laceration w/o foreign body of left cheek and TMJ area",
+    "category": "Masonry",
+    "price": 53
+  },
+  {
+    "id": 494,
+    "name": "Fondant - Icing",
+    "description": "Nutritional marasmus",
+    "category": "Electrical",
+    "price": 23
+  },
+  {
+    "id": 495,
+    "name": "Beets - Candy Cane, Organic",
+    "description": "Renal failure following (induced) termination of pregnancy",
+    "category": "Elevator",
+    "price": 61
+  },
+  {
+    "id": 496,
+    "name": "Tendrils - Baby Pea, Organic",
+    "description": "Unsp fx head of unsp femr, 7thN",
+    "category": "Fire Sprinkler System",
+    "price": 81
+  },
+  {
+    "id": 497,
+    "name": "Shortbread - Cookie Crumbs",
+    "description": "Unsp superficial injury of unspecified wrist, subs encntr",
+    "category": "Exterior Signage",
+    "price": 42
+  },
+  {
+    "id": 498,
+    "name": "Syrup - Pancake",
+    "description": "Infection of intervertebral disc (pyogenic), cervical region",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 35
+  },
+  {
+    "id": 499,
+    "name": "Dried Figs",
+    "description": "Stenosis due to genitourinary prosth dev/grft",
+    "category": "RF Shielding",
+    "price": 91
+  },
+  {
+    "id": 500,
+    "name": "Shichimi Togarashi Peppeers",
+    "description": "Other rheumatoid arthritis with rheumatoid factor of wrist",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 44
+  },
+  {
+    "id": 501,
+    "name": "Wine - White, Riesling, Henry Of",
+    "description": "Felty's syndrome, left elbow",
+    "category": "Landscaping & Irrigation",
+    "price": 45
+  },
+  {
+    "id": 502,
+    "name": "Energy Drink - Redbull 355ml",
+    "description": "Disp fx of l tibial tuberosity, 7thQ",
+    "category": "Site Furnishings",
+    "price": 80
+  },
+  {
+    "id": 503,
+    "name": "Muffin Hinge Container 6",
+    "description": "Other irregular eye movements",
+    "category": "Curb & Gutter",
+    "price": 52
+  },
+  {
+    "id": 504,
+    "name": "Rice Paper",
+    "description": "Nondisp commnt fx shaft of rad, r arm, 7thH",
+    "category": "Epoxy Flooring",
+    "price": 2
+  },
+  {
+    "id": 505,
+    "name": "Rice Paper",
+    "description": "Pnctr w/o fb of l mid finger w/o damage to nail, init",
+    "category": "Construction Clean and Final Clean",
+    "price": 78
+  },
+  {
+    "id": 506,
+    "name": "Langers - Mango Nectar",
+    "description": "Nondisplaced bimalleolar fracture of unsp lower leg, init",
+    "category": "Wall Protection",
+    "price": 58
+  },
+  {
+    "id": 507,
+    "name": "Cream - 35%",
+    "description": "Hit by object due to uncontrolled fire, not in bldg, subs",
+    "category": "Granite Surfaces",
+    "price": 57
+  },
+  {
+    "id": 508,
+    "name": "Breakfast Quesadillas",
+    "description": "Crushing injury of skull, subsequent encounter",
+    "category": "Fire Sprinkler System",
+    "price": 33
+  },
+  {
+    "id": 509,
+    "name": "Wine - Gato Negro Cabernet",
+    "description": "Displ suprcndl fx w intrcndl extn low end r femr, 7thC",
+    "category": "Epoxy Flooring",
+    "price": 74
+  },
+  {
+    "id": 510,
+    "name": "Onions - Cooking",
+    "description": "Exposure to welding light (arc), subsequent encounter",
+    "category": "Framing (Wood)",
+    "price": 93
+  },
+  {
+    "id": 511,
+    "name": "Creamers - 10%",
+    "description": "Unspecified disorder of synovium and tendon, right forearm",
+    "category": "Overhead Doors",
+    "price": 26
+  },
+  {
+    "id": 512,
+    "name": "Breadfruit",
+    "description": "Puncture wound with foreign body, right lower leg",
+    "category": "Glass & Glazing",
+    "price": 82
+  },
+  {
+    "id": 513,
+    "name": "Chickensplit Half",
+    "description": "Hemorrhage of left orbit",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 52
+  },
+  {
+    "id": 514,
+    "name": "Chocolate - Milk Coating",
+    "description": "Milt op w direct blast effect of nuclear weapon, civilian",
+    "category": "Site Furnishings",
+    "price": 66
+  },
+  {
+    "id": 515,
+    "name": "Coffee - Decaffeinato Coffee",
+    "description": "Displaced fracture of body of right calcaneus",
+    "category": "Construction Clean and Final Clean",
+    "price": 15
+  },
+  {
+    "id": 516,
+    "name": "Sherbet - Raspberry",
+    "description": "Burn of second degree of unspecified thigh, sequela",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 23
+  },
+  {
+    "id": 517,
+    "name": "Apricots - Halves",
+    "description": "Anaphyl reaction due to milk and dairy products, sequela",
+    "category": "Hard Tile & Stone",
+    "price": 93
+  },
+  {
+    "id": 518,
+    "name": "Sauce - Caesar Dressing",
+    "description": "Laceration with foreign body, unspecified foot, sequela",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 80
+  },
+  {
+    "id": 519,
+    "name": "Sobe - Berry Energy",
+    "description": "Personal history of pneumonia (recurrent)",
+    "category": "Construction Clean and Final Clean",
+    "price": 79
+  },
+  {
+    "id": 520,
+    "name": "Nantuket Peach Orange",
+    "description": "Displ commnt fx shaft of rad, unsp arm, 7thD",
+    "category": "Drilled Shafts",
+    "price": 16
+  },
+  {
+    "id": 521,
+    "name": "Coffee Guatemala Dark",
+    "description": "Unspecified blepharitis left eye, unspecified eyelid",
+    "category": "Structural & Misc Steel Erection",
+    "price": 1
+  },
+  {
+    "id": 522,
+    "name": "Crab - Dungeness, Whole, live",
+    "description": "Open bite of right ear, subsequent encounter",
+    "category": "Roofing (Metal)",
+    "price": 20
+  },
+  {
+    "id": 523,
+    "name": "Mints - Striped Red",
+    "description": "Rupture of synovium, right foot",
+    "category": "Fire Sprinkler System",
+    "price": 92
+  },
+  {
+    "id": 524,
+    "name": "Hummus - Spread",
+    "description": "Displ oblique fx shaft of r fibula, 7thQ",
+    "category": "Drilled Shafts",
+    "price": 20
+  },
+  {
+    "id": 525,
+    "name": "Pepper - Gypsy Pepper",
+    "description": "Unsp injury of axillary or brach vein, right side, sequela",
+    "category": "Fire Protection",
+    "price": 10
+  },
+  {
+    "id": 526,
+    "name": "Dasheen",
+    "description": "Sepsis of newborn due to unspecified streptococci",
+    "category": "Fire Protection",
+    "price": 98
+  },
+  {
+    "id": 527,
+    "name": "Chocolate - Pistoles, Lactee, Milk",
+    "description": "Sltr-haris Type III physl fx upper end humer, r arm, 7thD",
+    "category": "HVAC",
+    "price": 35
+  },
+  {
+    "id": 528,
+    "name": "Peppercorns - Green",
+    "description": "Other infective otitis externa, right ear",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 32
+  },
+  {
+    "id": 529,
+    "name": "Paper Cocktail Umberlla 80 - 180",
+    "description": "Toxic effect of aflatoxin, undetermined, subs encntr",
+    "category": "Drilled Shafts",
+    "price": 40
+  },
+  {
+    "id": 530,
+    "name": "Beans - Long, Chinese",
+    "description": "Strain extensor musc/fasc/tend l idx fngr at forarm lv, subs",
+    "category": "Glass & Glazing",
+    "price": 96
+  },
+  {
+    "id": 531,
+    "name": "Calaloo",
+    "description": "Drown d/t thrown ovrbrd by motion of power wtrcrft, subs",
+    "category": "Landscaping & Irrigation",
+    "price": 41
+  },
+  {
+    "id": 532,
+    "name": "Garlic - Peeled",
+    "description": "Toxic effect of tin and its compounds, accidental, sequela",
+    "category": "Marlite Panels (FED)",
+    "price": 45
+  },
+  {
+    "id": 533,
+    "name": "Onions - Green",
+    "description": "Allergic contact dermatitis",
+    "category": "Framing (Wood)",
+    "price": 96
+  },
+  {
+    "id": 534,
+    "name": "Noodles - Steamed Chow Mein",
+    "description": "Myositis ossificans progressiva, left toe(s)",
+    "category": "HVAC",
+    "price": 76
+  },
+  {
+    "id": 535,
+    "name": "Soup - Clam Chowder, Dry Mix",
+    "description": "Nondisp suprcndl fx w/o intrcndl extn low end unsp femr,7thH",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 19
+  },
+  {
+    "id": 536,
+    "name": "Tahini Paste",
+    "description": "Mechanical complication of cardiac electronic device",
+    "category": "Ornamental Railings",
+    "price": 6
+  },
+  {
+    "id": 537,
+    "name": "Beer - Sleeman Fine Porter",
+    "description": "Maple-bark-stripper's lung",
+    "category": "Fire Protection",
+    "price": 22
+  },
+  {
+    "id": 538,
+    "name": "Aspic - Clear",
+    "description": "Flexion deformity, left wrist",
+    "category": "Termite Control",
+    "price": 24
+  },
+  {
+    "id": 539,
+    "name": "Quinoa",
+    "description": "Myositis ossificans traumatica, other site",
+    "category": "Masonry & Precast",
+    "price": 90
+  },
+  {
+    "id": 540,
+    "name": "Mushroom - White Button",
+    "description": "Other specified injuries of right elbow, subs encntr",
+    "category": "Asphalt Paving",
+    "price": 81
+  },
+  {
+    "id": 541,
+    "name": "Mushroom - Morel Frozen",
+    "description": "Mediastinal (thymic) large B-cell lymphoma, spleen",
+    "category": "Fire Protection",
+    "price": 58
+  },
+  {
+    "id": 542,
+    "name": "Pepper - Green Thai",
+    "description": "Displ unsp condyle fx low end l femr, 7thN",
+    "category": "Electrical",
+    "price": 25
+  },
+  {
+    "id": 543,
+    "name": "Pepper - Scotch Bonnet",
+    "description": "Underdosing of intravenous anesthetics",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 100
+  },
+  {
+    "id": 544,
+    "name": "Pork - European Side Bacon",
+    "description": "Nondisp commnt fx shaft of l fibula, 7thM",
+    "category": "Fire Protection",
+    "price": 83
+  },
+  {
+    "id": 545,
+    "name": "Noodles - Steamed Chow Mein",
+    "description": "Other specified rheumatoid arthritis, unspecified wrist",
+    "category": "Masonry",
+    "price": 18
+  },
+  {
+    "id": 546,
+    "name": "Fuji Apples",
+    "description": "Displaced assoc transv/post fx right acetab, init for opn fx",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 83
+  },
+  {
+    "id": 547,
+    "name": "Sour Puss Sour Apple",
+    "description": "Displ transverse fx shaft of unsp rad, 7thP",
+    "category": "Overhead Doors",
+    "price": 29
+  },
+  {
+    "id": 548,
+    "name": "Chicken - Diced, Cooked",
+    "description": "Other specified injuries of right ankle, sequela",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 24
+  },
+  {
+    "id": 549,
+    "name": "Lobak",
+    "description": "Nondisp oblique fx shaft of r fibula, 7thJ",
+    "category": "Overhead Doors",
+    "price": 31
+  },
+  {
+    "id": 550,
+    "name": "Shichimi Togarashi Peppeers",
+    "description": "Toxic effect of venom of tarantula, accidental, sequela",
+    "category": "Construction Clean and Final Clean",
+    "price": 58
+  },
+  {
+    "id": 551,
+    "name": "Beef - Cow Feet Split",
+    "description": "Inj muscle, fascia and tendon of triceps, left arm, init",
+    "category": "Construction Clean and Final Clean",
+    "price": 14
+  },
+  {
+    "id": 552,
+    "name": "Pepper - Sorrano",
+    "description": "Unsp sprain of unspecified shoulder joint, subs encntr",
+    "category": "Drilled Shafts",
+    "price": 49
+  },
+  {
+    "id": 553,
+    "name": "Beer - Mill St Organic",
+    "description": "Monoplg low lmb fol ntrm subarach hemor aff left nondom side",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 73
+  },
+  {
+    "id": 554,
+    "name": "Tea - Herbal Orange Spice",
+    "description": "Disp fx of med condyle of r tibia, 7thD",
+    "category": "Doors, Frames & Hardware",
+    "price": 13
+  },
+  {
+    "id": 555,
+    "name": "Savory",
+    "description": "Burn of ear drum",
+    "category": "Fire Protection",
+    "price": 57
+  },
+  {
+    "id": 556,
+    "name": "Nantucket - Pomegranate Pear",
+    "description": "Rheumatoid arthritis without rheumatoid factor, left hand",
+    "category": "Ornamental Railings",
+    "price": 29
+  },
+  {
+    "id": 557,
+    "name": "Oranges",
+    "description": "Maternal care for other malpresentation of fetus, fetus 4",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 45
+  },
+  {
+    "id": 558,
+    "name": "Trout Rainbow Whole",
+    "description": "Chronic osteomyelitis with draining sinus, unsp humerus",
+    "category": "Plumbing & Medical Gas",
+    "price": 100
+  },
+  {
+    "id": 559,
+    "name": "Spice - Peppercorn Melange",
+    "description": "Pain in left toe(s)",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 44
+  },
+  {
+    "id": 560,
+    "name": "Wine - Red, Gallo, Merlot",
+    "description": "Laceration of adrenal gland, subsequent encounter",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 41
+  },
+  {
+    "id": 561,
+    "name": "Myers Planters Punch",
+    "description": "Unsp inj intrns musc/fasc/tend r lit fngr at wrs/hnd lv,init",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 62
+  },
+  {
+    "id": 562,
+    "name": "Bread - Hot Dog Buns",
+    "description": "Disp fx of posterior process of left talus, sequela",
+    "category": "Wall Protection",
+    "price": 29
+  },
+  {
+    "id": 563,
+    "name": "Pike - Frozen Fillet",
+    "description": "Nondisp fx of medial condyle of left humerus, sequela",
+    "category": "Termite Control",
+    "price": 99
+  },
+  {
+    "id": 564,
+    "name": "Dawn Professionl Pot And Pan",
+    "description": "Prsn outsd 3-whl mv inj in clsn w statnry obj in traf, init",
+    "category": "Glass & Glazing",
+    "price": 14
+  },
+  {
+    "id": 565,
+    "name": "Lamb - Shanks",
+    "description": "Poisoning by other synthetic narcotics, undetermined",
+    "category": "HVAC",
+    "price": 32
+  },
+  {
+    "id": 566,
+    "name": "Chef Hat 20cm",
+    "description": "Open wound of other finger with damage to nail",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 30
+  },
+  {
+    "id": 567,
+    "name": "Cake Slab",
+    "description": "Nondisp transverse fx r patella, 7thJ",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 82
+  },
+  {
+    "id": 568,
+    "name": "Anchovy Paste - 56 G Tube",
+    "description": "Lesion of sciatic nerve, bilateral lower limbs",
+    "category": "EIFS",
+    "price": 98
+  },
+  {
+    "id": 569,
+    "name": "Rice - Brown",
+    "description": "Nondisp fx of olecran pro w intartic extn unsp ulna, 7thC",
+    "category": "Fire Sprinkler System",
+    "price": 82
+  },
+  {
+    "id": 570,
+    "name": "Pork - Liver",
+    "description": "Poisoning by oth psychostim, accidental, sequela",
+    "category": "Landscaping & Irrigation",
+    "price": 37
+  },
+  {
+    "id": 571,
+    "name": "Sauce - Plum",
+    "description": "Toxic effect of ethanol, intentional self-harm, init encntr",
+    "category": "Masonry",
+    "price": 70
+  },
+  {
+    "id": 572,
+    "name": "Asparagus - Frozen",
+    "description": "Other calcification of muscle, right thigh",
+    "category": "Termite Control",
+    "price": 21
+  },
+  {
+    "id": 573,
+    "name": "Pike - Frozen Fillet",
+    "description": "Other specified disorders of adrenal gland",
+    "category": "Granite Surfaces",
+    "price": 62
+  },
+  {
+    "id": 574,
+    "name": "Campari",
+    "description": "Connective tiss stenosis of neural canal of thoracic region",
+    "category": "HVAC",
+    "price": 76
+  },
+  {
+    "id": 575,
+    "name": "Chilli Paste, Sambal Oelek",
+    "description": "External constriction of left ring finger, sequela",
+    "category": "Overhead Doors",
+    "price": 75
+  },
+  {
+    "id": 576,
+    "name": "Shortbread - Cookie Crumbs",
+    "description": "Pnctr w/o fb of abd wall, unsp q w penet perit cav, init",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 34
+  },
+  {
+    "id": 577,
+    "name": "Longos - Chicken Cordon Bleu",
+    "description": "Congenital lens malformation, unspecified",
+    "category": "Masonry & Precast",
+    "price": 44
+  },
+  {
+    "id": 578,
+    "name": "Sobe - Liz Blizz",
+    "description": "Other burn on board sailboat, subsequent encounter",
+    "category": "RF Shielding",
+    "price": 62
+  },
+  {
+    "id": 579,
+    "name": "Thyme - Dried",
+    "description": "Other subluxation of right radial head, sequela",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 13
+  },
+  {
+    "id": 580,
+    "name": "Bread - Bagels, Plain",
+    "description": "Displ spiral fx shaft of r tibia, init for opn fx type I/2",
+    "category": "Overhead Doors",
+    "price": 37
+  },
+  {
+    "id": 581,
+    "name": "Pickle - Dill",
+    "description": "Nontraumatic ischemic infarction of muscle, forearm",
+    "category": "Glass & Glazing",
+    "price": 99
+  },
+  {
+    "id": 582,
+    "name": "Beef - Roasted, Cooked",
+    "description": "Other specified postprocedural states",
+    "category": "Wall Protection",
+    "price": 86
+  },
+  {
+    "id": 583,
+    "name": "Banana Turning",
+    "description": "Disp fx of shaft of left clavicle, subs for fx w nonunion",
+    "category": "Overhead Doors",
+    "price": 61
+  },
+  {
+    "id": 584,
+    "name": "Stock - Beef, Brown",
+    "description": "Displ commnt fx shaft of unsp tibia, 7thR",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 40
+  },
+  {
+    "id": 585,
+    "name": "Coffee - Almond Amaretto",
+    "description": "Exposure of other implnt mesh into organ or tissue, sequela",
+    "category": "Soft Flooring and Base",
+    "price": 33
+  },
+  {
+    "id": 586,
+    "name": "Cauliflower",
+    "description": "Laceration of blood vessels at wrs/hnd lv of right arm, init",
+    "category": "Electrical and Fire Alarm",
+    "price": 1
+  },
+  {
+    "id": 587,
+    "name": "Couscous",
+    "description": "Disp fx of head of unsp rad, 7thQ",
+    "category": "Curb & Gutter",
+    "price": 93
+  },
+  {
+    "id": 588,
+    "name": "Squash - Acorn",
+    "description": "Embolism and thrombosis of vena cava and oth thoracic veins",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 33
+  },
+  {
+    "id": 589,
+    "name": "Propel Sport Drink",
+    "description": "Lacerat unsp musc/fasc/tend at shldr/up arm, left arm, subs",
+    "category": "Overhead Doors",
+    "price": 62
+  },
+  {
+    "id": 590,
+    "name": "Bread Bowl Plain",
+    "description": "Corrosion of second degree of other site of trunk",
+    "category": "Epoxy Flooring",
+    "price": 85
+  },
+  {
+    "id": 591,
+    "name": "Crush - Orange, 355ml",
+    "description": "Unsp opn wnd abd wall, right low q w/o penet perit cav, sqla",
+    "category": "Site Furnishings",
+    "price": 98
+  },
+  {
+    "id": 592,
+    "name": "Salmon Steak - Cohoe 8 Oz",
+    "description": "Partial placenta previa NOS or without hemor, second tri",
+    "category": "Framing (Wood)",
+    "price": 48
+  },
+  {
+    "id": 593,
+    "name": "Monkfish Fresh - Skin Off",
+    "description": "Disp fx of lesser tuberosity of r humerus, init for opn fx",
+    "category": "HVAC",
+    "price": 92
+  },
+  {
+    "id": 594,
+    "name": "Soup - Campbells, Classic Chix",
+    "description": "Crushing injury of vulva, initial encounter",
+    "category": "Ornamental Railings",
+    "price": 32
+  },
+  {
+    "id": 595,
+    "name": "Bread - Calabrese Baguette",
+    "description": "Military firearm discharge, undetermined intent, init encntr",
+    "category": "Wall Protection",
+    "price": 21
+  },
+  {
+    "id": 596,
+    "name": "Chips - Miss Vickies",
+    "description": "Oth injury of ulnar artery at wrist and hand level",
+    "category": "Sitework & Site Utilities",
+    "price": 9
+  },
+  {
+    "id": 597,
+    "name": "Wine - Chateauneuf Du Pape",
+    "description": "Presence of xenogenic heart valve",
+    "category": "Overhead Doors",
+    "price": 13
+  },
+  {
+    "id": 598,
+    "name": "Coffee Caramel Biscotti",
+    "description": "Occup of bus injured in collision w statnry object nontraf",
+    "category": "Exterior Signage",
+    "price": 13
+  },
+  {
+    "id": 599,
+    "name": "Creme De Menthe Green",
+    "description": "Other specified rheumatoid arthritis, unspecified hip",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 80
+  },
+  {
+    "id": 600,
+    "name": "Creamers - 10%",
+    "description": "Sltr-haris Type II physeal fx upper end of left fibula",
+    "category": "Doors, Frames & Hardware",
+    "price": 68
+  },
+  {
+    "id": 601,
+    "name": "Hagen Daza - Dk Choocolate",
+    "description": "Lacerat musc/fasc/tend long hd bicep, unsp arm, sequela",
+    "category": "Marlite Panels (FED)",
+    "price": 27
+  },
+  {
+    "id": 602,
+    "name": "Chicken - White Meat, No Tender",
+    "description": "Laceration with foreign body, unspecified thigh, init encntr",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 48
+  },
+  {
+    "id": 603,
+    "name": "Artichoke - Hearts, Canned",
+    "description": "Bitten by other nonvenomous marine animals, subs encntr",
+    "category": "EIFS",
+    "price": 66
+  },
+  {
+    "id": 604,
+    "name": "Spice - Chili Powder Mexican",
+    "description": "Complete traumatic trnsphal amp of r little finger, subs",
+    "category": "HVAC",
+    "price": 66
+  },
+  {
+    "id": 605,
+    "name": "Cheese - Cheddar, Mild",
+    "description": "Immune reconstitution syndrome",
+    "category": "Fire Protection",
+    "price": 89
+  },
+  {
+    "id": 606,
+    "name": "Hand Towel",
+    "description": "Nondisp fx of shaft of r clavicle, subs for fx w routn heal",
+    "category": "Wall Protection",
+    "price": 42
+  },
+  {
+    "id": 607,
+    "name": "Mcguinness - Blue Curacao",
+    "description": "Nondisp fx of l radial styloid pro, 7thG",
+    "category": "Soft Flooring and Base",
+    "price": 40
+  },
+  {
+    "id": 608,
+    "name": "Beer - Original Organic Lager",
+    "description": "Unsp fx upper end of r radius, subs for clos fx w malunion",
+    "category": "Asphalt Paving",
+    "price": 8
+  },
+  {
+    "id": 609,
+    "name": "Seedlings - Buckwheat, Organic",
+    "description": "Oth physeal fracture of lower end of left femur, init",
+    "category": "Framing (Steel)",
+    "price": 90
+  },
+  {
+    "id": 610,
+    "name": "Godiva White Chocolate",
+    "description": "Malocclusion, Angle's class II",
+    "category": "Soft Flooring and Base",
+    "price": 57
+  },
+  {
+    "id": 611,
+    "name": "Coconut Milk - Unsweetened",
+    "description": "Age-rel osteopor w crnt path fx, verteb, 7thG",
+    "category": "Curb & Gutter",
+    "price": 79
+  },
+  {
+    "id": 612,
+    "name": "Noodles - Cellophane, Thin",
+    "description": "Dislocation of jaw, left side, initial encounter",
+    "category": "Asphalt Paving",
+    "price": 47
+  },
+  {
+    "id": 613,
+    "name": "Soup - Campbells Chili Veg",
+    "description": "Displ seg fx shaft of humer, unsp arm, 7thK",
+    "category": "Framing (Steel)",
+    "price": 21
+  },
+  {
+    "id": 614,
+    "name": "Wine - Barolo Fontanafredda",
+    "description": "Unspecified superficial injury of unspecified wrist",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 37
+  },
+  {
+    "id": 615,
+    "name": "Table Cloth 54x54 White",
+    "description": "Disp fx of shaft of fourth metacarpal bone, left hand",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 13
+  },
+  {
+    "id": 616,
+    "name": "Wine - Alsace Gewurztraminer",
+    "description": "Other specified fracture of pubis",
+    "category": "Ornamental Railings",
+    "price": 87
+  },
+  {
+    "id": 617,
+    "name": "Onions - White",
+    "description": "Lac w fb of abd wall, left lower q w penet perit cav, init",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 86
+  },
+  {
+    "id": 618,
+    "name": "Beef - Kobe Striploin",
+    "description": "Other secondary scoliosis, site unspecified",
+    "category": "Roofing (Metal)",
+    "price": 14
+  },
+  {
+    "id": 619,
+    "name": "Tofu - Firm",
+    "description": "Other bursal cyst, right hip",
+    "category": "RF Shielding",
+    "price": 58
+  },
+  {
+    "id": 620,
+    "name": "Wine - Magnotta - Cab Franc",
+    "description": "Rubella arthritis",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 63
+  },
+  {
+    "id": 621,
+    "name": "Soup - Knorr, Chicken Gumbo",
+    "description": "Accidental discharge of unsp larger firearm, subs encntr",
+    "category": "Framing (Steel)",
+    "price": 33
+  },
+  {
+    "id": 622,
+    "name": "Mix - Cocktail Ice Cream",
+    "description": "Crushing inj unsp external genital organs, female, subs",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 40
+  },
+  {
+    "id": 623,
+    "name": "Southern Comfort",
+    "description": "Shrt lst unil nerlgif hdache w cnjnct inject/tear, not ntrct",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 48
+  },
+  {
+    "id": 624,
+    "name": "Salt - Seasoned",
+    "description": "Strain of muscle, fascia and tendon at neck level, subs",
+    "category": "Electrical and Fire Alarm",
+    "price": 69
+  },
+  {
+    "id": 625,
+    "name": "Rice - Sushi",
+    "description": "Laceration of deep palmar arch of right hand, subs encntr",
+    "category": "HVAC",
+    "price": 89
+  },
+  {
+    "id": 626,
+    "name": "Chocolate - Milk",
+    "description": "Driver of 3-whl mv injured in collision w hv veh in traf",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 10
+  },
+  {
+    "id": 627,
+    "name": "Sambuca Cream",
+    "description": "Toxic effect of venom of gila monster, undetermined, subs",
+    "category": "Plumbing & Medical Gas",
+    "price": 4
+  },
+  {
+    "id": 628,
+    "name": "Creme De Cacao Mcguines",
+    "description": "Felty's syndrome, wrist",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 92
+  },
+  {
+    "id": 629,
+    "name": "Oil - Hazelnut",
+    "description": "Disp fx of base of nk of r femr, 7thF",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 94
+  },
+  {
+    "id": 630,
+    "name": "Amaretto",
+    "description": "Exposure keratoconjunctivitis, left eye",
+    "category": "Hard Tile & Stone",
+    "price": 71
+  },
+  {
+    "id": 631,
+    "name": "Lentils - Green, Dry",
+    "description": "Other conditions associated with Lyme disease",
+    "category": "Sitework & Site Utilities",
+    "price": 9
+  },
+  {
+    "id": 632,
+    "name": "Pork - Backfat",
+    "description": "Frostbite with tissue necrosis of unsp sites, init encntr",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 94
+  },
+  {
+    "id": 633,
+    "name": "Doilies - 5, Paper",
+    "description": "Encounter for screening for malignant neoplasm of ovary",
+    "category": "Termite Control",
+    "price": 60
+  },
+  {
+    "id": 634,
+    "name": "Table Cloth 62x120 White",
+    "description": "Secondary lacrimal gland atrophy, right lacrimal gland",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 97
+  },
+  {
+    "id": 635,
+    "name": "Nestea - Iced Tea",
+    "description": "Other specified injuries of left ankle",
+    "category": "Glass & Glazing",
+    "price": 53
+  },
+  {
+    "id": 636,
+    "name": "Sherry - Dry",
+    "description": "Sprain of unspecified ligament of left ankle",
+    "category": "Ornamental Railings",
+    "price": 15
+  },
+  {
+    "id": 637,
+    "name": "Juice - Cranberry 284ml",
+    "description": "Unsp war operations occurring after, milt, subs",
+    "category": "Masonry & Precast",
+    "price": 98
+  },
+  {
+    "id": 638,
+    "name": "Wine - Soave Folonari",
+    "description": "Unsp mtrcy rider inj in clsn w rail trn/veh nontraf, sequela",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 93
+  },
+  {
+    "id": 639,
+    "name": "Cheese - Feta",
+    "description": "Acquired absence of ovaries",
+    "category": "Hard Tile & Stone",
+    "price": 66
+  },
+  {
+    "id": 640,
+    "name": "Cabbage - Red",
+    "description": "Displ commnt fx shaft of rad, unsp arm, 7thF",
+    "category": "Structural & Misc Steel Erection",
+    "price": 75
+  },
+  {
+    "id": 641,
+    "name": "Glass Clear 7 Oz Xl",
+    "description": "Open bite of unspecified shoulder, sequela",
+    "category": "Curb & Gutter",
+    "price": 8
+  },
+  {
+    "id": 642,
+    "name": "Scallops - 10/20",
+    "description": "Occup of special industrial vehicle injured nontraf, init",
+    "category": "HVAC",
+    "price": 68
+  },
+  {
+    "id": 643,
+    "name": "Cheese - Le Cru Du Clocher",
+    "description": "Poisoning by pyrazolone derivatives, self-harm, sequela",
+    "category": "Overhead Doors",
+    "price": 26
+  },
+  {
+    "id": 644,
+    "name": "Chips Potato Swt Chilli Sour",
+    "description": "Matern care for known or susp placntl insuff, 2nd tri, unsp",
+    "category": "Granite Surfaces",
+    "price": 81
+  },
+  {
+    "id": 645,
+    "name": "Star Fruit",
+    "description": "Unspecified injury of popliteal vein, right leg, sequela",
+    "category": "Plumbing & Medical Gas",
+    "price": 95
+  },
+  {
+    "id": 646,
+    "name": "Container - Clear 16 Oz",
+    "description": "Expsr to high and low air pressr and changes in air pressure",
+    "category": "HVAC",
+    "price": 60
+  },
+  {
+    "id": 647,
+    "name": "Mushroom - Crimini",
+    "description": "Disp fx of fifth metatarsal bone, right foot, sequela",
+    "category": "Curb & Gutter",
+    "price": 10
+  },
+  {
+    "id": 648,
+    "name": "Wine - Port Late Bottled Vintage",
+    "description": "Displaced Maisonneuve's fracture of left leg, init",
+    "category": "Overhead Doors",
+    "price": 29
+  },
+  {
+    "id": 649,
+    "name": "Cabbage Roll",
+    "description": "Disp fx of r tibial tuberosity, 7thQ",
+    "category": "RF Shielding",
+    "price": 14
+  },
+  {
+    "id": 650,
+    "name": "Aromat Spice / Seasoning",
+    "description": "Unsp inj intrinsic msl/tnd at ank/ft level, unsp foot, init",
+    "category": "Epoxy Flooring",
+    "price": 19
+  },
+  {
+    "id": 651,
+    "name": "Plate Foam Laminated 9in Blk",
+    "description": "Encounter for attention to dressings, sutures and drains",
+    "category": "Casework",
+    "price": 23
+  },
+  {
+    "id": 652,
+    "name": "Pepper - Chipotle, Canned",
+    "description": "Abnormal electroretinogram [ERG]",
+    "category": "Doors, Frames & Hardware",
+    "price": 91
+  },
+  {
+    "id": 653,
+    "name": "Pectin",
+    "description": "Corrosion of second degree of right lower leg, sequela",
+    "category": "Glass & Glazing",
+    "price": 82
+  },
+  {
+    "id": 654,
+    "name": "Puree - Mocha",
+    "description": "Unspecified complication of heart transplant",
+    "category": "Wall Protection",
+    "price": 87
+  },
+  {
+    "id": 655,
+    "name": "Muffin Batt - Choc Chk",
+    "description": "Lead-induced chronic gout, right ankle and foot, w/o tophus",
+    "category": "Termite Control",
+    "price": 69
+  },
+  {
+    "id": 656,
+    "name": "Lamb - Bones",
+    "description": "Disp fx of olecran pro w/o intartic extn unsp ulna, 7thN",
+    "category": "Electrical and Fire Alarm",
+    "price": 32
+  },
+  {
+    "id": 657,
+    "name": "Browning Caramel Glace",
+    "description": "Disp fx of med phalanx of r idx fngr, 7thG",
+    "category": "Roofing (Asphalt)",
+    "price": 46
+  },
+  {
+    "id": 658,
+    "name": "Roe - Lump Fish, Black",
+    "description": "Corrosion of unspecified degree of left shoulder",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 87
+  },
+  {
+    "id": 659,
+    "name": "Lamb - Racks, Frenched",
+    "description": "Traumatic cerebral edema w LOC >24 hr w ret consc lev",
+    "category": "Drilled Shafts",
+    "price": 60
+  },
+  {
+    "id": 660,
+    "name": "Beef - Ox Tail, Frozen",
+    "description": "Moderate laceration of unsp part of pancreas, init encntr",
+    "category": "Wall Protection",
+    "price": 29
+  },
+  {
+    "id": 661,
+    "name": "Duck - Fat",
+    "description": "Other specified injuries of unspecified hip, sequela",
+    "category": "Curb & Gutter",
+    "price": 41
+  },
+  {
+    "id": 662,
+    "name": "Wine - Cotes Du Rhone",
+    "description": "Poisoning by antiparkns drug/centr musc-tone depr, self-harm",
+    "category": "Masonry & Precast",
+    "price": 2
+  },
+  {
+    "id": 663,
+    "name": "Coffee - Almond Amaretto",
+    "description": "Fibrosis due to nervous system prosth dev/grft",
+    "category": "Fire Protection",
+    "price": 56
+  },
+  {
+    "id": 664,
+    "name": "Bacardi Raspberry",
+    "description": "Activity, unspecified",
+    "category": "Hard Tile & Stone",
+    "price": 57
+  },
+  {
+    "id": 665,
+    "name": "Cake Sheet Combo Party Pack",
+    "description": "Heat exhaustion, anhydrotic, subsequent encounter",
+    "category": "Plumbing & Medical Gas",
+    "price": 46
+  },
+  {
+    "id": 666,
+    "name": "Lamb - Whole Head Off,nz",
+    "description": "Transient neonatal thrombocytopenia",
+    "category": "Asphalt Paving",
+    "price": 7
+  },
+  {
+    "id": 667,
+    "name": "Nut - Walnut, Chopped",
+    "description": "Partial physeal arrest, right proximal tibia",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 88
+  },
+  {
+    "id": 668,
+    "name": "Cream Of Tartar",
+    "description": "Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thP",
+    "category": "Elevator",
+    "price": 84
+  },
+  {
+    "id": 669,
+    "name": "Bread Crumbs - Panko",
+    "description": "Abscess of bursa, left wrist",
+    "category": "Structural & Misc Steel Erection",
+    "price": 45
+  },
+  {
+    "id": 670,
+    "name": "Octopus - Baby, Cleaned",
+    "description": "Corros 70-79% of body surface w 50-59% third degree corros",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 57
+  },
+  {
+    "id": 671,
+    "name": "Wine - Pinot Noir Latour",
+    "description": "Corrosion of larynx and trachea, initial encounter",
+    "category": "Doors, Frames & Hardware",
+    "price": 47
+  },
+  {
+    "id": 672,
+    "name": "Basil - Pesto Sauce",
+    "description": "Inhalant abuse with other inhalant-induced disorders",
+    "category": "Masonry",
+    "price": 94
+  },
+  {
+    "id": 673,
+    "name": "Pineapple - Canned, Rings",
+    "description": "Pathological fracture in oth disease, left radius, init",
+    "category": "Plumbing & Medical Gas",
+    "price": 85
+  },
+  {
+    "id": 674,
+    "name": "Beer - Camerons Cream Ale",
+    "description": "Driver of 3-whl mv injured in nonclsn trnsp accident nontraf",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 6
+  },
+  {
+    "id": 675,
+    "name": "Compound - Passion Fruit",
+    "description": "Unspecified physeal fracture of lower end of ulna",
+    "category": "Wall Protection",
+    "price": 92
+  },
+  {
+    "id": 676,
+    "name": "Dawn Professionl Pot And Pan",
+    "description": "Acute and subacute allergic otitis media (serous), r ear",
+    "category": "RF Shielding",
+    "price": 97
+  },
+  {
+    "id": 677,
+    "name": "Wine - George Duboeuf Rose",
+    "description": "Sltr-haris Type III physeal fx left metatarsal, 7thP",
+    "category": "Glass & Glazing",
+    "price": 83
+  },
+  {
+    "id": 678,
+    "name": "Tea - Lemon Green Tea",
+    "description": "Path fx in neopltc dis, r tibia, subs for fx w delay heal",
+    "category": "Electrical and Fire Alarm",
+    "price": 51
+  },
+  {
+    "id": 679,
+    "name": "Chicken - Leg, Fresh",
+    "description": "Quintuplet liveborn infant, delivered by cesarean",
+    "category": "Roofing (Asphalt)",
+    "price": 49
+  },
+  {
+    "id": 680,
+    "name": "Olives - Nicoise",
+    "description": "Injury of ulnar nerve at upper arm level, unsp arm, init",
+    "category": "HVAC",
+    "price": 63
+  },
+  {
+    "id": 681,
+    "name": "Beef - Top Sirloin - Aaa",
+    "description": "Path fx, unsp tibia and fibula, subs for fx w delay heal",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 1
+  },
+  {
+    "id": 682,
+    "name": "Radish",
+    "description": "Benign neoplasm of connctv/soft tiss of lower limb, inc hip",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 91
+  },
+  {
+    "id": 683,
+    "name": "Mustard - Individual Pkg",
+    "description": "Unsp open wound of right eyelid and periocular area, subs",
+    "category": "Site Furnishings",
+    "price": 57
+  },
+  {
+    "id": 684,
+    "name": "Beer - Steamwhistle",
+    "description": "Nondisp commnt fx l patella, 7thH",
+    "category": "Termite Control",
+    "price": 82
+  },
+  {
+    "id": 685,
+    "name": "Mikes Hard Lemonade",
+    "description": "Rheumatoid nodule",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 19
+  },
+  {
+    "id": 686,
+    "name": "Coriander - Ground",
+    "description": "Nondisp fx of lateral end of right clavicle, sequela",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 42
+  },
+  {
+    "id": 687,
+    "name": "Pumpkin",
+    "description": "Conjunctival hemorrhage, bilateral",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 33
+  },
+  {
+    "id": 688,
+    "name": "Chicken - Tenderloin",
+    "description": "Other specified fracture of left pubis",
+    "category": "Construction Clean and Final Clean",
+    "price": 23
+  },
+  {
+    "id": 689,
+    "name": "Tea Peppermint",
+    "description": "Corrosion of third degree of lip(s), sequela",
+    "category": "Marlite Panels (FED)",
+    "price": 71
+  },
+  {
+    "id": 690,
+    "name": "Cleaner - Lime Away",
+    "description": "Acute nephritic syndrome with minor glomerular abnormality",
+    "category": "Marlite Panels (FED)",
+    "price": 78
+  },
+  {
+    "id": 691,
+    "name": "Zucchini - Green",
+    "description": "Nondisp fx of trapezoid, unspecified wrist, sequela",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 12
+  },
+  {
+    "id": 692,
+    "name": "Cafe Royale",
+    "description": "Puncture wound w foreign body of unsp part of neck, sequela",
+    "category": "Framing (Wood)",
+    "price": 40
+  },
+  {
+    "id": 693,
+    "name": "Thermometer Digital",
+    "description": "Malig neoplasm of upper-inner quadrant of left female breast",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 99
+  },
+  {
+    "id": 694,
+    "name": "Strawberries - California",
+    "description": "Unsp physl fx lower end of l fibula, subs for fx w malunion",
+    "category": "Marlite Panels (FED)",
+    "price": 3
+  },
+  {
+    "id": 695,
+    "name": "Cheese - Havarti, Roasted Garlic",
+    "description": "Nondisp fx of fifth metatarsal bone, right foot, init",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 60
+  },
+  {
+    "id": 696,
+    "name": "Beef - Tongue, Cooked",
+    "description": "Displ transverse fx shaft of l tibia, 7thC",
+    "category": "Fire Sprinkler System",
+    "price": 79
+  },
+  {
+    "id": 697,
+    "name": "Nantucket - Carrot Orange",
+    "description": "Superficial foreign body of lip and oral cavity",
+    "category": "RF Shielding",
+    "price": 95
+  },
+  {
+    "id": 698,
+    "name": "Ecolab Crystal Fusion",
+    "description": "Disorders of ornithine metabolism",
+    "category": "Landscaping & Irrigation",
+    "price": 67
+  },
+  {
+    "id": 699,
+    "name": "Petit Baguette",
+    "description": "Chronic angle-closure glaucoma, unspecified eye",
+    "category": "Casework",
+    "price": 99
+  },
+  {
+    "id": 700,
+    "name": "Sauce Tomato Pouch",
+    "description": "Other peritonitis",
+    "category": "Doors, Frames & Hardware",
+    "price": 51
+  },
+  {
+    "id": 701,
+    "name": "Sobe - Lizard Fuel",
+    "description": "Occupant of anml-drn vehicle injured in clsn w stcar, init",
+    "category": "Plumbing & Medical Gas",
+    "price": 71
+  },
+  {
+    "id": 702,
+    "name": "Lettuce - Treviso",
+    "description": "Displ seg fx shaft of unsp fibula, 7thC",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 75
+  },
+  {
+    "id": 703,
+    "name": "Pastry - Apple Large",
+    "description": "Volcanic eruption",
+    "category": "Masonry",
+    "price": 91
+  },
+  {
+    "id": 704,
+    "name": "Wine - White, Ej",
+    "description": "Breakdown (mechanical) of heart valve prosthesis, subs",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 19
+  },
+  {
+    "id": 705,
+    "name": "Fennel",
+    "description": "Dislocation of radiocarpal joint of right wrist, subs encntr",
+    "category": "Plumbing & Medical Gas",
+    "price": 88
+  },
+  {
+    "id": 706,
+    "name": "Wine - Prosecco Valdobiaddene",
+    "description": "Corros 3rd deg mu left fngr (nail), not inc thumb, sequela",
+    "category": "Hard Tile & Stone",
+    "price": 41
+  },
+  {
+    "id": 707,
+    "name": "Pastry - French Mini Assorted",
+    "description": "Sprain of collateral ligament of knee",
+    "category": "Doors, Frames & Hardware",
+    "price": 17
+  },
+  {
+    "id": 708,
+    "name": "Mint - Fresh",
+    "description": "Benign mammary dysplasia",
+    "category": "Granite Surfaces",
+    "price": 41
+  },
+  {
+    "id": 709,
+    "name": "Pasta - Bauletti, Chicken White",
+    "description": "Nondisp subtrochnt fx l femur, subs for clos fx w delay heal",
+    "category": "Asphalt Paving",
+    "price": 33
+  },
+  {
+    "id": 710,
+    "name": "Pop Shoppe Cream Soda",
+    "description": "Fusion of spine, thoracic region",
+    "category": "Fire Sprinkler System",
+    "price": 19
+  },
+  {
+    "id": 711,
+    "name": "Sugar - Cubes",
+    "description": "Unsp inj extn musc/fasc/tend l idx fngr at wrs/hnd lv, sqla",
+    "category": "Electrical",
+    "price": 31
+  },
+  {
+    "id": 712,
+    "name": "Fish - Halibut, Cold Smoked",
+    "description": "Nondisp commnt fx shaft of rad, unsp arm, 7thE",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 45
+  },
+  {
+    "id": 713,
+    "name": "Pastry - Trippleberry Muffin - Mini",
+    "description": "Oral mucositis (ulcerative) due to other drugs",
+    "category": "Asphalt Paving",
+    "price": 4
+  },
+  {
+    "id": 714,
+    "name": "Mushroom - Portebello",
+    "description": "Oth injury of right innominate or subclavian vein",
+    "category": "Overhead Doors",
+    "price": 77
+  },
+  {
+    "id": 715,
+    "name": "Beans - Kidney, Red Dry",
+    "description": "Oth fx shaft of unsp tibia, subs for clos fx w routn heal",
+    "category": "Waterproofing & Caulking",
+    "price": 27
+  },
+  {
+    "id": 716,
+    "name": "Shrimp - Baby, Warm Water",
+    "description": "Heterophoria",
+    "category": "Wall Protection",
+    "price": 12
+  },
+  {
+    "id": 717,
+    "name": "Mudslide",
+    "description": "Inj flexor musc/fasc/tend l rng fngr at forearm level, subs",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 52
+  },
+  {
+    "id": 718,
+    "name": "Shrimp - 16 - 20 Cooked, Peeled",
+    "description": "Second degree hemorrhoids",
+    "category": "Glass & Glazing",
+    "price": 79
+  },
+  {
+    "id": 719,
+    "name": "Cheese - Perron Cheddar",
+    "description": "Chronic angle-closure glaucoma, bilateral, stage unspecified",
+    "category": "Exterior Signage",
+    "price": 96
+  },
+  {
+    "id": 720,
+    "name": "Chocolate - Pistoles, Lactee, Milk",
+    "description": "Other physeal fracture of phalanx of right toe, 7thB",
+    "category": "Soft Flooring and Base",
+    "price": 62
+  },
+  {
+    "id": 721,
+    "name": "Appetizer - Cheese Bites",
+    "description": "Other specified injuries of unspecified lower leg, sequela",
+    "category": "EIFS",
+    "price": 27
+  },
+  {
+    "id": 722,
+    "name": "Otomegusa Dashi Konbu",
+    "description": "Arthropathies in oth diseases classified elsewhere, left hip",
+    "category": "Elevator",
+    "price": 37
+  },
+  {
+    "id": 723,
+    "name": "Cinnamon Buns Sticky",
+    "description": "Ascariasis with other complications",
+    "category": "Marlite Panels (FED)",
+    "price": 50
+  },
+  {
+    "id": 724,
+    "name": "Chinese Foods - Chicken Wing",
+    "description": "Oth injury of unsp blood vessel at forearm level, left arm",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 87
+  },
+  {
+    "id": 725,
+    "name": "Crush - Cream Soda",
+    "description": "Desquamative interstitial pneumonia",
+    "category": "Masonry & Precast",
+    "price": 45
+  },
+  {
+    "id": 726,
+    "name": "Lettuce - Mini Greens, Whole",
+    "description": "Athscl nonbiol bypass of right leg w ulcer of heel and midft",
+    "category": "Roofing (Metal)",
+    "price": 3
+  },
+  {
+    "id": 727,
+    "name": "Whmis - Spray Bottle Trigger",
+    "description": "Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, init",
+    "category": "Roofing (Metal)",
+    "price": 41
+  },
+  {
+    "id": 728,
+    "name": "Godiva White Chocolate",
+    "description": "Displ spiral fx shaft of unsp fibula, 7thK",
+    "category": "Waterproofing & Caulking",
+    "price": 97
+  },
+  {
+    "id": 729,
+    "name": "Bar Nature Valley",
+    "description": "Corros 40-49% of body surface w 0% to 9% third degree corros",
+    "category": "Granite Surfaces",
+    "price": 31
+  },
+  {
+    "id": 730,
+    "name": "Wine - Zinfandel California 2002",
+    "description": "Unspecified injury of superior vena cava, sequela",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 19
+  },
+  {
+    "id": 731,
+    "name": "Avocado",
+    "description": "NIHSS score 25",
+    "category": "Sitework & Site Utilities",
+    "price": 46
+  },
+  {
+    "id": 732,
+    "name": "Amarula Cream",
+    "description": "Crashing of motor vehicle, undetermined intent, init encntr",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 23
+  },
+  {
+    "id": 733,
+    "name": "Pepper - White, Whole",
+    "description": "Mtrcy passenger injured in clsn w oth and unsp mv in traf",
+    "category": "Epoxy Flooring",
+    "price": 32
+  },
+  {
+    "id": 734,
+    "name": "Soup Campbells",
+    "description": "Benign lipomatous neoplasm of skin, subcu of left leg",
+    "category": "Ornamental Railings",
+    "price": 70
+  },
+  {
+    "id": 735,
+    "name": "Ham - Black Forest",
+    "description": "Unil inguinal hernia, w/o obst or gangr, not spcf as recur",
+    "category": "EIFS",
+    "price": 6
+  },
+  {
+    "id": 736,
+    "name": "Chocolate - Milk",
+    "description": "Derangement of lateral meniscus due to old tear or injury",
+    "category": "Electrical",
+    "price": 86
+  },
+  {
+    "id": 737,
+    "name": "Beef - Tenderloin - Aa",
+    "description": "Toxic eff of halgn deriv of aromatic hydrocrb, asslt, sqla",
+    "category": "Framing (Wood)",
+    "price": 100
+  },
+  {
+    "id": 738,
+    "name": "Pancetta",
+    "description": "Driver of hv veh injured in collision w hv veh nontraf, init",
+    "category": "EIFS",
+    "price": 37
+  },
+  {
+    "id": 739,
+    "name": "Cabbage - Savoy",
+    "description": "Contact w nonvenom plant thorns and spines and sharp leaves",
+    "category": "Ornamental Railings",
+    "price": 43
+  },
+  {
+    "id": 740,
+    "name": "Pork - Back, Short Cut, Boneless",
+    "description": "Crushing injury of right ankle, subsequent encounter",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 32
+  },
+  {
+    "id": 741,
+    "name": "Cheese - Comte",
+    "description": "Adjustment disorders",
+    "category": "Electrical",
+    "price": 86
+  },
+  {
+    "id": 742,
+    "name": "Wine - White, Mosel Gold",
+    "description": "Oth fx head/neck of unsp femur, subs for clos fx w malunion",
+    "category": "Landscaping & Irrigation",
+    "price": 92
+  },
+  {
+    "id": 743,
+    "name": "Mix - Cappucino Cocktail",
+    "description": "Food in bronchus causing asphyxiation, sequela",
+    "category": "Wall Protection",
+    "price": 14
+  },
+  {
+    "id": 744,
+    "name": "Table Cloth 53x69 White",
+    "description": "Herpesviral ocular disease",
+    "category": "Masonry",
+    "price": 15
+  },
+  {
+    "id": 745,
+    "name": "Stainless Steel Cleaner Vision",
+    "description": "Unspecified injury of anterior tibial artery, right leg",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 73
+  },
+  {
+    "id": 746,
+    "name": "Beef Tenderloin Aaa",
+    "description": "Displ spiral fx shaft of rad, unsp arm, 7thF",
+    "category": "EIFS",
+    "price": 44
+  },
+  {
+    "id": 747,
+    "name": "Sauce - Sesame Thai Dressing",
+    "description": "Full-term prem ROM, onset labor within 24 hours of rupture",
+    "category": "Construction Clean and Final Clean",
+    "price": 36
+  },
+  {
+    "id": 748,
+    "name": "Napkin White - Starched",
+    "description": "Sltr-haris Type III physeal fx right metatarsal, 7thP",
+    "category": "Curb & Gutter",
+    "price": 5
+  },
+  {
+    "id": 749,
+    "name": "Coconut - Creamed, Pure",
+    "description": "Drown due to fall/jump fr burning water-skis, init",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 84
+  },
+  {
+    "id": 750,
+    "name": "Plastic Arrow Stir Stick",
+    "description": "Pathological fracture, right fibula, init for fx",
+    "category": "Curb & Gutter",
+    "price": 3
+  },
+  {
+    "id": 751,
+    "name": "Corn Kernels - Frozen",
+    "description": "Unsp fx shaft of right femur, subs for clos fx w malunion",
+    "category": "Masonry",
+    "price": 93
+  },
+  {
+    "id": 752,
+    "name": "Sobe - Berry Energy",
+    "description": "Partial traumatic trnsphal amp of l little finger, subs",
+    "category": "Drilled Shafts",
+    "price": 34
+  },
+  {
+    "id": 753,
+    "name": "Bread - Sticks, Thin, Plain",
+    "description": "Monoplg upr lmb fol ntrm intcrbl hemor aff right nondom side",
+    "category": "Asphalt Paving",
+    "price": 93
+  },
+  {
+    "id": 754,
+    "name": "Arizona - Green Tea",
+    "description": "Struck by pig, subsequent encounter",
+    "category": "Landscaping & Irrigation",
+    "price": 17
+  },
+  {
+    "id": 755,
+    "name": "Macaroons - Two Bite Choc",
+    "description": "Mature T/NK-cell lymphomas, unspecified",
+    "category": "Framing (Steel)",
+    "price": 30
+  },
+  {
+    "id": 756,
+    "name": "Wine - Alsace Gewurztraminer",
+    "description": "Primary cyst of pars plana, right eye",
+    "category": "Casework",
+    "price": 83
+  },
+  {
+    "id": 757,
+    "name": "Parasol Pick Stir Stick",
+    "description": "Aneurysmal bone cyst, right forearm",
+    "category": "Wall Protection",
+    "price": 80
+  },
+  {
+    "id": 758,
+    "name": "Pasta - Ravioli",
+    "description": "Poisoning by cannabis (derivatives), assault, subs encntr",
+    "category": "Ornamental Railings",
+    "price": 91
+  },
+  {
+    "id": 759,
+    "name": "Appetizer - Cheese Bites",
+    "description": "Toxic effect of other specified substances, assault, sequela",
+    "category": "Exterior Signage",
+    "price": 21
+  },
+  {
+    "id": 760,
+    "name": "Egg Patty Fried",
+    "description": "Other inflammation of vagina and vulva",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 10
+  },
+  {
+    "id": 761,
+    "name": "Beans - Kidney White",
+    "description": "Unsp intracap fx r femr, 7thF",
+    "category": "Landscaping & Irrigation",
+    "price": 28
+  },
+  {
+    "id": 762,
+    "name": "Cookie Dough - Peanut Butter",
+    "description": "Injury of digital nerve of other finger, subs encntr",
+    "category": "Soft Flooring and Base",
+    "price": 21
+  },
+  {
+    "id": 763,
+    "name": "Coconut - Whole",
+    "description": "Poisoning by oth opioids, accidental (unintentional), init",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 6
+  },
+  {
+    "id": 764,
+    "name": "Remy Red Berry Infusion",
+    "description": "Fall on same level from slipping, tripping and stumbling",
+    "category": "Casework",
+    "price": 20
+  },
+  {
+    "id": 765,
+    "name": "Banana - Leaves",
+    "description": "Toxic effect of unsp snake venom, accidental (unintentional)",
+    "category": "HVAC",
+    "price": 80
+  },
+  {
+    "id": 766,
+    "name": "Pastry - Mini French Pastries",
+    "description": "Corrosion of unspecified degree of unspecified knee, sequela",
+    "category": "Granite Surfaces",
+    "price": 54
+  },
+  {
+    "id": 767,
+    "name": "Lotus Root",
+    "description": "Toxic effect of venom of tarantula, accidental, subs",
+    "category": "Hard Tile & Stone",
+    "price": 23
+  },
+  {
+    "id": 768,
+    "name": "Puree - Mocha",
+    "description": "Acute gastritis with bleeding",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 43
+  },
+  {
+    "id": 769,
+    "name": "Sauce - Mint",
+    "description": "Acute posthemorrhagic anemia",
+    "category": "Drilled Shafts",
+    "price": 50
+  },
+  {
+    "id": 770,
+    "name": "Bread Country Roll",
+    "description": "Toxic effect of cobra venom, undetermined, sequela",
+    "category": "EIFS",
+    "price": 55
+  },
+  {
+    "id": 771,
+    "name": "Shrimp - Tiger 21/25",
+    "description": "Displ Maisonneuve's fx r leg, subs for clos fx w malunion",
+    "category": "Curb & Gutter",
+    "price": 13
+  },
+  {
+    "id": 772,
+    "name": "Coffee Guatemala Dark",
+    "description": "Effects of high-pressure fluids, sequela",
+    "category": "Exterior Signage",
+    "price": 10
+  },
+  {
+    "id": 773,
+    "name": "Ham - Smoked, Bone - In",
+    "description": "Greenstick fracture of shaft of radius",
+    "category": "Elevator",
+    "price": 2
+  },
+  {
+    "id": 774,
+    "name": "Zucchini - Green",
+    "description": "Unsp disp fx of surg nk of unsp humer, 7thP",
+    "category": "Casework",
+    "price": 53
+  },
+  {
+    "id": 775,
+    "name": "Oranges - Navel, 72",
+    "description": "Disp fx of distal phalanx of l thm, subs for fx w malunion",
+    "category": "Granite Surfaces",
+    "price": 71
+  },
+  {
+    "id": 776,
+    "name": "Pastry - Apple Muffins - Mini",
+    "description": "Cracked nipple associated with pregnancy",
+    "category": "Granite Surfaces",
+    "price": 100
+  },
+  {
+    "id": 777,
+    "name": "Cape Capensis - Fillet",
+    "description": "Disp fx of epiphy (separation) (upper) of l femr, 7thB",
+    "category": "Granite Surfaces",
+    "price": 36
+  },
+  {
+    "id": 778,
+    "name": "Pails With Lids",
+    "description": "Subluxation of interphalangeal joint of unsp great toe, subs",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 75
+  },
+  {
+    "id": 779,
+    "name": "Pork - Suckling Pig",
+    "description": "Contus/lac r cereb w LOC w dth d/t oth cause bf consc, subs",
+    "category": "Drilled Shafts",
+    "price": 80
+  },
+  {
+    "id": 780,
+    "name": "Filling - Mince Meat",
+    "description": "Chronic venous hypertension (idiopathic) w/o complications",
+    "category": "Glass & Glazing",
+    "price": 49
+  },
+  {
+    "id": 781,
+    "name": "Crab - Claws, 26 - 30",
+    "description": "Oth injury due to oth accident to canoe or kayak, init",
+    "category": "Epoxy Flooring",
+    "price": 44
+  },
+  {
+    "id": 782,
+    "name": "Vector Energy Bar",
+    "description": "Injury of femoral nerve at hip and thigh level, right leg",
+    "category": "Drilled Shafts",
+    "price": 94
+  },
+  {
+    "id": 783,
+    "name": "Dill - Primerba, Paste",
+    "description": "Sadomasochism, unspecified",
+    "category": "Plumbing & Medical Gas",
+    "price": 30
+  },
+  {
+    "id": 784,
+    "name": "Worcestershire Sauce",
+    "description": "Driver of 3-whl mv injured in clsn w nonmtr vehicle nontraf",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 36
+  },
+  {
+    "id": 785,
+    "name": "Cheese - Cheddar, Mild",
+    "description": "Sltr-haris Type I physl fx low end l tibia, 7thK",
+    "category": "Doors, Frames & Hardware",
+    "price": 21
+  },
+  {
+    "id": 786,
+    "name": "Tomatoes - Diced, Canned",
+    "description": "Breakdown (mechanical) of int fix of bone of r forearm, subs",
+    "category": "Soft Flooring and Base",
+    "price": 81
+  },
+  {
+    "id": 787,
+    "name": "Oil - Sunflower",
+    "description": "Contusion of right ankle",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 88
+  },
+  {
+    "id": 788,
+    "name": "Sausage - Breakfast",
+    "description": "Poisoning by unspecified narcotics, assault, subs encntr",
+    "category": "Overhead Doors",
+    "price": 52
+  },
+  {
+    "id": 789,
+    "name": "Sproutsmustard Cress",
+    "description": "Burn of third degree of lower back",
+    "category": "Framing (Wood)",
+    "price": 90
+  },
+  {
+    "id": 790,
+    "name": "Sauce Bbq Smokey",
+    "description": "Moderate laceration of pancreas",
+    "category": "Epoxy Flooring",
+    "price": 39
+  },
+  {
+    "id": 791,
+    "name": "Chips Potato Swt Chilli Sour",
+    "description": "Foreign body in bladder",
+    "category": "Doors, Frames & Hardware",
+    "price": 75
+  },
+  {
+    "id": 792,
+    "name": "Cod - Salted, Boneless",
+    "description": "Abscess of the breast and nipple",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 50
+  },
+  {
+    "id": 793,
+    "name": "Honey - Comb",
+    "description": "Pathological fracture, right ulna, subs for fx w delay heal",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 67
+  },
+  {
+    "id": 794,
+    "name": "Towel Multifold",
+    "description": "Contusion of unsp thumb with damage to nail, subs encntr",
+    "category": "Masonry",
+    "price": 49
+  },
+  {
+    "id": 795,
+    "name": "Sandwich Wrap",
+    "description": "Fx unsp tarsal bone(s) of unsp ft, subs for fx w delay heal",
+    "category": "Overhead Doors",
+    "price": 26
+  },
+  {
+    "id": 796,
+    "name": "Wine - Casillero Deldiablo",
+    "description": "Laceration with foreign body, right knee, initial encounter",
+    "category": "Landscaping & Irrigation",
+    "price": 68
+  },
+  {
+    "id": 797,
+    "name": "Irish Cream - Butterscotch",
+    "description": "Corrosion of first degree of unspecified scapular region",
+    "category": "Epoxy Flooring",
+    "price": 34
+  },
+  {
+    "id": 798,
+    "name": "Muffin Mix - Chocolate Chip",
+    "description": "Minor laceration of internal jugular vein",
+    "category": "Curb & Gutter",
+    "price": 46
+  },
+  {
+    "id": 799,
+    "name": "Sugar - Monocystal / Rock",
+    "description": "Other urogenital trichomoniasis",
+    "category": "Ornamental Railings",
+    "price": 78
+  },
+  {
+    "id": 800,
+    "name": "Carbonated Water - Wildberry",
+    "description": "Spiritual or religious counseling",
+    "category": "Glass & Glazing",
+    "price": 93
+  },
+  {
+    "id": 801,
+    "name": "Bread - Crusty Italian Poly",
+    "description": "Leakage of biological heart valve graft",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 92
+  },
+  {
+    "id": 802,
+    "name": "Cheese Cheddar Processed",
+    "description": "Family history of ear disorders",
+    "category": "Exterior Signage",
+    "price": 94
+  },
+  {
+    "id": 803,
+    "name": "Sauce Tomato Pouch",
+    "description": "Sprain of other ligament of ankle",
+    "category": "Glass & Glazing",
+    "price": 33
+  },
+  {
+    "id": 804,
+    "name": "Longos - Assorted Sandwich",
+    "description": "Laceration of ureter, initial encounter",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 52
+  },
+  {
+    "id": 805,
+    "name": "Nantucket Pine Orangebanana",
+    "description": "External constriction, right great toe, initial encounter",
+    "category": "Site Furnishings",
+    "price": 68
+  },
+  {
+    "id": 806,
+    "name": "Crackers - Melba Toast",
+    "description": "Oth injury of musc/fasc/tend at thigh level, right thigh",
+    "category": "Overhead Doors",
+    "price": 62
+  },
+  {
+    "id": 807,
+    "name": "Asparagus - Green, Fresh",
+    "description": "Dislocation of unspecified cervical vertebrae, init encntr",
+    "category": "Epoxy Flooring",
+    "price": 88
+  },
+  {
+    "id": 808,
+    "name": "Blueberries - Frozen",
+    "description": "Laceration of popliteal vein, right leg, initial encounter",
+    "category": "Fire Protection",
+    "price": 33
+  },
+  {
+    "id": 809,
+    "name": "Nutmeg - Ground",
+    "description": "Unspecified superficial injury of left index finger, sequela",
+    "category": "Masonry",
+    "price": 89
+  },
+  {
+    "id": 810,
+    "name": "Yogurt - Plain",
+    "description": "Disp fx of coronoid pro of l ulna, 7thK",
+    "category": "Overhead Doors",
+    "price": 56
+  },
+  {
+    "id": 811,
+    "name": "Nut - Almond, Blanched, Sliced",
+    "description": "Open bite of right great toe with damage to nail",
+    "category": "Electrical and Fire Alarm",
+    "price": 96
+  },
+  {
+    "id": 812,
+    "name": "Mix - Cocktail Ice Cream",
+    "description": "Bitten by macaw, sequela",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 15
+  },
+  {
+    "id": 813,
+    "name": "Chocolate - Dark",
+    "description": "Other hypertrophic osteoarthropathy, left thigh",
+    "category": "Construction Clean and Final Clean",
+    "price": 17
+  },
+  {
+    "id": 814,
+    "name": "Lemonade - Mandarin, 591 Ml",
+    "description": "Respiratory distress of newborn, unspecified",
+    "category": "Elevator",
+    "price": 46
+  },
+  {
+    "id": 815,
+    "name": "Chinese Lemon Pork",
+    "description": "Other injury of unsp urinary and pelvic organ, subs encntr",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 13
+  },
+  {
+    "id": 816,
+    "name": "Cotton Wet Mop 16 Oz",
+    "description": "Oth venous comp following an ectopic and molar pregnancy",
+    "category": "Marlite Panels (FED)",
+    "price": 24
+  },
+  {
+    "id": 817,
+    "name": "Ecolab Digiclean Mild Fm",
+    "description": "Other secondary gout, left elbow",
+    "category": "HVAC",
+    "price": 92
+  },
+  {
+    "id": 818,
+    "name": "Water - Spring 1.5lit",
+    "description": "Acquired keratosis [keratoderma] palmaris et plantaris",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 38
+  },
+  {
+    "id": 819,
+    "name": "Squash - Sunburst",
+    "description": "Other fracture of right talus, sequela",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 1
+  },
+  {
+    "id": 820,
+    "name": "Pail - 4l White, With Handle",
+    "description": "External constriction of part of breast, right breast, subs",
+    "category": "Epoxy Flooring",
+    "price": 40
+  },
+  {
+    "id": 821,
+    "name": "Carbonated Water - Cherry",
+    "description": "Felty's syndrome, left shoulder",
+    "category": "Roofing (Metal)",
+    "price": 76
+  },
+  {
+    "id": 822,
+    "name": "Wine - Hardys Bankside Shiraz",
+    "description": "Erosn implnt urtl bulk agnt organ or tissue, subs",
+    "category": "Construction Clean and Final Clean",
+    "price": 47
+  },
+  {
+    "id": 823,
+    "name": "Water - Perrier",
+    "description": "Immersion foot, right foot",
+    "category": "EIFS",
+    "price": 72
+  },
+  {
+    "id": 824,
+    "name": "Lettuce - Green Leaf",
+    "description": "Assault by bodily force",
+    "category": "Site Furnishings",
+    "price": 79
+  },
+  {
+    "id": 825,
+    "name": "Yogurt - Cherry, 175 Gr",
+    "description": "Pressure ulcer of right hip, unstageable",
+    "category": "Electrical",
+    "price": 79
+  },
+  {
+    "id": 826,
+    "name": "Snapple - Iced Tea Peach",
+    "description": "Malignant neoplasm of axillary tail of breast, male",
+    "category": "Sitework & Site Utilities",
+    "price": 83
+  },
+  {
+    "id": 827,
+    "name": "Cassis",
+    "description": "Adhesive left middle ear disease",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 83
+  },
+  {
+    "id": 828,
+    "name": "Squid Ink",
+    "description": "Laceration of ovary, bilateral",
+    "category": "Granite Surfaces",
+    "price": 86
+  },
+  {
+    "id": 829,
+    "name": "Lambcasing",
+    "description": "Burn of third degree of right ankle",
+    "category": "Elevator",
+    "price": 18
+  },
+  {
+    "id": 830,
+    "name": "Muffin - Mix - Strawberry Rhubarb",
+    "description": "Unsp injury of right shoulder and upper arm, init encntr",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 89
+  },
+  {
+    "id": 831,
+    "name": "Soup - Campbells Beef Stew",
+    "description": "Lacerat intrinsic musc/fasc/tend r rng fngr at wrs/hnd lv",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 100
+  },
+  {
+    "id": 832,
+    "name": "Wine - Riesling Alsace Ac 2001",
+    "description": "Immunization not carried out because of patient refusal",
+    "category": "Roofing (Asphalt)",
+    "price": 94
+  },
+  {
+    "id": 833,
+    "name": "Foam Dinner Plate",
+    "description": "Nondisp fx of 2nd metatarsal bone, unsp ft, 7thP",
+    "category": "Termite Control",
+    "price": 93
+  },
+  {
+    "id": 834,
+    "name": "Garbage Bags - Clear",
+    "description": "Oth traum nondisp spondylolysis of third cervcal vert, init",
+    "category": "Sitework & Site Utilities",
+    "price": 90
+  },
+  {
+    "id": 835,
+    "name": "Sage Derby",
+    "description": "Superficial foreign body of scrotum and testes, init encntr",
+    "category": "Termite Control",
+    "price": 17
+  },
+  {
+    "id": 836,
+    "name": "Cheese - Sheep Milk",
+    "description": "Pre-existing secondary htn comp pregnancy, unsp trimester",
+    "category": "Drilled Shafts",
+    "price": 14
+  },
+  {
+    "id": 837,
+    "name": "Ecolab - Power Fusion",
+    "description": "27 weeks gestation of pregnancy",
+    "category": "Fire Sprinkler System",
+    "price": 51
+  },
+  {
+    "id": 838,
+    "name": "Wine - Charddonnay Errazuriz",
+    "description": "Traumatic rupture of unspecified ear drum, subs encntr",
+    "category": "Site Furnishings",
+    "price": 84
+  },
+  {
+    "id": 839,
+    "name": "Mayonnaise - Individual Pkg",
+    "description": "Diffuse sclerosis of central nervous system",
+    "category": "Sitework & Site Utilities",
+    "price": 35
+  },
+  {
+    "id": 840,
+    "name": "Icecream Bar - Del Monte",
+    "description": "Intermittent hydrarthrosis, right ankle and foot",
+    "category": "Overhead Doors",
+    "price": 60
+  },
+  {
+    "id": 841,
+    "name": "Cheese Cloth No 60",
+    "description": "Poisn by antivaric drugs, inc scler agents, self-harm, init",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 30
+  },
+  {
+    "id": 842,
+    "name": "Kiwi Gold Zespri",
+    "description": "Fall into natrl body of water strk side cause oth inj, subs",
+    "category": "Curb & Gutter",
+    "price": 35
+  },
+  {
+    "id": 843,
+    "name": "Clementine",
+    "description": "Displ simple suprcndl fx w/o intrcndl fx unsp humerus, init",
+    "category": "Granite Surfaces",
+    "price": 62
+  },
+  {
+    "id": 844,
+    "name": "Cup Translucent 9 Oz",
+    "description": "Nondisp fx of medial cuneiform of unsp foot, init for opn fx",
+    "category": "Curb & Gutter",
+    "price": 3
+  },
+  {
+    "id": 845,
+    "name": "Wine - Red, Gallo, Merlot",
+    "description": "Cicatricial ectropion of left upper eyelid",
+    "category": "Ornamental Railings",
+    "price": 51
+  },
+  {
+    "id": 846,
+    "name": "Sauce - Hollandaise",
+    "description": "Sltr-haris Type II physeal fx phalanx of unspecified toe",
+    "category": "Structural & Misc Steel Erection",
+    "price": 36
+  },
+  {
+    "id": 847,
+    "name": "Flower - Leather Leaf Fern",
+    "description": "Complete traumatic amputation of right breast, sequela",
+    "category": "Electrical",
+    "price": 85
+  },
+  {
+    "id": 848,
+    "name": "Lobster - Live",
+    "description": "Disp fx of l tibial spin, 7thN",
+    "category": "Marlite Panels (FED)",
+    "price": 56
+  },
+  {
+    "id": 849,
+    "name": "Butter Sweet",
+    "description": "Unsp fracture of shaft of unsp radius, init for clos fx",
+    "category": "HVAC",
+    "price": 26
+  },
+  {
+    "id": 850,
+    "name": "Vanilla Beans",
+    "description": "Scombroid fish poisoning, undetermined, sequela",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 9
+  },
+  {
+    "id": 851,
+    "name": "Nantucket - 518ml",
+    "description": "Epiphora due to insufficient drainage, left lacrimal gland",
+    "category": "EIFS",
+    "price": 13
+  },
+  {
+    "id": 852,
+    "name": "Yogurt - Strawberry, 175 Gr",
+    "description": "Infection following a procedure, initial encounter",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 18
+  },
+  {
+    "id": 853,
+    "name": "Capon - Breast, Double, Wing On",
+    "description": "Contusion of left little finger with damage to nail, sequela",
+    "category": "Termite Control",
+    "price": 78
+  },
+  {
+    "id": 854,
+    "name": "Tuna - Loin",
+    "description": "Presence of unspecified artificial wrist joint",
+    "category": "Asphalt Paving",
+    "price": 54
+  },
+  {
+    "id": 855,
+    "name": "Cake - Cake Sheet Macaroon",
+    "description": "Effusion, right shoulder",
+    "category": "RF Shielding",
+    "price": 76
+  },
+  {
+    "id": 856,
+    "name": "Dried Cranberries",
+    "description": "Nondisplaced transverse fracture of shaft of right femur",
+    "category": "Electrical and Fire Alarm",
+    "price": 8
+  },
+  {
+    "id": 857,
+    "name": "Wine - Red, Concha Y Toro",
+    "description": "Drown due to being washed overboard from passenger ship",
+    "category": "Waterproofing & Caulking",
+    "price": 12
+  },
+  {
+    "id": 858,
+    "name": "Vermouth - White, Cinzano",
+    "description": "Puerperal psychosis",
+    "category": "HVAC",
+    "price": 85
+  },
+  {
+    "id": 859,
+    "name": "Pastry - Banana Muffin - Mini",
+    "description": "Pathological dislocation of right wrist, NEC",
+    "category": "RF Shielding",
+    "price": 47
+  },
+  {
+    "id": 860,
+    "name": "Spinach - Baby",
+    "description": "Maternal care for disproportion, unspecified",
+    "category": "Hard Tile & Stone",
+    "price": 22
+  },
+  {
+    "id": 861,
+    "name": "Pepper - Orange",
+    "description": "Split foot, left lower limb",
+    "category": "HVAC",
+    "price": 25
+  },
+  {
+    "id": 862,
+    "name": "Capon - Breast, Double, Wing On",
+    "description": "Other specified spondylopathies",
+    "category": "Casework",
+    "price": 98
+  },
+  {
+    "id": 863,
+    "name": "Hog / Sausage Casing - Pork",
+    "description": "Laceration of ureter",
+    "category": "EIFS",
+    "price": 36
+  },
+  {
+    "id": 864,
+    "name": "Cheese - Parmesan Grated",
+    "description": "Total perforations of tympanic membrane, right ear",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 74
+  },
+  {
+    "id": 865,
+    "name": "Soup - Campbells Chili Veg",
+    "description": "Maternal care for rhesus isoimmunization",
+    "category": "Structural & Misc Steel Erection",
+    "price": 83
+  },
+  {
+    "id": 866,
+    "name": "Grouper - Fresh",
+    "description": "Oth and unsp medical devices associated w adverse incidents",
+    "category": "Asphalt Paving",
+    "price": 87
+  },
+  {
+    "id": 867,
+    "name": "Jam - Marmalade, Orange",
+    "description": "Nondisp fx of prox phalanx of unsp great toe, 7thB",
+    "category": "Fire Protection",
+    "price": 22
+  },
+  {
+    "id": 868,
+    "name": "Containter - 3oz Microwave Rect.",
+    "description": "Sltr-haris Type II physl fx upr end r tibia, 7thG",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 66
+  },
+  {
+    "id": 869,
+    "name": "Potatoes - Purple, Organic",
+    "description": "Open bite of unspecified buttock",
+    "category": "Masonry & Precast",
+    "price": 80
+  },
+  {
+    "id": 870,
+    "name": "Oil - Avocado",
+    "description": "Poisoning by oth fibrin-affct drugs, self-harm, sequela",
+    "category": "Fire Sprinkler System",
+    "price": 72
+  },
+  {
+    "id": 871,
+    "name": "Broom - Corn",
+    "description": "Drown d/t thrown ovrbrd by motion of power wtrcrft, subs",
+    "category": "Exterior Signage",
+    "price": 50
+  },
+  {
+    "id": 872,
+    "name": "Lemonade - Strawberry, 591 Ml",
+    "description": "Contusion of spleen",
+    "category": "Structural & Misc Steel Erection",
+    "price": 82
+  },
+  {
+    "id": 873,
+    "name": "Cherries - Bing, Canned",
+    "description": "Open bite of unspecified hand, initial encounter",
+    "category": "Epoxy Flooring",
+    "price": 95
+  },
+  {
+    "id": 874,
+    "name": "Onion - Dried",
+    "description": "Sprain of unsp cruciate ligament of unsp knee, init encntr",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 48
+  },
+  {
+    "id": 875,
+    "name": "Bread - 10 Grain",
+    "description": "Problems related to education and literacy",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 74
+  },
+  {
+    "id": 876,
+    "name": "Beer - Muskoka Cream Ale",
+    "description": "Benign neoplasm of left ureter",
+    "category": "Glass & Glazing",
+    "price": 84
+  },
+  {
+    "id": 877,
+    "name": "Lotus Root",
+    "description": "Volcanic eruption, sequela",
+    "category": "Termite Control",
+    "price": 56
+  },
+  {
+    "id": 878,
+    "name": "Syrup - Monin, Irish Cream",
+    "description": "Personal history of other malignant neoplasm of thymus",
+    "category": "Curb & Gutter",
+    "price": 69
+  },
+  {
+    "id": 879,
+    "name": "Flavouring Vanilla Artificial",
+    "description": "Mech compl of coronary artery bypass graft, subs encntr",
+    "category": "Sitework & Site Utilities",
+    "price": 17
+  },
+  {
+    "id": 880,
+    "name": "Pepsi - 600ml",
+    "description": "Poisn by analeptics and opioid receptor antag, slf-hrm, subs",
+    "category": "Elevator",
+    "price": 67
+  },
+  {
+    "id": 881,
+    "name": "Wine - Chardonnay South",
+    "description": "Blister (nonthermal) of left elbow, sequela",
+    "category": "Landscaping & Irrigation",
+    "price": 98
+  },
+  {
+    "id": 882,
+    "name": "Wine - Domaine Boyar Royal",
+    "description": "Poisoning by predom alpha-adrenocpt agonists, acc, subs",
+    "category": "Fire Sprinkler System",
+    "price": 56
+  },
+  {
+    "id": 883,
+    "name": "Sauce - Soya, Light",
+    "description": "Shrt lst unil nerlgif headache w cnjnct inject/tear (SUNCT)",
+    "category": "Sitework & Site Utilities",
+    "price": 19
+  },
+  {
+    "id": 884,
+    "name": "Sauce - Black Current, Dry Mix",
+    "description": "Toxic effect of chloroform, assault, sequela",
+    "category": "Marlite Panels (FED)",
+    "price": 57
+  },
+  {
+    "id": 885,
+    "name": "Ecolab Crystal Fusion",
+    "description": "Subacute osteomyelitis",
+    "category": "Sitework & Site Utilities",
+    "price": 22
+  },
+  {
+    "id": 886,
+    "name": "Lamb - Leg, Boneless",
+    "description": "Superficial foreign body of breast, left breast, init encntr",
+    "category": "Wall Protection",
+    "price": 99
+  },
+  {
+    "id": 887,
+    "name": "Nut - Almond, Blanched, Whole",
+    "description": "Contusion of unsp great toe w/o damage to nail, init encntr",
+    "category": "Granite Surfaces",
+    "price": 2
+  },
+  {
+    "id": 888,
+    "name": "Squash - Pattypan, Yellow",
+    "description": "Incomplete atypical femoral fracture, unspecified leg, init",
+    "category": "Framing (Wood)",
+    "price": 12
+  },
+  {
+    "id": 889,
+    "name": "Steamers White",
+    "description": "Glasgow coma scale, total score",
+    "category": "Granite Surfaces",
+    "price": 2
+  },
+  {
+    "id": 890,
+    "name": "Raisin - Dark",
+    "description": "Unsp fracture of left patella, subs for clos fx w nonunion",
+    "category": "Electrical",
+    "price": 44
+  },
+  {
+    "id": 891,
+    "name": "Cod - Black Whole Fillet",
+    "description": "Malignant otitis externa, right ear",
+    "category": "Wall Protection",
+    "price": 3
+  },
+  {
+    "id": 892,
+    "name": "Beef Wellington",
+    "description": "Epidural hemorrhage w/o loss of consciousness, subs encntr",
+    "category": "Wall Protection",
+    "price": 13
+  },
+  {
+    "id": 893,
+    "name": "Cod - Fillets",
+    "description": "Unsp inj musc/tend at lower leg level, left leg, sequela",
+    "category": "Ornamental Railings",
+    "price": 35
+  },
+  {
+    "id": 894,
+    "name": "Cookie Double Choco",
+    "description": "Otosclerosis involving oval window, obliterative, left ear",
+    "category": "Construction Clean and Final Clean",
+    "price": 47
+  },
+  {
+    "id": 895,
+    "name": "Milk 2% 500 Ml",
+    "description": "Unspecified viral infection of central nervous system",
+    "category": "Site Furnishings",
+    "price": 25
+  },
+  {
+    "id": 896,
+    "name": "Coffee - Flavoured",
+    "description": "Complete traumatic MCP amputation of left middle finger",
+    "category": "EIFS",
+    "price": 26
+  },
+  {
+    "id": 897,
+    "name": "Table Cloth 62x120 Colour",
+    "description": "Disp fx (avulsion) of medial epicondyle of l humerus, init",
+    "category": "Site Furnishings",
+    "price": 61
+  },
+  {
+    "id": 898,
+    "name": "Rum - Mount Gay Eclipes",
+    "description": "Colles' fracture of left radius, subs for clos fx w nonunion",
+    "category": "Structural & Misc Steel Erection",
+    "price": 64
+  },
+  {
+    "id": 899,
+    "name": "Carbonated Water - Cherry",
+    "description": "Other and unspecified superficial injuries of breast",
+    "category": "Drilled Shafts",
+    "price": 38
+  },
+  {
+    "id": 900,
+    "name": "Browning Caramel Glace",
+    "description": "Sprain of unspecified parts of thorax",
+    "category": "Site Furnishings",
+    "price": 51
+  },
+  {
+    "id": 901,
+    "name": "Potatoes - Purple, Organic",
+    "description": "Unspecified injury of bronchus, unilateral, sequela",
+    "category": "Site Furnishings",
+    "price": 33
+  },
+  {
+    "id": 902,
+    "name": "Lamb Tenderloin Nz Fr",
+    "description": "Abn lev substnc nonmed source in specmn from male gntl org",
+    "category": "RF Shielding",
+    "price": 96
+  },
+  {
+    "id": 903,
+    "name": "Green Scrubbie Pad H.duty",
+    "description": "Malignant neoplasm of cheek mucosa",
+    "category": "Soft Flooring and Base",
+    "price": 26
+  },
+  {
+    "id": 904,
+    "name": "Pineapple - Golden",
+    "description": "Unsp opn wnd abd wall, left low q w/o penet perit cav, init",
+    "category": "Electrical",
+    "price": 63
+  },
+  {
+    "id": 905,
+    "name": "Puree - Passion Fruit",
+    "description": "Toxic effect of venom of bees, assault, sequela",
+    "category": "HVAC",
+    "price": 53
+  },
+  {
+    "id": 906,
+    "name": "Tea - Decaf 1 Cup",
+    "description": "Sarcoidosis of skin",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 14
+  },
+  {
+    "id": 907,
+    "name": "Bread - Petit Baguette",
+    "description": "Fracture of lunate [semilunar]",
+    "category": "Plumbing & Medical Gas",
+    "price": 21
+  },
+  {
+    "id": 908,
+    "name": "Cookie - Oreo 100x2",
+    "description": "Displaced transverse fracture of shaft of unsp ulna, init",
+    "category": "Sitework & Site Utilities",
+    "price": 98
+  },
+  {
+    "id": 909,
+    "name": "Coffee - Frthy Coffee Crisp",
+    "description": "Toxic effect of substances, accidental, sequela",
+    "category": "Waterproofing & Caulking",
+    "price": 95
+  },
+  {
+    "id": 910,
+    "name": "Cardamon Ground",
+    "description": "Nondisp fx of shaft of unsp clavicle, init for opn fx",
+    "category": "Roofing (Metal)",
+    "price": 48
+  },
+  {
+    "id": 911,
+    "name": "Napkin White - Starched",
+    "description": "Car driver injured in collision w hv veh nontraf",
+    "category": "Structural & Misc Steel Erection",
+    "price": 25
+  },
+  {
+    "id": 912,
+    "name": "Ice Cream Bar - Hageen Daz To",
+    "description": "Person outside pk-up/van injured in clsn w ped/anml in traf",
+    "category": "Construction Clean and Final Clean",
+    "price": 40
+  },
+  {
+    "id": 913,
+    "name": "Red Currant Jelly",
+    "description": "Inj intrinsic msl/tnd at ank/ft level, right foot, init",
+    "category": "Wall Protection",
+    "price": 38
+  },
+  {
+    "id": 914,
+    "name": "Wine - Sicilia Igt Nero Avola",
+    "description": "Insect bite (nonvenomous) of left front wall of thorax, subs",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 11
+  },
+  {
+    "id": 915,
+    "name": "Aspic - Amber",
+    "description": "Labyrinthine dysfunction, unspecified ear",
+    "category": "Electrical",
+    "price": 6
+  },
+  {
+    "id": 916,
+    "name": "Coffee Swiss Choc Almond",
+    "description": "Underdosing of unsp agents primarily affecting the GI sys",
+    "category": "Asphalt Paving",
+    "price": 77
+  },
+  {
+    "id": 917,
+    "name": "Beans - Yellow",
+    "description": "Hydrops fetalis due to hemolytic disease",
+    "category": "RF Shielding",
+    "price": 17
+  },
+  {
+    "id": 918,
+    "name": "Melon - Watermelon Yellow",
+    "description": "Complication of artery following a procedure, NEC",
+    "category": "Site Furnishings",
+    "price": 84
+  },
+  {
+    "id": 919,
+    "name": "Beets - Mini Golden",
+    "description": "Partial traumatic amputation of unsp midfoot, subs encntr",
+    "category": "Roofing (Metal)",
+    "price": 26
+  },
+  {
+    "id": 920,
+    "name": "Lettuce - Mini Greens, Whole",
+    "description": "Laceration w fb of r little finger w/o damage to nail",
+    "category": "RF Shielding",
+    "price": 29
+  },
+  {
+    "id": 921,
+    "name": "Yeast - Fresh, Fleischman",
+    "description": "Exposure to sofa fire due to burning cigarette, init encntr",
+    "category": "Retaining Wall and Brick Pavers",
+    "price": 44
+  },
+  {
+    "id": 922,
+    "name": "Sauce - Black Current, Dry Mix",
+    "description": "Unsp inj unsp musc/fasc/tend at forarm lv, left arm, sequela",
+    "category": "Electrical and Fire Alarm",
+    "price": 100
+  },
+  {
+    "id": 923,
+    "name": "Water - Spring 1.5lit",
+    "description": "Nondisp fx of r tibial tuberosity, 7thM",
+    "category": "Masonry",
+    "price": 29
+  },
+  {
+    "id": 924,
+    "name": "Juice - Orange, 341 Ml",
+    "description": "Benign neoplasm of mesothelial tissue of peritoneum",
+    "category": "Structural & Misc Steel Erection",
+    "price": 57
+  },
+  {
+    "id": 925,
+    "name": "Sour Cream",
+    "description": "Subluxation and dislocation of L2/L3 lumbar vertebra",
+    "category": "Epoxy Flooring",
+    "price": 4
+  },
+  {
+    "id": 926,
+    "name": "Skirt - 29 Foot",
+    "description": "Inj oth blood vessels at hip and thigh level, unsp leg, init",
+    "category": "Sitework & Site Utilities",
+    "price": 66
+  },
+  {
+    "id": 927,
+    "name": "Cookie - Dough Variety",
+    "description": "Dislocation of other parts of right shoulder girdle",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 24
+  },
+  {
+    "id": 928,
+    "name": "Lamb - Sausage Casings",
+    "description": "Laceration without foreign body, left lower leg, subs encntr",
+    "category": "Waterproofing & Caulking",
+    "price": 24
+  },
+  {
+    "id": 929,
+    "name": "Sauce - Rosee",
+    "description": "Unsp nondisp fx of 1st cervcal vert, subs for fx w nonunion",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "price": 89
+  },
+  {
+    "id": 930,
+    "name": "Thyme - Dried",
+    "description": "Ghost vessels (corneal), unspecified eye",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 39
+  },
+  {
+    "id": 931,
+    "name": "Pan Grease",
+    "description": "Neoplasm of uncertain behavior of unspecified ureter",
+    "category": "Overhead Doors",
+    "price": 32
+  },
+  {
+    "id": 932,
+    "name": "Coconut - Shredded, Unsweet",
+    "description": "Histiocytic sarcoma",
+    "category": "Masonry & Precast",
+    "price": 79
+  },
+  {
+    "id": 933,
+    "name": "Lamb Rack - Ontario",
+    "description": "War operations involving oth conventl warfare, milt, subs",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 67
+  },
+  {
+    "id": 934,
+    "name": "Mushroom - Morel Frozen",
+    "description": "Unspecified open wound, left ankle, subsequent encounter",
+    "category": "Overhead Doors",
+    "price": 10
+  },
+  {
+    "id": 935,
+    "name": "Mace Ground",
+    "description": "Myasthenia gravis without (acute) exacerbation",
+    "category": "Doors, Frames & Hardware",
+    "price": 74
+  },
+  {
+    "id": 936,
+    "name": "Wine - Zinfandel Rosenblum",
+    "description": "Other spontaneous disruption of capsular ligament of knee",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 70
+  },
+  {
+    "id": 937,
+    "name": "Bread - Burger",
+    "description": "Aggressive periodontitis, generalized, moderate",
+    "category": "Exterior Signage",
+    "price": 47
+  },
+  {
+    "id": 938,
+    "name": "Chutney Sauce",
+    "description": "Recurrent dislocation, right finger",
+    "category": "Sitework & Site Utilities",
+    "price": 94
+  },
+  {
+    "id": 939,
+    "name": "Chives - Fresh",
+    "description": "Juvenile idiopathic scoliosis, cervicothoracic region",
+    "category": "Fire Sprinkler System",
+    "price": 90
+  },
+  {
+    "id": 940,
+    "name": "Gatorade - Xfactor Berry",
+    "description": "Physeal arrest, femur, unspecified",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 79
+  },
+  {
+    "id": 941,
+    "name": "Creme De Cacao White",
+    "description": "Open bite of abd wall, periumb rgn w/o penet perit cav, init",
+    "category": "Soft Flooring and Base",
+    "price": 9
+  },
+  {
+    "id": 942,
+    "name": "Bread - Corn Muffaleta Onion",
+    "description": "Complications of stem cell transplant",
+    "category": "Sitework & Site Utilities",
+    "price": 13
+  },
+  {
+    "id": 943,
+    "name": "Towels - Paper / Kraft",
+    "description": "Synovial hypertrophy, not elsewhere classified, forearm",
+    "category": "Plumbing & Medical Gas",
+    "price": 19
+  },
+  {
+    "id": 944,
+    "name": "Energy Drink - Redbull 355ml",
+    "description": "Chronic postrheumatic arthropathy [Jaccoud], right knee",
+    "category": "HVAC",
+    "price": 78
+  },
+  {
+    "id": 945,
+    "name": "Soap - Pine Sol Floor Cleaner",
+    "description": "Encounter for pregnancy test, result negative",
+    "category": "Exterior Signage",
+    "price": 61
+  },
+  {
+    "id": 946,
+    "name": "Crush - Cream Soda",
+    "description": "Poisoning by cannabis (derivatives), intentional self-harm",
+    "category": "Overhead Doors",
+    "price": 19
+  },
+  {
+    "id": 947,
+    "name": "Bread Base - Toscano",
+    "description": "Open bite of upper arm",
+    "category": "Landscaping & Irrigation",
+    "price": 60
+  },
+  {
+    "id": 948,
+    "name": "Sproutsmustard Cress",
+    "description": "Other fracture of left lesser toe(s), sequela",
+    "category": "Casework",
+    "price": 3
+  },
+  {
+    "id": 949,
+    "name": "Bread - 10 Grain Parisian",
+    "description": "Unsp injury of oth blood vessels at forearm level, left arm",
+    "category": "RF Shielding",
+    "price": 20
+  },
+  {
+    "id": 950,
+    "name": "Chocolate Bar - Coffee Crisp",
+    "description": "Encntr for mental hlth serv for perp of spous or prtnr abuse",
+    "category": "Curb & Gutter",
+    "price": 32
+  },
+  {
+    "id": 951,
+    "name": "Ham - Black Forest",
+    "description": "Nondisp seg fx shaft of ulna, unsp arm, 7thQ",
+    "category": "Construction Clean and Final Clean",
+    "price": 79
+  },
+  {
+    "id": 952,
+    "name": "Pepper - Red Thai",
+    "description": "Strain extn musc/fasc/tend l little fngr at wrs/hnd lv, init",
+    "category": "Curb & Gutter",
+    "price": 40
+  },
+  {
+    "id": 953,
+    "name": "Duck - Fat",
+    "description": "Laceration with foreign body of unspecified ear, sequela",
+    "category": "Ornamental Railings",
+    "price": 3
+  },
+  {
+    "id": 954,
+    "name": "Steampan - Half Size Shallow",
+    "description": "Sprain of interphalangeal joint of right little finger, subs",
+    "category": "Epoxy Flooring",
+    "price": 90
+  },
+  {
+    "id": 955,
+    "name": "Soup - Knorr, Ministrone",
+    "description": "Other schizophrenia",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 60
+  },
+  {
+    "id": 956,
+    "name": "Wine - Ruffino Chianti",
+    "description": "Post disp fx of sternal end r clavicle, 7thK",
+    "category": "Doors, Frames & Hardware",
+    "price": 85
+  },
+  {
+    "id": 957,
+    "name": "Pate - Cognac",
+    "description": "Salter-Harris Type II physeal fracture of l calcaneus, 7thD",
+    "category": "Drilled Shafts",
+    "price": 20
+  },
+  {
+    "id": 958,
+    "name": "Mushroom - Crimini",
+    "description": "Secondary hyperaldosteronism",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 100
+  },
+  {
+    "id": 959,
+    "name": "Chocolate - Milk",
+    "description": "Pnctr w/o fb of unsp external genital organs, female, subs",
+    "category": "Exterior Signage",
+    "price": 77
+  },
+  {
+    "id": 960,
+    "name": "Doilies - 7, Paper",
+    "description": "Unsp inj flxr musc/fasc/tend r mid fngr at wrs/hnd lv, init",
+    "category": "Roofing (Asphalt)",
+    "price": 14
+  },
+  {
+    "id": 961,
+    "name": "Persimmons",
+    "description": "Zygomatic fracture, unspecified side, 7thK",
+    "category": "Glass & Glazing",
+    "price": 68
+  },
+  {
+    "id": 962,
+    "name": "Kahlua",
+    "description": "Toxic effect of tobacco cigarettes, intentional self-harm",
+    "category": "Plumbing & Medical Gas",
+    "price": 71
+  },
+  {
+    "id": 963,
+    "name": "Lychee - Canned",
+    "description": "Inj branches of celiac and mesenteric artery, init encntr",
+    "category": "Framing (Steel)",
+    "price": 2
+  },
+  {
+    "id": 964,
+    "name": "Seedlings - Buckwheat, Organic",
+    "description": "Type 1 diabetes mellitus with oth circulatory complications",
+    "category": "Prefabricated Aluminum Metal Canopies",
+    "price": 28
+  },
+  {
+    "id": 965,
+    "name": "Coffee - Decaffeinato Coffee",
+    "description": "Monoarthritis, not elsewhere classified, unspecified wrist",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 78
+  },
+  {
+    "id": 966,
+    "name": "Wine - Casillero Del Diablo",
+    "description": "Inj muscle, fascia and tendon at neck level, subs encntr",
+    "category": "Rebar & Wire Mesh Install",
+    "price": 29
+  },
+  {
+    "id": 967,
+    "name": "Creme De Menth - White",
+    "description": "Nondisp fx of body of right talus, subs for fx w routn heal",
+    "category": "Doors, Frames & Hardware",
+    "price": 9
+  },
+  {
+    "id": 968,
+    "name": "Wine - Saint Emilion Calvet",
+    "description": "Unsp trochan fx left femur, init for opn fx type 3A/B/C",
+    "category": "Fire Protection",
+    "price": 16
+  },
+  {
+    "id": 969,
+    "name": "Cheese - Parmigiano Reggiano",
+    "description": "Neoplasm of uncertain behavior of other respiratory organs",
+    "category": "Masonry",
+    "price": 16
+  },
+  {
+    "id": 970,
+    "name": "Cheese - Victor Et Berthold",
+    "description": "Crushed by crocodile, sequela",
+    "category": "Asphalt Paving",
+    "price": 20
+  },
+  {
+    "id": 971,
+    "name": "Soup - Campbells, Cream Of",
+    "description": "Stress fracture, left humerus, subs for fx w nonunion",
+    "category": "Structural & Misc Steel Erection",
+    "price": 52
+  },
+  {
+    "id": 972,
+    "name": "Pail - 4l White, With Handle",
+    "description": "Disp fx of dist pole of navic bone of unsp wrs, 7thK",
+    "category": "Granite Surfaces",
+    "price": 69
+  },
+  {
+    "id": 973,
+    "name": "Puree - Strawberry",
+    "description": "Crushing injury of penis, initial encounter",
+    "category": "Epoxy Flooring",
+    "price": 25
+  },
+  {
+    "id": 974,
+    "name": "Cabbage - Nappa",
+    "description": "Corrosion of third degree of unspecified axilla, init encntr",
+    "category": "Drilled Shafts",
+    "price": 11
+  },
+  {
+    "id": 975,
+    "name": "Steampan - Foil",
+    "description": "Medial dislocation of proximal end of tibia, left knee, init",
+    "category": "Construction Clean and Final Clean",
+    "price": 89
+  },
+  {
+    "id": 976,
+    "name": "Cassis",
+    "description": "Nondisp fx of base of MC bone, subs for fx w nonunion",
+    "category": "Roofing (Metal)",
+    "price": 13
+  },
+  {
+    "id": 977,
+    "name": "Milk - Homo",
+    "description": "Subsequent STEMI of inferior wall",
+    "category": "Drywall & Acoustical (MOB)",
+    "price": 74
+  },
+  {
+    "id": 978,
+    "name": "Beans - Black Bean, Preserved",
+    "description": "Burn of first degree of back of unsp hand, subs encntr",
+    "category": "Wall Protection",
+    "price": 89
+  },
+  {
+    "id": 979,
+    "name": "Appetizer - Spring Roll, Veg",
+    "description": "Unsp fracture of the lower end of right radius, init",
+    "category": "Fire Sprinkler System",
+    "price": 13
+  },
+  {
+    "id": 980,
+    "name": "Sauce - Hoisin",
+    "description": "Other specified pulmonary heart diseases",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 5
+  },
+  {
+    "id": 981,
+    "name": "Napkin - Cocktail,beige 2 - Ply",
+    "description": "Greenstick fracture of shaft of unsp ulna, init for clos fx",
+    "category": "Overhead Doors",
+    "price": 96
+  },
+  {
+    "id": 982,
+    "name": "Butter Balls Salted",
+    "description": "Nondisp transverse fx shaft of l ulna, 7thM",
+    "category": "Casework",
+    "price": 52
+  },
+  {
+    "id": 983,
+    "name": "Chinese Foods - Cantonese",
+    "description": "Deficiency of other nutrient elements",
+    "category": "Overhead Doors",
+    "price": 87
+  },
+  {
+    "id": 984,
+    "name": "Berry Brulee",
+    "description": "Other chronic nonsuppurative otitis media, bilateral",
+    "category": "Construction Clean and Final Clean",
+    "price": 67
+  },
+  {
+    "id": 985,
+    "name": "Lobster - Base",
+    "description": "X-linked adrenoleukodystrophy, unspecified type",
+    "category": "Drywall & Acoustical (FED)",
+    "price": 39
+  },
+  {
+    "id": 986,
+    "name": "Lamb - Shoulder, Boneless",
+    "description": "Multiple perforations of tympanic membrane",
+    "category": "Exterior Signage",
+    "price": 49
+  },
+  {
+    "id": 987,
+    "name": "Dried Apple",
+    "description": "Major laceration of right carotid artery, initial encounter",
+    "category": "Structural & Misc Steel Erection",
+    "price": 30
+  },
+  {
+    "id": 988,
+    "name": "Tray - Foam, Square 4 - S",
+    "description": "External constriction, right great toe, sequela",
+    "category": "Masonry & Precast",
+    "price": 28
+  },
+  {
+    "id": 989,
+    "name": "Chips - Potato Jalapeno",
+    "description": "Nondisp commnt fx shaft of rad, unsp arm, 7thJ",
+    "category": "Construction Clean and Final Clean",
+    "price": 44
+  },
+  {
+    "id": 990,
+    "name": "Soup - French Onion, Dry",
+    "description": "Nondisplaced fracture of capitate bone, right wrist, sequela",
+    "category": "HVAC",
+    "price": 52
+  },
+  {
+    "id": 991,
+    "name": "Paper Towel Touchless",
+    "description": "Prsn outsd pk-up/van inj in clsn w rail trn/veh in traf,sqla",
+    "category": "Electrical and Fire Alarm",
+    "price": 98
+  },
+  {
+    "id": 992,
+    "name": "Wine - Niagara Peninsula Vqa",
+    "description": "Contusion of eyeball and orbital tissues, unspecified eye",
+    "category": "Asphalt Paving",
+    "price": 75
+  },
+  {
+    "id": 993,
+    "name": "Wine - Fat Bastard Merlot",
+    "description": "Oth extrartic fx low end l rad, init for opn fx type 3A/B/C",
+    "category": "Landscaping & Irrigation",
+    "price": 38
+  },
+  {
+    "id": 994,
+    "name": "Higashimaru Usukuchi Soy",
+    "description": "Displaced unsp fx left great toe, subs for fx w routn heal",
+    "category": "Fire Sprinkler System",
+    "price": 75
+  },
+  {
+    "id": 995,
+    "name": "Cheese - Cheddar, Old White",
+    "description": "Unsp disp fx of surg nk of l humer, subs for fx w routn heal",
+    "category": "Painting & Vinyl Wall Covering",
+    "price": 4
+  },
+  {
+    "id": 996,
+    "name": "Bag - Bread, White, Plain",
+    "description": "Exposure to ignition of plastic jewelry, initial encounter",
+    "category": "Roofing (Asphalt)",
+    "price": 23
+  },
+  {
+    "id": 997,
+    "name": "Pork - Loin, Bone - In",
+    "description": "Mtrcy driver injured in clsn w rail trn/veh nontraf, subs",
+    "category": "Waterproofing & Caulking",
+    "price": 79
+  },
+  {
+    "id": 998,
+    "name": "Sauce Bbq Smokey",
+    "description": "Poisoning by therapeutic gases, accidental, sequela",
+    "category": "Elevator",
+    "price": 50
+  },
+  {
+    "id": 999,
+    "name": "Wine - White, Antinore Orvieto",
+    "description": "Person on outside of dune buggy injured nontraf, init",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "price": 33
+  },
+  {
+    "id": 1000,
+    "name": "Soup Campbells",
+    "description": "Injury of optic nerve, left eye, sequela",
+    "category": "Asphalt Paving",
+    "price": 55
+  }
+]
